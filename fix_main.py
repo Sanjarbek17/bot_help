@@ -3,24 +3,6 @@ from pynput import mouse, keyboard
 from pynput.mouse import Controller
 import subprocess
 import time
-import logging
-
-# Configure logging
-logging.basicConfig(
-    level=logging.DEBUG,
-    format="%(asctime)s - %(levelname)s - %(message)s",
-    filename="debug.log",
-    filemode="a",
-)
-
-DEBUG = True  # Set to False to disable debug output
-
-
-def debug_print(message):
-    if DEBUG:
-        print(message)
-        logging.debug(message)
-
 
 TEXT_FILE_PATH = "kte.txt"  # ⬅️ Set your file path here
 
@@ -33,12 +15,10 @@ def get_clipboard_text():
 
 
 def search_in_file(keyword, context=8):  # Shows 8 lines after the match
-    debug_print(f"Searching for keyword: {keyword}")
     matches = []
     try:
         with open(TEXT_FILE_PATH, "r", encoding="utf-8") as f:
             lines = f.readlines()
-        debug_print(f"Read {len(lines)} lines from file")
         for i, line in enumerate(lines):
             if keyword.lower() in line.lower():
                 # Start from the matching line
@@ -47,15 +27,10 @@ def search_in_file(keyword, context=8):  # Shows 8 lines after the match
                 end = min(len(lines), i + context + 1)
                 snippet = "".join(lines[start:end]).strip()
                 matches.append(snippet)
-                debug_print(f"Found match at line {i+1}")
     except Exception as e:
-        error_msg = f"Error reading file: {e}"
-        debug_print(f"Error: {error_msg}")
-        matches.append(error_msg)
+        matches.append(f"Error reading file: {e}")
     if not matches:
-        debug_print("No matches found")
         matches.append(f"No results for: '{keyword}'")
-    debug_print(f"Total matches found: {len(matches)}")
     return matches
 
 
@@ -63,10 +38,8 @@ def show_popup(text_snippets):
     global current_popup, current_index, current_snippets
 
     if not text_snippets:
-        debug_print("No snippets to show")
         return
 
-    debug_print(f"Showing popup with {len(text_snippets)} snippets")
     current_snippets = text_snippets
     current_index = {"current": 0}
 
@@ -127,7 +100,6 @@ current_snippets = []
 def on_key_press(key):
     try:
         key_char = key.char if hasattr(key, "char") else str(key)
-        debug_print(f"Key pressed: {key_char}")
         if key_char in ["x", "X"]:
             if current_index["current"] < len(current_snippets) - 1:
                 current_index["current"] += 1
@@ -138,21 +110,16 @@ def on_key_press(key):
                     current_popup.label.config(
                         text=f"Match {current_index['current'] + 1} of {len(current_snippets)}\n\n{current_snippets[current_index['current']]}"
                     )
-                debug_print(f"Moved to next snippet: {current_index['current'] + 1}")
         elif key_char in ["z", "Z"]:
             if current_index["current"] > 0:
                 current_index["current"] -= 1
                 current_popup.label.config(
                     text=f"Match {current_index['current'] + 1} of {len(current_snippets)}\n\n{current_snippets[current_index['current']]}"
                 )
-                debug_print(
-                    f"Moved to previous snippet: {current_index['current'] + 1}"
-                )
         elif key_char == "Escape":
             current_popup.destroy()
-            debug_print("Popup closed with Escape key")
-    except Exception as e:
-        debug_print(f"Error handling key press: {e}")
+    except Exception:
+        pass
 
 
 # Start keyboard listener globally
@@ -161,7 +128,6 @@ keyboard.Listener(on_press=on_key_press).start()
 
 def on_mouse_release(x, y, button, pressed):
     if not pressed:
-        debug_print(f"Mouse released at position ({x}, {y})")
         subprocess.run("pbcopy < /dev/null", shell=True)
         subprocess.run(
             'osascript -e \'tell application "System Events" to keystroke "c" using command down\'',
@@ -170,17 +136,13 @@ def on_mouse_release(x, y, button, pressed):
 
         time.sleep(0.2)
         selected_text = get_clipboard_text().strip()
-        debug_print(f"Selected text: {selected_text}")
 
         if selected_text:
             snippets = search_in_file(selected_text)
-            debug_print(f"Found {len(snippets)} snippets")
             root.after(0, lambda: show_popup(snippets))
-            debug_print("Showing popup")
             mouse_controller = Controller()
             mouse_controller.position = (x, y)
             mouse_controller.click(button)
-            debug_print("Mouse click simulated for deselection")
 
 
 # Create a root Tk instance (used only for scheduling)
