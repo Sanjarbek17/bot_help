@@ -6,6 +6,7 @@ import sys
 import os
 import subprocess
 import logging
+import ctypes
 
 
 # Global variables
@@ -251,6 +252,27 @@ def on_mouse_release(x, y, button, pressed):
                 show_popup(matches)
         except Exception as e:
             pass
+
+
+# Add a keyboard listener to stop the program when Ctrl+Q is pressed
+def on_key_press(key):
+    print("Key pressed:", key.name)
+    print(type(key.name))
+    global is_running
+    try:
+        if "\x11" == key:
+            print("Ctrl+Q pressed, stopping the program...")
+            is_running = False
+            print("Stopping the program...")
+            root.quit()
+            sys.exit(0)
+    except Exception as e:
+        pass
+
+
+keyboard_listener = keyboard.Listener(on_press=on_key_press)
+keyboard_listener.daemon = True
+keyboard_listener.start()
 
 
 if __name__ == "__main__":

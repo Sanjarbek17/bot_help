@@ -9,7 +9,7 @@ else
 fi
 
 # Convert fix_main.py to an executable
-pyinstaller --onefile main.py
+pyinstaller --onefile --noconsole main.py
 
 # Notify the user
 if [ $? -eq 0 ]; then
