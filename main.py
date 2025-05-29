@@ -1,22 +1,12 @@
 import tkinter as tk
 import pyperclip
 from pynput import mouse, keyboard
-import threading
 import time
 import sys
 import os
 import subprocess
 import logging
-import traceback
-from collections import deque
-from threading import Thread
 
-# Set up logging with more detailed formatting
-logging.basicConfig(
-    level=logging.DEBUG,
-    format="%(asctime)s - %(levelname)s - [%(threadName)s] - %(message)s",
-    handlers=[logging.FileHandler("debug.log"), logging.StreamHandler()],
-)
 
 # Global variables
 TEXT_FILE_PATH = "kte.txt"
@@ -39,12 +29,10 @@ sys.excepthook = handle_exception
 def check_accessibility_permissions():
     logging.info("Checking accessibility permissions...")
     if sys.platform != "darwin":  # Only check on macOS
-        logging.debug("Not on macOS, skipping permission check")
         return True
 
     try:
         # Try to create a mouse listener to test permissions
-        logging.debug("Testing mouse listener...")
         with mouse.Listener(on_click=lambda *args: None) as listener:
             logging.info("Accessibility permissions granted")
             return True
@@ -101,8 +89,7 @@ def check_accessibility_permissions():
         return False
 
 
-def search_in_file(keyword, context_lines=3):  # Reduced context lines
-    logging.debug(f"Searching for keyword: {keyword}")
+def search_in_file(keyword, context_lines=10):  # Reduced context lines tcp
     results = []
 
     try:
@@ -111,22 +98,19 @@ def search_in_file(keyword, context_lines=3):  # Reduced context lines
             return [f"Error: File {TEXT_FILE_PATH} not found"]
 
         with open(TEXT_FILE_PATH, "r", encoding="utf-8") as file:
-            # Use deque with maxlen for efficient ring buffer
-            context_buffer = deque(maxlen=context_lines * 2 + 1)
             line_num = 0
 
             for line in file:
-                context_buffer.append(line.strip())
-
-                if len(context_buffer) == context_lines * 2 + 1:
-                    if keyword.lower() in context_buffer[context_lines].lower():
-                        snippet = "\n".join(list(context_buffer))
-                        results.append(snippet)
-                        if len(results) >= MAX_RESULTS:  # Limit number of results
-                            logging.info(
-                                f"Reached maximum results limit ({MAX_RESULTS})"
-                            )
-                            break
+                if keyword.lower() in line.lower():
+                    snippet = line.strip()
+                    # Add additional lines after the match
+                    for _ in range(context_lines):
+                        next_line = next(file, None)
+                        if next_line:
+                            snippet += f"\n{next_line.strip()}"
+                    results.append(snippet)
+                    if len(results) >= MAX_RESULTS:  # Limit number of results
+                        break
                 line_num += 1
 
                 if line_num % 1000 == 0:  # Periodic garbage collection
@@ -138,27 +122,22 @@ def search_in_file(keyword, context_lines=3):  # Reduced context lines
         logging.error(f"Error reading file: {str(e)}")
         results.append(f"[Error reading file: {e}]")
 
-    logging.info(f"Found {len(results)} matches")
     return results if results else [f"No match found for: '{keyword}'"]
 
 
 def create_popup(text_list):
     global popup_window, current_index, root
-    logging.debug("Creating popup window")
 
     if not root:
-        logging.error("Root window is None, cannot create popup")
         return
 
     if not root.winfo_exists():
-        logging.error("Root window has been destroyed")
         return
 
     current_index = 0
 
     try:
         if popup_window and popup_window.winfo_exists():
-            logging.debug("Destroying existing popup")
             popup_window.destroy()
             del popup_window  # Explicitly delete old window
 
@@ -175,14 +154,12 @@ def create_popup(text_list):
         popup_window.attributes("-alpha", 0.9)  # Slight transparency
 
         def update_display():
-            logging.debug(f"Updating display to index {current_index}")
             for widget in popup_window.winfo_children():
                 if isinstance(widget, tk.Label):
                     widget.config(text=text_list[current_index])
 
         def on_key(event):
             global current_index
-            logging.debug(f"Key pressed: {event.keysym}")
             if event.keysym in ("Right", "x") and current_index < len(text_list) - 1:
                 current_index += 1
                 update_display()
@@ -190,59 +167,62 @@ def create_popup(text_list):
                 current_index -= 1
                 update_display()
             elif event.keysym == "Escape":
-                logging.debug("Closing popup (Escape pressed)")
                 popup_window.destroy()
 
         def on_move(x, y):
             try:
                 if popup_window and popup_window.winfo_exists():
-                    logging.debug(f"Mouse moved to ({x}, {y})")
-                    popup_window.destroy()
-                return False
+                    if not hasattr(on_move, "last_position"):
+                        on_move.last_position = (x, y)
+
+                    last_x, last_y = on_move.last_position
+                    if abs(x - last_x) > 5 or abs(y - last_y) > 5:
+                        popup_window.destroy()
+                        setattr(sys.modules[__name__], "popup_window", None)
+
+                    on_move.last_position = (x, y)
+                return True
             except Exception as e:
-                logging.error(f"Error in on_move: {str(e)}")
                 return False
 
         popup_window.bind("<Key>", on_key)
         popup_window.focus_force()
+        popup_window.config(bg="white")
+        popup_window.attributes("-transparentcolor", "white")
 
         label = tk.Label(
             popup_window,
             text=text_list[0],
             font=("Courier", 9),
-            bg="black",
-            fg="white",
+            bg="white",
+            fg="black",
             justify="left",
             anchor="nw",
             padx=3,
             pady=3,
-            wraplength=300,  # Smaller text wrap width
+            wraplength=300,
         )
         label.pack(fill=tk.BOTH, expand=True)
 
-        # Position window at the bottom center of the screen
         popup_window.update_idletasks()
         sw = popup_window.winfo_screenwidth()
         sh = popup_window.winfo_screenheight()
-        w = 300  # Width of the popup
-        h = 100  # Height of the popup
-        x = (sw // 2) - (w // 2)  # Center horizontally
-        y = sh - h - 40  # Position near the bottom
+        w = 300
+        h = 200
+        x = (sw // 2) - (w // 2)
+        y = sh - h - 100
         popup_window.geometry(f"{w}x{h}+{x}+{y}")
 
-        # Listen for mouse movement to close popup
         mouse_listener = mouse.Listener(on_move=on_move)
-        mouse_listener.daemon = True  # Make sure thread doesn't prevent program exit
+        mouse_listener.daemon = True
         mouse_listener.start()
 
-        logging.info("Popup window created successfully")
     except Exception as e:
-        logging.error(f"Error creating popup: {str(e)}\n{traceback.format_exc()}")
+        pass
 
 
 def show_popup(text_list):
     if root:
-        logging.debug("Scheduling popup creation")
         root.after(0, lambda: create_popup(text_list))
     else:
         logging.error("Root window not available")
@@ -250,7 +230,6 @@ def show_popup(text_list):
 
 def on_mouse_release(x, y, button, pressed):
     if not pressed and is_running:
-        logging.debug(f"Mouse released at ({x}, {y})")
         try:
             kb = keyboard.Controller()
             with kb.pressed(keyboard.Key.ctrl):
@@ -261,10 +240,7 @@ def on_mouse_release(x, y, button, pressed):
             selected = pyperclip.paste().strip()
 
             if not selected:
-                logging.debug("No text selected")
                 return
-
-            logging.debug(f"Selected text: {selected[:50]}...")
 
             global last_text
             if selected and selected != last_text:
@@ -272,16 +248,12 @@ def on_mouse_release(x, y, button, pressed):
                 matches = search_in_file(selected)
                 show_popup(matches)
         except Exception as e:
-            logging.error(
-                f"Error handling mouse release: {str(e)}\n{traceback.format_exc()}"
-            )
+            pass
 
 
 if __name__ == "__main__":
-    logging.info("Starting application...")
     try:
         if not check_accessibility_permissions():
-            logging.error("Permission check failed")
             sys.exit(1)
 
         root = tk.Tk()
@@ -292,30 +264,22 @@ if __name__ == "__main__":
                 root.destroy(),
             ),
         )
-        root.withdraw()  # Hide the main window
-        logging.debug("Root window created and hidden")
+        root.withdraw()
 
-        # Start mouse listener
         mouse_listener = mouse.Listener(on_click=on_mouse_release)
-        mouse_listener.daemon = True  # Make sure thread doesn't prevent program exit
+        mouse_listener.daemon = True
         mouse_listener.start()
-        logging.info("Mouse listener started")
 
-        # Keep checking if we should continue running
         def check_running():
             if is_running and root.winfo_exists():
                 root.after(1000, check_running)
             else:
-                logging.info("Application stopping...")
                 root.quit()
 
         root.after(1000, check_running)
-
-        logging.info("Entering main loop")
         root.mainloop()
 
     except Exception as e:
-        logging.critical(f"Critical error: {str(e)}\n{traceback.format_exc()}")
         sys.exit(1)
     finally:
-        logging.info("Application terminated")
+        pass
