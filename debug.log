@@ -1,0 +1,91 @@
+2025-05-29 09:57:54,099 - INFO - Starting application...
+2025-05-29 09:57:54,099 - INFO - Checking accessibility permissions...
+2025-05-29 09:57:54,099 - DEBUG - Testing mouse listener...
+2025-05-29 09:57:54,164 - INFO - Accessibility permissions granted
+2025-05-29 09:57:54,351 - DEBUG - Root window created and hidden
+2025-05-29 09:57:54,351 - INFO - Mouse listener started
+2025-05-29 09:57:54,351 - INFO - Entering main loop
+2025-05-29 09:58:03,927 - DEBUG - Mouse released at (411.7578125, 519.28125)
+2025-05-29 09:58:04,140 - DEBUG - Selected text: Kompyuter tarmoqlari Hemisga Test (250 ta).txt...
+2025-05-29 09:58:04,141 - DEBUG - Searching for keyword: Kompyuter tarmoqlari Hemisga Test (250 ta).txt
+2025-05-29 09:58:04,142 - DEBUG - Read 2760 lines from file
+2025-05-29 09:58:04,144 - INFO - Found 0 matches
+2025-05-29 09:58:04,144 - DEBUG - Scheduling popup creation
+2025-05-29 09:58:04,145 - DEBUG - Creating popup window
+2025-05-29 09:58:04,217 - DEBUG - Mouse released at (411.7578125, 519.28125)
+2025-05-29 09:58:04,221 - INFO - Popup window created successfully
+2025-05-29 09:58:04,324 - DEBUG - Selected text: Kompyuter tarmoqlari Hemisga Test (250 ta).txt...
+2025-05-29 09:58:04,530 - DEBUG - Mouse moved to (412.44921875, 519.28125)
+2025-05-29 09:58:06,060 - DEBUG - Mouse released at (278.64453125, 495.5234375)
+2025-05-29 10:03:31,930 - INFO - [MainThread] - Starting application...
+2025-05-29 10:03:31,930 - INFO - [MainThread] - Checking accessibility permissions...
+2025-05-29 10:03:31,930 - DEBUG - [MainThread] - Testing mouse listener...
+2025-05-29 10:03:31,997 - INFO - [MainThread] - Accessibility permissions granted
+2025-05-29 10:03:32,223 - DEBUG - [MainThread] - Root window created and hidden
+2025-05-29 10:03:32,224 - INFO - [MainThread] - Mouse listener started
+2025-05-29 10:03:32,224 - INFO - [MainThread] - Entering main loop
+2025-05-29 10:03:39,577 - DEBUG - [Thread-2] - Mouse released at (122.05078125, 789.62890625)
+2025-05-29 10:03:39,761 - DEBUG - [Thread-2] - Selected text: Kompyuter tarmoqlari Hemisga Test (250 ta).txt...
+2025-05-29 10:03:39,761 - DEBUG - [Thread-2] - Searching for keyword: Kompyuter tarmoqlari Hemisga Test (250 ta).txt
+2025-05-29 10:03:39,763 - DEBUG - [Thread-2] - Read 2760 lines from file
+2025-05-29 10:03:39,764 - INFO - [Thread-2] - Found 0 matches
+2025-05-29 10:03:39,764 - DEBUG - [Thread-2] - Scheduling popup creation
+2025-05-29 10:03:39,795 - DEBUG - [MainThread] - Creating popup window
+2025-05-29 10:03:39,871 - INFO - [MainThread] - Popup window created successfully
+2025-05-29 10:03:39,874 - DEBUG - [Thread-3] - Mouse moved to (135.90625, 787.74609375)
+2025-05-29 10:03:42,995 - DEBUG - [Thread-2] - Mouse released at (22.4296875, 787.4609375)
+2025-05-29 10:05:49,845 - INFO - [MainThread] - Starting application...
+2025-05-29 10:05:49,845 - INFO - [MainThread] - Checking accessibility permissions...
+2025-05-29 10:05:49,845 - DEBUG - [MainThread] - Testing mouse listener...
+2025-05-29 10:05:49,911 - INFO - [MainThread] - Accessibility permissions granted
+2025-05-29 10:05:50,205 - DEBUG - [MainThread] - Root window created and hidden
+2025-05-29 10:05:50,206 - INFO - [MainThread] - Mouse listener started
+2025-05-29 10:05:50,206 - INFO - [MainThread] - Entering main loop
+2025-05-29 10:05:54,241 - DEBUG - [Thread-2] - Mouse released at (281.609375, 720.60546875)
+2025-05-29 10:05:54,491 - DEBUG - [Thread-2] - Selected text: Kompyuter tarmoqlari Hemisga Test (250 ta).txt...
+2025-05-29 10:05:54,491 - DEBUG - [Thread-2] - Searching for keyword: Kompyuter tarmoqlari Hemisga Test (250 ta).txt
+2025-05-29 10:05:54,493 - DEBUG - [Thread-2] - Read 2760 lines from file
+2025-05-29 10:05:54,495 - INFO - [Thread-2] - Found 0 matches
+2025-05-29 10:05:54,495 - DEBUG - [Thread-2] - Scheduling popup creation
+2025-05-29 10:05:54,496 - DEBUG - [MainThread] - Creating popup window
+2025-05-29 10:05:54,563 - INFO - [MainThread] - Popup window created successfully
+2025-05-29 10:05:54,597 - DEBUG - [Thread-3] - Mouse moved to (220.6875, 743.4921875)
+2025-05-29 10:05:55,773 - DEBUG - [Thread-2] - Mouse released at (58.30078125, 788.63671875)
+2025-05-29 10:10:07,474 - INFO - [MainThread] - Starting application...
+2025-05-29 10:10:07,474 - INFO - [MainThread] - Checking accessibility permissions...
+2025-05-29 10:10:07,474 - DEBUG - [MainThread] - Testing mouse listener...
+2025-05-29 10:10:07,561 - INFO - [MainThread] - Accessibility permissions granted
+2025-05-29 10:10:07,812 - DEBUG - [MainThread] - Root window created and hidden
+2025-05-29 10:10:07,812 - INFO - [MainThread] - Mouse listener started
+2025-05-29 10:10:07,812 - INFO - [MainThread] - Entering main loop
+2025-05-29 10:10:10,772 - DEBUG - [Thread-2] - Mouse released at (525.26953125, 156.28125)
+2025-05-29 10:10:10,941 - DEBUG - [Thread-2] - Selected text: VM Region Summary:
+ReadOnly portion of Libraries: ...
+2025-05-29 10:10:10,941 - DEBUG - [Thread-2] - Searching for keyword: VM Region Summary:
+ReadOnly portion of Libraries: Total=1.6G resident=0K(0%) swapped_out_or_unallocated=1.6G(100%)
+Writable regions: Total=1.4G written=723K(0%) resident=723K(0%) swapped_out=0K(0%) unallocated=1.4G(100%)
+2025-05-29 10:10:10,946 - INFO - [Thread-2] - Found 0 matches
+2025-05-29 10:10:10,947 - DEBUG - [Thread-2] - Scheduling popup creation
+2025-05-29 10:10:10,948 - DEBUG - [MainThread] - Creating popup window
+2025-05-29 10:10:11,001 - INFO - [MainThread] - Popup window created successfully
+2025-05-29 10:10:11,192 - DEBUG - [Thread-3] - Mouse moved to (524.8046875, 156.28125)
+2025-05-29 10:10:12,471 - DEBUG - [Thread-2] - Mouse released at (337.48828125, 462.4921875)
+2025-05-29 10:12:15,728 - INFO - [MainThread] - Starting application...
+2025-05-29 10:12:15,728 - INFO - [MainThread] - Checking accessibility permissions...
+2025-05-29 10:12:15,728 - DEBUG - [MainThread] - Testing mouse listener...
+2025-05-29 10:12:15,798 - INFO - [MainThread] - Accessibility permissions granted
+2025-05-29 10:12:15,988 - DEBUG - [MainThread] - Root window created and hidden
+2025-05-29 10:12:15,988 - INFO - [MainThread] - Mouse listener started
+2025-05-29 10:12:15,988 - INFO - [MainThread] - Entering main loop
+2025-05-29 10:12:19,771 - DEBUG - [Thread-2] - Mouse released at (45.65625, 789.6796875)
+2025-05-29 10:12:19,949 - DEBUG - [Thread-2] - Selected text: VM Region Summary:
+ReadOnly portion of Libraries: ...
+2025-05-29 10:12:19,949 - DEBUG - [Thread-2] - Searching for keyword: VM Region Summary:
+ReadOnly portion of Libraries: Total=1.6G resident=0K(0%) swapped_out_or_unallocated=1.6G(100%)
+Writable regions: Total=1.4G written=675K(0%) resident=675K(0%) swapped_out=0K(0%) unallocated=1.4G(100%)
+2025-05-29 10:12:19,967 - INFO - [Thread-2] - Found 0 matches
+2025-05-29 10:12:19,967 - DEBUG - [Thread-2] - Scheduling popup creation
+2025-05-29 10:12:19,968 - DEBUG - [MainThread] - Creating popup window
+2025-05-29 10:12:20,030 - INFO - [MainThread] - Popup window created successfully
+2025-05-29 10:12:20,060 - DEBUG - [Thread-3] - Mouse moved to (38.51171875, 789.9296875)
+2025-05-29 10:12:21,970 - DEBUG - [Thread-2] - Mouse released at (109.8203125, 790.30859375)
