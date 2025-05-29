@@ -172,9 +172,7 @@ def create_popup(text_list):
         )
         popup_window.overrideredirect(True)
         popup_window.attributes("-topmost", True)
-        popup_window.attributes(
-            "-alpha", 0.9
-        )  # Slight transparency to reduce GPU memory
+        popup_window.attributes("-alpha", 0.9)  # Slight transparency
 
         def update_display():
             logging.debug(f"Updating display to index {current_index}")
@@ -185,10 +183,10 @@ def create_popup(text_list):
         def on_key(event):
             global current_index
             logging.debug(f"Key pressed: {event.keysym}")
-            if event.keysym in ("Right", "n") and current_index < len(text_list) - 1:
+            if event.keysym in ("Right", "x") and current_index < len(text_list) - 1:
                 current_index += 1
                 update_display()
-            elif event.keysym in ("Left", "p") and current_index > 0:
+            elif event.keysym in ("Left", "z") and current_index > 0:
                 current_index -= 1
                 update_display()
             elif event.keysym == "Escape":
@@ -211,25 +209,25 @@ def create_popup(text_list):
         label = tk.Label(
             popup_window,
             text=text_list[0],
-            font=("Courier", 9),  # Even smaller font
+            font=("Courier", 9),
             bg="black",
             fg="white",
             justify="left",
             anchor="nw",
-            padx=3,  # Minimal padding
+            padx=3,
             pady=3,
             wraplength=300,  # Smaller text wrap width
         )
         label.pack(fill=tk.BOTH, expand=True)
 
-        # Position window - make it smaller and position at bottom right
+        # Position window at the bottom center of the screen
         popup_window.update_idletasks()
         sw = popup_window.winfo_screenwidth()
         sh = popup_window.winfo_screenheight()
-        w = 300  # Much smaller width
-        h = 100  # Much smaller height
-        x = sw - w - 20  # Position at right
-        y = sh - h - 40  # Position at bottom
+        w = 300  # Width of the popup
+        h = 100  # Height of the popup
+        x = (sw // 2) - (w // 2)  # Center horizontally
+        y = sh - h - 40  # Position near the bottom
         popup_window.geometry(f"{w}x{h}+{x}+{y}")
 
         # Listen for mouse movement to close popup
