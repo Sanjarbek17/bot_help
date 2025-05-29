@@ -89,3 +89,2689 @@ Writable regions: Total=1.4G written=675K(0%) resident=675K(0%) swapped_out=0K(0
 2025-05-29 10:12:20,030 - INFO - [MainThread] - Popup window created successfully
 2025-05-29 10:12:20,060 - DEBUG - [Thread-3] - Mouse moved to (38.51171875, 789.9296875)
 2025-05-29 10:12:21,970 - DEBUG - [Thread-2] - Mouse released at (109.8203125, 790.30859375)
+2025-05-29 15:00:37,624 - DEBUG - Mouse released at position (385.33984375, 659.34765625)
+2025-05-29 15:00:38,083 - DEBUG - Selected text: sathi
+2025-05-29 15:00:38,083 - DEBUG - Searching for keyword: sathi
+2025-05-29 15:00:38,086 - DEBUG - Read 2760 lines from file
+2025-05-29 15:00:38,086 - DEBUG - Found match at line 12
+2025-05-29 15:00:38,086 - DEBUG - Found match at line 14
+2025-05-29 15:00:38,086 - DEBUG - Found match at line 16
+2025-05-29 15:00:38,086 - DEBUG - Found match at line 18
+2025-05-29 15:00:38,086 - DEBUG - Found match at line 23
+2025-05-29 15:00:38,086 - DEBUG - Found match at line 25
+2025-05-29 15:00:38,086 - DEBUG - Found match at line 27
+2025-05-29 15:00:38,086 - DEBUG - Found match at line 29
+2025-05-29 15:00:38,086 - DEBUG - Found match at line 34
+2025-05-29 15:00:38,086 - DEBUG - Found match at line 36
+2025-05-29 15:00:38,086 - DEBUG - Found match at line 38
+2025-05-29 15:00:38,086 - DEBUG - Found match at line 40
+2025-05-29 15:00:38,086 - DEBUG - Found match at line 45
+2025-05-29 15:00:38,086 - DEBUG - Found match at line 47
+2025-05-29 15:00:38,086 - DEBUG - Found match at line 49
+2025-05-29 15:00:38,086 - DEBUG - Found match at line 51
+2025-05-29 15:00:38,087 - DEBUG - Found match at line 317
+2025-05-29 15:00:38,087 - DEBUG - Found match at line 419
+2025-05-29 15:00:38,087 - DEBUG - Found match at line 425
+2025-05-29 15:00:38,087 - DEBUG - Found match at line 427
+2025-05-29 15:00:38,087 - DEBUG - Found match at line 430
+2025-05-29 15:00:38,087 - DEBUG - Found match at line 434
+2025-05-29 15:00:38,087 - DEBUG - Found match at line 436
+2025-05-29 15:00:38,087 - DEBUG - Found match at line 443
+2025-05-29 15:00:38,087 - DEBUG - Found match at line 447
+2025-05-29 15:00:38,087 - DEBUG - Found match at line 449
+2025-05-29 15:00:38,087 - DEBUG - Found match at line 454
+2025-05-29 15:00:38,087 - DEBUG - Found match at line 458
+2025-05-29 15:00:38,087 - DEBUG - Found match at line 460
+2025-05-29 15:00:38,087 - DEBUG - Found match at line 727
+2025-05-29 15:00:38,087 - DEBUG - Found match at line 729
+2025-05-29 15:00:38,087 - DEBUG - Found match at line 731
+2025-05-29 15:00:38,087 - DEBUG - Found match at line 733
+2025-05-29 15:00:38,087 - DEBUG - Found match at line 735
+2025-05-29 15:00:38,087 - DEBUG - Found match at line 773
+2025-05-29 15:00:38,087 - DEBUG - Found match at line 925
+2025-05-29 15:00:38,087 - DEBUG - Found match at line 1277
+2025-05-29 15:00:38,087 - DEBUG - Found match at line 1279
+2025-05-29 15:00:38,087 - DEBUG - Found match at line 1283
+2025-05-29 15:00:38,087 - DEBUG - Found match at line 1285
+2025-05-29 15:00:38,087 - DEBUG - Found match at line 1288
+2025-05-29 15:00:38,087 - DEBUG - Found match at line 1290
+2025-05-29 15:00:38,088 - DEBUG - Found match at line 1296
+2025-05-29 15:00:38,088 - DEBUG - Found match at line 1299
+2025-05-29 15:00:38,088 - DEBUG - Found match at line 1303
+2025-05-29 15:00:38,088 - DEBUG - Found match at line 1305
+2025-05-29 15:00:38,088 - DEBUG - Found match at line 1307
+2025-05-29 15:00:38,088 - DEBUG - Found match at line 1310
+2025-05-29 15:00:38,088 - DEBUG - Found match at line 1312
+2025-05-29 15:00:38,088 - DEBUG - Found match at line 1314
+2025-05-29 15:00:38,088 - DEBUG - Found match at line 1318
+2025-05-29 15:00:38,088 - DEBUG - Found match at line 1321
+2025-05-29 15:00:38,088 - DEBUG - Found match at line 1323
+2025-05-29 15:00:38,088 - DEBUG - Found match at line 1327
+2025-05-29 15:00:38,088 - DEBUG - Found match at line 1329
+2025-05-29 15:00:38,088 - DEBUG - Found match at line 1332
+2025-05-29 15:00:38,088 - DEBUG - Found match at line 1334
+2025-05-29 15:00:38,088 - DEBUG - Found match at line 1338
+2025-05-29 15:00:38,088 - DEBUG - Found match at line 1340
+2025-05-29 15:00:38,088 - DEBUG - Found match at line 1343
+2025-05-29 15:00:38,088 - DEBUG - Found match at line 1347
+2025-05-29 15:00:38,088 - DEBUG - Found match at line 1349
+2025-05-29 15:00:38,088 - DEBUG - Found match at line 1351
+2025-05-29 15:00:38,088 - DEBUG - Found match at line 1365
+2025-05-29 15:00:38,088 - DEBUG - Found match at line 1376
+2025-05-29 15:00:38,088 - DEBUG - Found match at line 1387
+2025-05-29 15:00:38,088 - DEBUG - Found match at line 1391
+2025-05-29 15:00:38,088 - DEBUG - Found match at line 1393
+2025-05-29 15:00:38,088 - DEBUG - Found match at line 1395
+2025-05-29 15:00:38,088 - DEBUG - Found match at line 1398
+2025-05-29 15:00:38,088 - DEBUG - Found match at line 1400
+2025-05-29 15:00:38,088 - DEBUG - Found match at line 1402
+2025-05-29 15:00:38,088 - DEBUG - Found match at line 1406
+2025-05-29 15:00:38,088 - DEBUG - Found match at line 1409
+2025-05-29 15:00:38,088 - DEBUG - Found match at line 1413
+2025-05-29 15:00:38,088 - DEBUG - Found match at line 1415
+2025-05-29 15:00:38,088 - DEBUG - Found match at line 1420
+2025-05-29 15:00:38,089 - DEBUG - Found match at line 1431
+2025-05-29 15:00:38,089 - DEBUG - Found match at line 1442
+2025-05-29 15:00:38,089 - DEBUG - Found match at line 1464
+2025-05-29 15:00:38,089 - DEBUG - Found match at line 1475
+2025-05-29 15:00:38,089 - DEBUG - Found match at line 1486
+2025-05-29 15:00:38,089 - DEBUG - Found match at line 1497
+2025-05-29 15:00:38,089 - DEBUG - Found match at line 1508
+2025-05-29 15:00:38,089 - DEBUG - Found match at line 1519
+2025-05-29 15:00:38,089 - DEBUG - Found match at line 1530
+2025-05-29 15:00:38,089 - DEBUG - Found match at line 1532
+2025-05-29 15:00:38,089 - DEBUG - Found match at line 1536
+2025-05-29 15:00:38,089 - DEBUG - Found match at line 1538
+2025-05-29 15:00:38,089 - DEBUG - Found match at line 1541
+2025-05-29 15:00:38,089 - DEBUG - Found match at line 1543
+2025-05-29 15:00:38,089 - DEBUG - Found match at line 1545
+2025-05-29 15:00:38,089 - DEBUG - Found match at line 1547
+2025-05-29 15:00:38,089 - DEBUG - Found match at line 1549
+2025-05-29 15:00:38,089 - DEBUG - Found match at line 1552
+2025-05-29 15:00:38,089 - DEBUG - Found match at line 1554
+2025-05-29 15:00:38,089 - DEBUG - Found match at line 1556
+2025-05-29 15:00:38,089 - DEBUG - Found match at line 1558
+2025-05-29 15:00:38,089 - DEBUG - Found match at line 1560
+2025-05-29 15:00:38,089 - DEBUG - Found match at line 1563
+2025-05-29 15:00:38,089 - DEBUG - Found match at line 1565
+2025-05-29 15:00:38,089 - DEBUG - Found match at line 1567
+2025-05-29 15:00:38,089 - DEBUG - Found match at line 1569
+2025-05-29 15:00:38,089 - DEBUG - Found match at line 1571
+2025-05-29 15:00:38,089 - DEBUG - Found match at line 1574
+2025-05-29 15:00:38,089 - DEBUG - Found match at line 1585
+2025-05-29 15:00:38,089 - DEBUG - Found match at line 1607
+2025-05-29 15:00:38,089 - DEBUG - Found match at line 1618
+2025-05-29 15:00:38,089 - DEBUG - Found match at line 1728
+2025-05-29 15:00:38,090 - DEBUG - Total matches found: 109
+2025-05-29 15:00:38,090 - DEBUG - Found 109 snippets
+2025-05-29 15:00:38,090 - DEBUG - Showing popup
+2025-05-29 15:00:38,091 - DEBUG - Showing popup with 109 snippets
+2025-05-29 15:00:38,139 - DEBUG - Mouse click simulated for deselection
+2025-05-29 15:00:38,140 - DEBUG - Mouse released at position (385.33984375, 659.34765625)
+2025-05-29 15:00:38,535 - DEBUG - Selected text: sathi
+2025-05-29 15:00:38,535 - DEBUG - Searching for keyword: sathi
+2025-05-29 15:00:38,536 - DEBUG - Read 2760 lines from file
+2025-05-29 15:00:38,536 - DEBUG - Found match at line 12
+2025-05-29 15:00:38,536 - DEBUG - Found match at line 14
+2025-05-29 15:00:38,536 - DEBUG - Found match at line 16
+2025-05-29 15:00:38,536 - DEBUG - Found match at line 18
+2025-05-29 15:00:38,536 - DEBUG - Found match at line 23
+2025-05-29 15:00:38,537 - DEBUG - Found match at line 25
+2025-05-29 15:00:38,537 - DEBUG - Found match at line 27
+2025-05-29 15:00:38,537 - DEBUG - Found match at line 29
+2025-05-29 15:00:38,537 - DEBUG - Found match at line 34
+2025-05-29 15:00:38,537 - DEBUG - Found match at line 36
+2025-05-29 15:00:38,537 - DEBUG - Found match at line 38
+2025-05-29 15:00:38,537 - DEBUG - Found match at line 40
+2025-05-29 15:00:38,537 - DEBUG - Found match at line 45
+2025-05-29 15:00:38,537 - DEBUG - Found match at line 47
+2025-05-29 15:00:38,537 - DEBUG - Found match at line 49
+2025-05-29 15:00:38,537 - DEBUG - Found match at line 51
+2025-05-29 15:00:38,537 - DEBUG - Found match at line 317
+2025-05-29 15:00:38,537 - DEBUG - Found match at line 419
+2025-05-29 15:00:38,537 - DEBUG - Found match at line 425
+2025-05-29 15:00:38,537 - DEBUG - Found match at line 427
+2025-05-29 15:00:38,537 - DEBUG - Found match at line 430
+2025-05-29 15:00:38,537 - DEBUG - Found match at line 434
+2025-05-29 15:00:38,537 - DEBUG - Found match at line 436
+2025-05-29 15:00:38,537 - DEBUG - Found match at line 443
+2025-05-29 15:00:38,537 - DEBUG - Found match at line 447
+2025-05-29 15:00:38,537 - DEBUG - Found match at line 449
+2025-05-29 15:00:38,537 - DEBUG - Found match at line 454
+2025-05-29 15:00:38,537 - DEBUG - Found match at line 458
+2025-05-29 15:00:38,537 - DEBUG - Found match at line 460
+2025-05-29 15:00:38,537 - DEBUG - Found match at line 727
+2025-05-29 15:00:38,537 - DEBUG - Found match at line 729
+2025-05-29 15:00:38,537 - DEBUG - Found match at line 731
+2025-05-29 15:00:38,537 - DEBUG - Found match at line 733
+2025-05-29 15:00:38,537 - DEBUG - Found match at line 735
+2025-05-29 15:00:38,537 - DEBUG - Found match at line 773
+2025-05-29 15:00:38,537 - DEBUG - Found match at line 925
+2025-05-29 15:00:38,538 - DEBUG - Found match at line 1277
+2025-05-29 15:00:38,538 - DEBUG - Found match at line 1279
+2025-05-29 15:00:38,538 - DEBUG - Found match at line 1283
+2025-05-29 15:00:38,538 - DEBUG - Found match at line 1285
+2025-05-29 15:00:38,538 - DEBUG - Found match at line 1288
+2025-05-29 15:00:38,538 - DEBUG - Found match at line 1290
+2025-05-29 15:00:38,538 - DEBUG - Found match at line 1296
+2025-05-29 15:00:38,538 - DEBUG - Found match at line 1299
+2025-05-29 15:00:38,538 - DEBUG - Found match at line 1303
+2025-05-29 15:00:38,538 - DEBUG - Found match at line 1305
+2025-05-29 15:00:38,538 - DEBUG - Found match at line 1307
+2025-05-29 15:00:38,538 - DEBUG - Found match at line 1310
+2025-05-29 15:00:38,538 - DEBUG - Found match at line 1312
+2025-05-29 15:00:38,538 - DEBUG - Found match at line 1314
+2025-05-29 15:00:38,538 - DEBUG - Found match at line 1318
+2025-05-29 15:00:38,538 - DEBUG - Found match at line 1321
+2025-05-29 15:00:38,538 - DEBUG - Found match at line 1323
+2025-05-29 15:00:38,538 - DEBUG - Found match at line 1327
+2025-05-29 15:00:38,538 - DEBUG - Found match at line 1329
+2025-05-29 15:00:38,538 - DEBUG - Found match at line 1332
+2025-05-29 15:00:38,538 - DEBUG - Found match at line 1334
+2025-05-29 15:00:38,538 - DEBUG - Found match at line 1338
+2025-05-29 15:00:38,538 - DEBUG - Found match at line 1340
+2025-05-29 15:00:38,538 - DEBUG - Found match at line 1343
+2025-05-29 15:00:38,538 - DEBUG - Found match at line 1347
+2025-05-29 15:00:38,538 - DEBUG - Found match at line 1349
+2025-05-29 15:00:38,538 - DEBUG - Found match at line 1351
+2025-05-29 15:00:38,538 - DEBUG - Found match at line 1365
+2025-05-29 15:00:38,538 - DEBUG - Found match at line 1376
+2025-05-29 15:00:38,538 - DEBUG - Found match at line 1387
+2025-05-29 15:00:38,538 - DEBUG - Found match at line 1391
+2025-05-29 15:00:38,538 - DEBUG - Found match at line 1393
+2025-05-29 15:00:38,538 - DEBUG - Found match at line 1395
+2025-05-29 15:00:38,538 - DEBUG - Found match at line 1398
+2025-05-29 15:00:38,538 - DEBUG - Found match at line 1400
+2025-05-29 15:00:38,538 - DEBUG - Found match at line 1402
+2025-05-29 15:00:38,538 - DEBUG - Found match at line 1406
+2025-05-29 15:00:38,538 - DEBUG - Found match at line 1409
+2025-05-29 15:00:38,538 - DEBUG - Found match at line 1413
+2025-05-29 15:00:38,539 - DEBUG - Found match at line 1415
+2025-05-29 15:00:38,539 - DEBUG - Found match at line 1420
+2025-05-29 15:00:38,539 - DEBUG - Found match at line 1431
+2025-05-29 15:00:38,539 - DEBUG - Found match at line 1442
+2025-05-29 15:00:38,539 - DEBUG - Found match at line 1464
+2025-05-29 15:00:38,539 - DEBUG - Found match at line 1475
+2025-05-29 15:00:38,539 - DEBUG - Found match at line 1486
+2025-05-29 15:00:38,539 - DEBUG - Found match at line 1497
+2025-05-29 15:00:38,539 - DEBUG - Found match at line 1508
+2025-05-29 15:00:38,539 - DEBUG - Found match at line 1519
+2025-05-29 15:00:38,539 - DEBUG - Found match at line 1530
+2025-05-29 15:00:38,539 - DEBUG - Found match at line 1532
+2025-05-29 15:00:38,539 - DEBUG - Found match at line 1536
+2025-05-29 15:00:38,539 - DEBUG - Found match at line 1538
+2025-05-29 15:00:38,539 - DEBUG - Found match at line 1541
+2025-05-29 15:00:38,539 - DEBUG - Found match at line 1543
+2025-05-29 15:00:38,539 - DEBUG - Found match at line 1545
+2025-05-29 15:00:38,539 - DEBUG - Found match at line 1547
+2025-05-29 15:00:38,539 - DEBUG - Found match at line 1549
+2025-05-29 15:00:38,539 - DEBUG - Found match at line 1552
+2025-05-29 15:00:38,539 - DEBUG - Found match at line 1554
+2025-05-29 15:00:38,539 - DEBUG - Found match at line 1556
+2025-05-29 15:00:38,539 - DEBUG - Found match at line 1558
+2025-05-29 15:00:38,539 - DEBUG - Found match at line 1560
+2025-05-29 15:00:38,539 - DEBUG - Found match at line 1563
+2025-05-29 15:00:38,539 - DEBUG - Found match at line 1565
+2025-05-29 15:00:38,539 - DEBUG - Found match at line 1567
+2025-05-29 15:00:38,539 - DEBUG - Found match at line 1569
+2025-05-29 15:00:38,539 - DEBUG - Found match at line 1571
+2025-05-29 15:00:38,539 - DEBUG - Found match at line 1574
+2025-05-29 15:00:38,539 - DEBUG - Found match at line 1585
+2025-05-29 15:00:38,539 - DEBUG - Found match at line 1607
+2025-05-29 15:00:38,539 - DEBUG - Found match at line 1618
+2025-05-29 15:00:38,539 - DEBUG - Found match at line 1728
+2025-05-29 15:00:38,540 - DEBUG - Total matches found: 109
+2025-05-29 15:00:38,540 - DEBUG - Found 109 snippets
+2025-05-29 15:00:38,540 - DEBUG - Showing popup
+2025-05-29 15:00:38,541 - DEBUG - Showing popup with 109 snippets
+2025-05-29 15:00:38,541 - DEBUG - Mouse click simulated for deselection
+2025-05-29 15:00:38,541 - DEBUG - Mouse released at position (385.33984375, 659.34765625)
+2025-05-29 15:00:38,964 - DEBUG - Selected text: 
+2025-05-29 15:00:38,964 - DEBUG - Mouse released at position (385.33984375, 659.34765625)
+2025-05-29 15:00:39,390 - DEBUG - Selected text: 
+2025-05-29 15:01:18,658 - DEBUG - Mouse released at position (487.4140625, 362.203125)
+2025-05-29 15:01:19,098 - DEBUG - Selected text: popup.bind("<Key>", key_handler)
+2025-05-29 15:01:19,098 - DEBUG - Searching for keyword: popup.bind("<Key>", key_handler)
+2025-05-29 15:01:19,100 - DEBUG - Read 2760 lines from file
+2025-05-29 15:01:19,101 - DEBUG - No matches found
+2025-05-29 15:01:19,101 - DEBUG - Total matches found: 1
+2025-05-29 15:01:19,101 - DEBUG - Found 1 snippets
+2025-05-29 15:01:19,102 - DEBUG - Showing popup
+2025-05-29 15:01:19,102 - DEBUG - Showing popup with 1 snippets
+2025-05-29 15:01:19,103 - DEBUG - Mouse click simulated for deselection
+2025-05-29 15:01:19,104 - DEBUG - Mouse released at position (487.4140625, 362.203125)
+2025-05-29 15:01:19,678 - DEBUG - Selected text: 
+2025-05-29 15:01:21,091 - DEBUG - Mouse released at position (709.625, 821.58203125)
+2025-05-29 15:01:21,513 - DEBUG - Selected text: 
+2025-05-29 15:02:41,638 - DEBUG - Mouse released at position (392.484375, 658.88671875)
+2025-05-29 15:02:42,107 - DEBUG - Selected text: sathi
+2025-05-29 15:02:42,108 - DEBUG - Searching for keyword: sathi
+2025-05-29 15:02:42,111 - DEBUG - Read 2760 lines from file
+2025-05-29 15:02:42,111 - DEBUG - Found match at line 12
+2025-05-29 15:02:42,111 - DEBUG - Found match at line 14
+2025-05-29 15:02:42,111 - DEBUG - Found match at line 16
+2025-05-29 15:02:42,111 - DEBUG - Found match at line 18
+2025-05-29 15:02:42,111 - DEBUG - Found match at line 23
+2025-05-29 15:02:42,111 - DEBUG - Found match at line 25
+2025-05-29 15:02:42,111 - DEBUG - Found match at line 27
+2025-05-29 15:02:42,111 - DEBUG - Found match at line 29
+2025-05-29 15:02:42,111 - DEBUG - Found match at line 34
+2025-05-29 15:02:42,111 - DEBUG - Found match at line 36
+2025-05-29 15:02:42,111 - DEBUG - Found match at line 38
+2025-05-29 15:02:42,111 - DEBUG - Found match at line 40
+2025-05-29 15:02:42,111 - DEBUG - Found match at line 45
+2025-05-29 15:02:42,111 - DEBUG - Found match at line 47
+2025-05-29 15:02:42,111 - DEBUG - Found match at line 49
+2025-05-29 15:02:42,111 - DEBUG - Found match at line 51
+2025-05-29 15:02:42,111 - DEBUG - Found match at line 317
+2025-05-29 15:02:42,111 - DEBUG - Found match at line 419
+2025-05-29 15:02:42,111 - DEBUG - Found match at line 425
+2025-05-29 15:02:42,111 - DEBUG - Found match at line 427
+2025-05-29 15:02:42,111 - DEBUG - Found match at line 430
+2025-05-29 15:02:42,111 - DEBUG - Found match at line 434
+2025-05-29 15:02:42,111 - DEBUG - Found match at line 436
+2025-05-29 15:02:42,111 - DEBUG - Found match at line 443
+2025-05-29 15:02:42,111 - DEBUG - Found match at line 447
+2025-05-29 15:02:42,111 - DEBUG - Found match at line 449
+2025-05-29 15:02:42,111 - DEBUG - Found match at line 454
+2025-05-29 15:02:42,111 - DEBUG - Found match at line 458
+2025-05-29 15:02:42,111 - DEBUG - Found match at line 460
+2025-05-29 15:02:42,112 - DEBUG - Found match at line 727
+2025-05-29 15:02:42,112 - DEBUG - Found match at line 729
+2025-05-29 15:02:42,112 - DEBUG - Found match at line 731
+2025-05-29 15:02:42,112 - DEBUG - Found match at line 733
+2025-05-29 15:02:42,112 - DEBUG - Found match at line 735
+2025-05-29 15:02:42,112 - DEBUG - Found match at line 773
+2025-05-29 15:02:42,112 - DEBUG - Found match at line 925
+2025-05-29 15:02:42,112 - DEBUG - Found match at line 1277
+2025-05-29 15:02:42,112 - DEBUG - Found match at line 1279
+2025-05-29 15:02:42,112 - DEBUG - Found match at line 1283
+2025-05-29 15:02:42,112 - DEBUG - Found match at line 1285
+2025-05-29 15:02:42,112 - DEBUG - Found match at line 1288
+2025-05-29 15:02:42,112 - DEBUG - Found match at line 1290
+2025-05-29 15:02:42,112 - DEBUG - Found match at line 1296
+2025-05-29 15:02:42,112 - DEBUG - Found match at line 1299
+2025-05-29 15:02:42,112 - DEBUG - Found match at line 1303
+2025-05-29 15:02:42,112 - DEBUG - Found match at line 1305
+2025-05-29 15:02:42,112 - DEBUG - Found match at line 1307
+2025-05-29 15:02:42,112 - DEBUG - Found match at line 1310
+2025-05-29 15:02:42,112 - DEBUG - Found match at line 1312
+2025-05-29 15:02:42,112 - DEBUG - Found match at line 1314
+2025-05-29 15:02:42,112 - DEBUG - Found match at line 1318
+2025-05-29 15:02:42,112 - DEBUG - Found match at line 1321
+2025-05-29 15:02:42,112 - DEBUG - Found match at line 1323
+2025-05-29 15:02:42,112 - DEBUG - Found match at line 1327
+2025-05-29 15:02:42,112 - DEBUG - Found match at line 1329
+2025-05-29 15:02:42,113 - DEBUG - Found match at line 1332
+2025-05-29 15:02:42,113 - DEBUG - Found match at line 1334
+2025-05-29 15:02:42,113 - DEBUG - Found match at line 1338
+2025-05-29 15:02:42,113 - DEBUG - Found match at line 1340
+2025-05-29 15:02:42,113 - DEBUG - Found match at line 1343
+2025-05-29 15:02:42,113 - DEBUG - Found match at line 1347
+2025-05-29 15:02:42,113 - DEBUG - Found match at line 1349
+2025-05-29 15:02:42,113 - DEBUG - Found match at line 1351
+2025-05-29 15:02:42,113 - DEBUG - Found match at line 1365
+2025-05-29 15:02:42,113 - DEBUG - Found match at line 1376
+2025-05-29 15:02:42,113 - DEBUG - Found match at line 1387
+2025-05-29 15:02:42,113 - DEBUG - Found match at line 1391
+2025-05-29 15:02:42,113 - DEBUG - Found match at line 1393
+2025-05-29 15:02:42,113 - DEBUG - Found match at line 1395
+2025-05-29 15:02:42,113 - DEBUG - Found match at line 1398
+2025-05-29 15:02:42,113 - DEBUG - Found match at line 1400
+2025-05-29 15:02:42,113 - DEBUG - Found match at line 1402
+2025-05-29 15:02:42,113 - DEBUG - Found match at line 1406
+2025-05-29 15:02:42,113 - DEBUG - Found match at line 1409
+2025-05-29 15:02:42,113 - DEBUG - Found match at line 1413
+2025-05-29 15:02:42,113 - DEBUG - Found match at line 1415
+2025-05-29 15:02:42,113 - DEBUG - Found match at line 1420
+2025-05-29 15:02:42,113 - DEBUG - Found match at line 1431
+2025-05-29 15:02:42,113 - DEBUG - Found match at line 1442
+2025-05-29 15:02:42,113 - DEBUG - Found match at line 1464
+2025-05-29 15:02:42,113 - DEBUG - Found match at line 1475
+2025-05-29 15:02:42,113 - DEBUG - Found match at line 1486
+2025-05-29 15:02:42,113 - DEBUG - Found match at line 1497
+2025-05-29 15:02:42,113 - DEBUG - Found match at line 1508
+2025-05-29 15:02:42,113 - DEBUG - Found match at line 1519
+2025-05-29 15:02:42,113 - DEBUG - Found match at line 1530
+2025-05-29 15:02:42,113 - DEBUG - Found match at line 1532
+2025-05-29 15:02:42,113 - DEBUG - Found match at line 1536
+2025-05-29 15:02:42,113 - DEBUG - Found match at line 1538
+2025-05-29 15:02:42,113 - DEBUG - Found match at line 1541
+2025-05-29 15:02:42,113 - DEBUG - Found match at line 1543
+2025-05-29 15:02:42,113 - DEBUG - Found match at line 1545
+2025-05-29 15:02:42,113 - DEBUG - Found match at line 1547
+2025-05-29 15:02:42,113 - DEBUG - Found match at line 1549
+2025-05-29 15:02:42,114 - DEBUG - Found match at line 1552
+2025-05-29 15:02:42,114 - DEBUG - Found match at line 1554
+2025-05-29 15:02:42,114 - DEBUG - Found match at line 1556
+2025-05-29 15:02:42,114 - DEBUG - Found match at line 1558
+2025-05-29 15:02:42,114 - DEBUG - Found match at line 1560
+2025-05-29 15:02:42,114 - DEBUG - Found match at line 1563
+2025-05-29 15:02:42,114 - DEBUG - Found match at line 1565
+2025-05-29 15:02:42,114 - DEBUG - Found match at line 1567
+2025-05-29 15:02:42,114 - DEBUG - Found match at line 1569
+2025-05-29 15:02:42,114 - DEBUG - Found match at line 1571
+2025-05-29 15:02:42,114 - DEBUG - Found match at line 1574
+2025-05-29 15:02:42,114 - DEBUG - Found match at line 1585
+2025-05-29 15:02:42,114 - DEBUG - Found match at line 1607
+2025-05-29 15:02:42,114 - DEBUG - Found match at line 1618
+2025-05-29 15:02:42,114 - DEBUG - Found match at line 1728
+2025-05-29 15:02:42,114 - DEBUG - Total matches found: 109
+2025-05-29 15:02:42,114 - DEBUG - Found 109 snippets
+2025-05-29 15:02:42,115 - DEBUG - Showing popup
+2025-05-29 15:02:42,115 - DEBUG - Showing popup with 109 snippets
+2025-05-29 15:02:42,160 - DEBUG - Mouse click simulated for deselection
+2025-05-29 15:02:42,162 - DEBUG - Mouse released at position (392.484375, 658.88671875)
+2025-05-29 15:02:42,573 - DEBUG - Selected text: sathi
+2025-05-29 15:02:42,573 - DEBUG - Searching for keyword: sathi
+2025-05-29 15:02:42,574 - DEBUG - Read 2760 lines from file
+2025-05-29 15:02:42,574 - DEBUG - Found match at line 12
+2025-05-29 15:02:42,574 - DEBUG - Found match at line 14
+2025-05-29 15:02:42,574 - DEBUG - Found match at line 16
+2025-05-29 15:02:42,574 - DEBUG - Found match at line 18
+2025-05-29 15:02:42,574 - DEBUG - Found match at line 23
+2025-05-29 15:02:42,574 - DEBUG - Found match at line 25
+2025-05-29 15:02:42,574 - DEBUG - Found match at line 27
+2025-05-29 15:02:42,574 - DEBUG - Found match at line 29
+2025-05-29 15:02:42,574 - DEBUG - Found match at line 34
+2025-05-29 15:02:42,574 - DEBUG - Found match at line 36
+2025-05-29 15:02:42,574 - DEBUG - Found match at line 38
+2025-05-29 15:02:42,574 - DEBUG - Found match at line 40
+2025-05-29 15:02:42,574 - DEBUG - Found match at line 45
+2025-05-29 15:02:42,574 - DEBUG - Found match at line 47
+2025-05-29 15:02:42,574 - DEBUG - Found match at line 49
+2025-05-29 15:02:42,574 - DEBUG - Found match at line 51
+2025-05-29 15:02:42,575 - DEBUG - Found match at line 317
+2025-05-29 15:02:42,575 - DEBUG - Found match at line 419
+2025-05-29 15:02:42,575 - DEBUG - Found match at line 425
+2025-05-29 15:02:42,575 - DEBUG - Found match at line 427
+2025-05-29 15:02:42,575 - DEBUG - Found match at line 430
+2025-05-29 15:02:42,575 - DEBUG - Found match at line 434
+2025-05-29 15:02:42,575 - DEBUG - Found match at line 436
+2025-05-29 15:02:42,575 - DEBUG - Found match at line 443
+2025-05-29 15:02:42,575 - DEBUG - Found match at line 447
+2025-05-29 15:02:42,575 - DEBUG - Found match at line 449
+2025-05-29 15:02:42,575 - DEBUG - Found match at line 454
+2025-05-29 15:02:42,575 - DEBUG - Found match at line 458
+2025-05-29 15:02:42,575 - DEBUG - Found match at line 460
+2025-05-29 15:02:42,575 - DEBUG - Found match at line 727
+2025-05-29 15:02:42,575 - DEBUG - Found match at line 729
+2025-05-29 15:02:42,575 - DEBUG - Found match at line 731
+2025-05-29 15:02:42,575 - DEBUG - Found match at line 733
+2025-05-29 15:02:42,575 - DEBUG - Found match at line 735
+2025-05-29 15:02:42,575 - DEBUG - Found match at line 773
+2025-05-29 15:02:42,575 - DEBUG - Found match at line 925
+2025-05-29 15:02:42,575 - DEBUG - Found match at line 1277
+2025-05-29 15:02:42,575 - DEBUG - Found match at line 1279
+2025-05-29 15:02:42,575 - DEBUG - Found match at line 1283
+2025-05-29 15:02:42,575 - DEBUG - Found match at line 1285
+2025-05-29 15:02:42,575 - DEBUG - Found match at line 1288
+2025-05-29 15:02:42,575 - DEBUG - Found match at line 1290
+2025-05-29 15:02:42,575 - DEBUG - Found match at line 1296
+2025-05-29 15:02:42,575 - DEBUG - Found match at line 1299
+2025-05-29 15:02:42,575 - DEBUG - Found match at line 1303
+2025-05-29 15:02:42,575 - DEBUG - Found match at line 1305
+2025-05-29 15:02:42,575 - DEBUG - Found match at line 1307
+2025-05-29 15:02:42,575 - DEBUG - Found match at line 1310
+2025-05-29 15:02:42,575 - DEBUG - Found match at line 1312
+2025-05-29 15:02:42,576 - DEBUG - Found match at line 1314
+2025-05-29 15:02:42,576 - DEBUG - Found match at line 1318
+2025-05-29 15:02:42,576 - DEBUG - Found match at line 1321
+2025-05-29 15:02:42,576 - DEBUG - Found match at line 1323
+2025-05-29 15:02:42,576 - DEBUG - Found match at line 1327
+2025-05-29 15:02:42,576 - DEBUG - Found match at line 1329
+2025-05-29 15:02:42,576 - DEBUG - Found match at line 1332
+2025-05-29 15:02:42,576 - DEBUG - Found match at line 1334
+2025-05-29 15:02:42,576 - DEBUG - Found match at line 1338
+2025-05-29 15:02:42,576 - DEBUG - Found match at line 1340
+2025-05-29 15:02:42,576 - DEBUG - Found match at line 1343
+2025-05-29 15:02:42,576 - DEBUG - Found match at line 1347
+2025-05-29 15:02:42,576 - DEBUG - Found match at line 1349
+2025-05-29 15:02:42,576 - DEBUG - Found match at line 1351
+2025-05-29 15:02:42,576 - DEBUG - Found match at line 1365
+2025-05-29 15:02:42,576 - DEBUG - Found match at line 1376
+2025-05-29 15:02:42,576 - DEBUG - Found match at line 1387
+2025-05-29 15:02:42,576 - DEBUG - Found match at line 1391
+2025-05-29 15:02:42,576 - DEBUG - Found match at line 1393
+2025-05-29 15:02:42,576 - DEBUG - Found match at line 1395
+2025-05-29 15:02:42,576 - DEBUG - Found match at line 1398
+2025-05-29 15:02:42,576 - DEBUG - Found match at line 1400
+2025-05-29 15:02:42,576 - DEBUG - Found match at line 1402
+2025-05-29 15:02:42,576 - DEBUG - Found match at line 1406
+2025-05-29 15:02:42,576 - DEBUG - Found match at line 1409
+2025-05-29 15:02:42,576 - DEBUG - Found match at line 1413
+2025-05-29 15:02:42,576 - DEBUG - Found match at line 1415
+2025-05-29 15:02:42,576 - DEBUG - Found match at line 1420
+2025-05-29 15:02:42,576 - DEBUG - Found match at line 1431
+2025-05-29 15:02:42,576 - DEBUG - Found match at line 1442
+2025-05-29 15:02:42,576 - DEBUG - Found match at line 1464
+2025-05-29 15:02:42,576 - DEBUG - Found match at line 1475
+2025-05-29 15:02:42,576 - DEBUG - Found match at line 1486
+2025-05-29 15:02:42,576 - DEBUG - Found match at line 1497
+2025-05-29 15:02:42,576 - DEBUG - Found match at line 1508
+2025-05-29 15:02:42,576 - DEBUG - Found match at line 1519
+2025-05-29 15:02:42,576 - DEBUG - Found match at line 1530
+2025-05-29 15:02:42,576 - DEBUG - Found match at line 1532
+2025-05-29 15:02:42,577 - DEBUG - Found match at line 1536
+2025-05-29 15:02:42,577 - DEBUG - Found match at line 1538
+2025-05-29 15:02:42,577 - DEBUG - Found match at line 1541
+2025-05-29 15:02:42,577 - DEBUG - Found match at line 1543
+2025-05-29 15:02:42,577 - DEBUG - Found match at line 1545
+2025-05-29 15:02:42,577 - DEBUG - Found match at line 1547
+2025-05-29 15:02:42,577 - DEBUG - Found match at line 1549
+2025-05-29 15:02:42,577 - DEBUG - Found match at line 1552
+2025-05-29 15:02:42,577 - DEBUG - Found match at line 1554
+2025-05-29 15:02:42,577 - DEBUG - Found match at line 1556
+2025-05-29 15:02:42,577 - DEBUG - Found match at line 1558
+2025-05-29 15:02:42,577 - DEBUG - Found match at line 1560
+2025-05-29 15:02:42,577 - DEBUG - Found match at line 1563
+2025-05-29 15:02:42,577 - DEBUG - Found match at line 1565
+2025-05-29 15:02:42,577 - DEBUG - Found match at line 1567
+2025-05-29 15:02:42,577 - DEBUG - Found match at line 1569
+2025-05-29 15:02:42,577 - DEBUG - Found match at line 1571
+2025-05-29 15:02:42,577 - DEBUG - Found match at line 1574
+2025-05-29 15:02:42,577 - DEBUG - Found match at line 1585
+2025-05-29 15:02:42,577 - DEBUG - Found match at line 1607
+2025-05-29 15:02:42,577 - DEBUG - Found match at line 1618
+2025-05-29 15:02:42,577 - DEBUG - Found match at line 1728
+2025-05-29 15:02:42,577 - DEBUG - Total matches found: 109
+2025-05-29 15:02:42,578 - DEBUG - Found 109 snippets
+2025-05-29 15:02:42,578 - DEBUG - Showing popup
+2025-05-29 15:02:42,578 - DEBUG - Showing popup with 109 snippets
+2025-05-29 15:02:42,579 - DEBUG - Mouse click simulated for deselection
+2025-05-29 15:02:42,579 - DEBUG - Mouse released at position (392.484375, 658.88671875)
+2025-05-29 15:02:42,996 - DEBUG - Selected text: 
+2025-05-29 15:02:42,997 - DEBUG - Mouse released at position (392.484375, 658.88671875)
+2025-05-29 15:02:43,425 - DEBUG - Selected text: 
+2025-05-29 15:02:51,438 - DEBUG - Mouse released at position (590.9921875, 787.625)
+2025-05-29 15:02:51,885 - DEBUG - Selected text: 
+2025-05-29 15:03:08,639 - DEBUG - Mouse released at position (393.70703125, 567.8203125)
+2025-05-29 15:03:09,091 - DEBUG - Selected text: sathi
+2025-05-29 15:03:09,091 - DEBUG - Searching for keyword: sathi
+2025-05-29 15:03:09,092 - DEBUG - Read 2760 lines from file
+2025-05-29 15:03:09,092 - DEBUG - Found match at line 12
+2025-05-29 15:03:09,092 - DEBUG - Found match at line 14
+2025-05-29 15:03:09,093 - DEBUG - Found match at line 16
+2025-05-29 15:03:09,093 - DEBUG - Found match at line 18
+2025-05-29 15:03:09,093 - DEBUG - Found match at line 23
+2025-05-29 15:03:09,093 - DEBUG - Found match at line 25
+2025-05-29 15:03:09,093 - DEBUG - Found match at line 27
+2025-05-29 15:03:09,093 - DEBUG - Found match at line 29
+2025-05-29 15:03:09,093 - DEBUG - Found match at line 34
+2025-05-29 15:03:09,093 - DEBUG - Found match at line 36
+2025-05-29 15:03:09,093 - DEBUG - Found match at line 38
+2025-05-29 15:03:09,093 - DEBUG - Found match at line 40
+2025-05-29 15:03:09,093 - DEBUG - Found match at line 45
+2025-05-29 15:03:09,093 - DEBUG - Found match at line 47
+2025-05-29 15:03:09,093 - DEBUG - Found match at line 49
+2025-05-29 15:03:09,093 - DEBUG - Found match at line 51
+2025-05-29 15:03:09,093 - DEBUG - Found match at line 317
+2025-05-29 15:03:09,093 - DEBUG - Found match at line 419
+2025-05-29 15:03:09,093 - DEBUG - Found match at line 425
+2025-05-29 15:03:09,093 - DEBUG - Found match at line 427
+2025-05-29 15:03:09,093 - DEBUG - Found match at line 430
+2025-05-29 15:03:09,093 - DEBUG - Found match at line 434
+2025-05-29 15:03:09,093 - DEBUG - Found match at line 436
+2025-05-29 15:03:09,093 - DEBUG - Found match at line 443
+2025-05-29 15:03:09,093 - DEBUG - Found match at line 447
+2025-05-29 15:03:09,093 - DEBUG - Found match at line 449
+2025-05-29 15:03:09,093 - DEBUG - Found match at line 454
+2025-05-29 15:03:09,093 - DEBUG - Found match at line 458
+2025-05-29 15:03:09,093 - DEBUG - Found match at line 460
+2025-05-29 15:03:09,093 - DEBUG - Found match at line 727
+2025-05-29 15:03:09,093 - DEBUG - Found match at line 729
+2025-05-29 15:03:09,093 - DEBUG - Found match at line 731
+2025-05-29 15:03:09,093 - DEBUG - Found match at line 733
+2025-05-29 15:03:09,094 - DEBUG - Found match at line 735
+2025-05-29 15:03:09,094 - DEBUG - Found match at line 773
+2025-05-29 15:03:09,094 - DEBUG - Found match at line 925
+2025-05-29 15:03:09,094 - DEBUG - Found match at line 1277
+2025-05-29 15:03:09,094 - DEBUG - Found match at line 1279
+2025-05-29 15:03:09,094 - DEBUG - Found match at line 1283
+2025-05-29 15:03:09,094 - DEBUG - Found match at line 1285
+2025-05-29 15:03:09,094 - DEBUG - Found match at line 1288
+2025-05-29 15:03:09,094 - DEBUG - Found match at line 1290
+2025-05-29 15:03:09,094 - DEBUG - Found match at line 1296
+2025-05-29 15:03:09,094 - DEBUG - Found match at line 1299
+2025-05-29 15:03:09,094 - DEBUG - Found match at line 1303
+2025-05-29 15:03:09,094 - DEBUG - Found match at line 1305
+2025-05-29 15:03:09,094 - DEBUG - Found match at line 1307
+2025-05-29 15:03:09,094 - DEBUG - Found match at line 1310
+2025-05-29 15:03:09,094 - DEBUG - Found match at line 1312
+2025-05-29 15:03:09,094 - DEBUG - Found match at line 1314
+2025-05-29 15:03:09,094 - DEBUG - Found match at line 1318
+2025-05-29 15:03:09,094 - DEBUG - Found match at line 1321
+2025-05-29 15:03:09,094 - DEBUG - Found match at line 1323
+2025-05-29 15:03:09,094 - DEBUG - Found match at line 1327
+2025-05-29 15:03:09,094 - DEBUG - Found match at line 1329
+2025-05-29 15:03:09,094 - DEBUG - Found match at line 1332
+2025-05-29 15:03:09,094 - DEBUG - Found match at line 1334
+2025-05-29 15:03:09,094 - DEBUG - Found match at line 1338
+2025-05-29 15:03:09,094 - DEBUG - Found match at line 1340
+2025-05-29 15:03:09,094 - DEBUG - Found match at line 1343
+2025-05-29 15:03:09,094 - DEBUG - Found match at line 1347
+2025-05-29 15:03:09,094 - DEBUG - Found match at line 1349
+2025-05-29 15:03:09,094 - DEBUG - Found match at line 1351
+2025-05-29 15:03:09,094 - DEBUG - Found match at line 1365
+2025-05-29 15:03:09,094 - DEBUG - Found match at line 1376
+2025-05-29 15:03:09,094 - DEBUG - Found match at line 1387
+2025-05-29 15:03:09,094 - DEBUG - Found match at line 1391
+2025-05-29 15:03:09,095 - DEBUG - Found match at line 1393
+2025-05-29 15:03:09,095 - DEBUG - Found match at line 1395
+2025-05-29 15:03:09,095 - DEBUG - Found match at line 1398
+2025-05-29 15:03:09,095 - DEBUG - Found match at line 1400
+2025-05-29 15:03:09,095 - DEBUG - Found match at line 1402
+2025-05-29 15:03:09,095 - DEBUG - Found match at line 1406
+2025-05-29 15:03:09,095 - DEBUG - Found match at line 1409
+2025-05-29 15:03:09,095 - DEBUG - Found match at line 1413
+2025-05-29 15:03:09,095 - DEBUG - Found match at line 1415
+2025-05-29 15:03:09,095 - DEBUG - Found match at line 1420
+2025-05-29 15:03:09,095 - DEBUG - Found match at line 1431
+2025-05-29 15:03:09,095 - DEBUG - Found match at line 1442
+2025-05-29 15:03:09,095 - DEBUG - Found match at line 1464
+2025-05-29 15:03:09,095 - DEBUG - Found match at line 1475
+2025-05-29 15:03:09,095 - DEBUG - Found match at line 1486
+2025-05-29 15:03:09,095 - DEBUG - Found match at line 1497
+2025-05-29 15:03:09,095 - DEBUG - Found match at line 1508
+2025-05-29 15:03:09,095 - DEBUG - Found match at line 1519
+2025-05-29 15:03:09,095 - DEBUG - Found match at line 1530
+2025-05-29 15:03:09,095 - DEBUG - Found match at line 1532
+2025-05-29 15:03:09,095 - DEBUG - Found match at line 1536
+2025-05-29 15:03:09,095 - DEBUG - Found match at line 1538
+2025-05-29 15:03:09,095 - DEBUG - Found match at line 1541
+2025-05-29 15:03:09,095 - DEBUG - Found match at line 1543
+2025-05-29 15:03:09,095 - DEBUG - Found match at line 1545
+2025-05-29 15:03:09,095 - DEBUG - Found match at line 1547
+2025-05-29 15:03:09,095 - DEBUG - Found match at line 1549
+2025-05-29 15:03:09,095 - DEBUG - Found match at line 1552
+2025-05-29 15:03:09,095 - DEBUG - Found match at line 1554
+2025-05-29 15:03:09,095 - DEBUG - Found match at line 1556
+2025-05-29 15:03:09,095 - DEBUG - Found match at line 1558
+2025-05-29 15:03:09,095 - DEBUG - Found match at line 1560
+2025-05-29 15:03:09,095 - DEBUG - Found match at line 1563
+2025-05-29 15:03:09,095 - DEBUG - Found match at line 1565
+2025-05-29 15:03:09,095 - DEBUG - Found match at line 1567
+2025-05-29 15:03:09,095 - DEBUG - Found match at line 1569
+2025-05-29 15:03:09,095 - DEBUG - Found match at line 1571
+2025-05-29 15:03:09,095 - DEBUG - Found match at line 1574
+2025-05-29 15:03:09,096 - DEBUG - Found match at line 1585
+2025-05-29 15:03:09,096 - DEBUG - Found match at line 1607
+2025-05-29 15:03:09,096 - DEBUG - Found match at line 1618
+2025-05-29 15:03:09,096 - DEBUG - Found match at line 1728
+2025-05-29 15:03:09,096 - DEBUG - Total matches found: 109
+2025-05-29 15:03:09,096 - DEBUG - Found 109 snippets
+2025-05-29 15:03:09,096 - DEBUG - Showing popup
+2025-05-29 15:03:09,097 - DEBUG - Showing popup with 109 snippets
+2025-05-29 15:03:09,140 - DEBUG - Mouse click simulated for deselection
+2025-05-29 15:03:09,142 - DEBUG - Mouse released at position (393.70703125, 567.8203125)
+2025-05-29 15:03:09,541 - DEBUG - Selected text: sathi
+2025-05-29 15:03:09,541 - DEBUG - Searching for keyword: sathi
+2025-05-29 15:03:09,542 - DEBUG - Read 2760 lines from file
+2025-05-29 15:03:09,542 - DEBUG - Found match at line 12
+2025-05-29 15:03:09,542 - DEBUG - Found match at line 14
+2025-05-29 15:03:09,542 - DEBUG - Found match at line 16
+2025-05-29 15:03:09,542 - DEBUG - Found match at line 18
+2025-05-29 15:03:09,542 - DEBUG - Found match at line 23
+2025-05-29 15:03:09,542 - DEBUG - Found match at line 25
+2025-05-29 15:03:09,542 - DEBUG - Found match at line 27
+2025-05-29 15:03:09,542 - DEBUG - Found match at line 29
+2025-05-29 15:03:09,542 - DEBUG - Found match at line 34
+2025-05-29 15:03:09,542 - DEBUG - Found match at line 36
+2025-05-29 15:03:09,542 - DEBUG - Found match at line 38
+2025-05-29 15:03:09,542 - DEBUG - Found match at line 40
+2025-05-29 15:03:09,542 - DEBUG - Found match at line 45
+2025-05-29 15:03:09,542 - DEBUG - Found match at line 47
+2025-05-29 15:03:09,542 - DEBUG - Found match at line 49
+2025-05-29 15:03:09,542 - DEBUG - Found match at line 51
+2025-05-29 15:03:09,543 - DEBUG - Found match at line 317
+2025-05-29 15:03:09,543 - DEBUG - Found match at line 419
+2025-05-29 15:03:09,543 - DEBUG - Found match at line 425
+2025-05-29 15:03:09,543 - DEBUG - Found match at line 427
+2025-05-29 15:03:09,543 - DEBUG - Found match at line 430
+2025-05-29 15:03:09,543 - DEBUG - Found match at line 434
+2025-05-29 15:03:09,543 - DEBUG - Found match at line 436
+2025-05-29 15:03:09,543 - DEBUG - Found match at line 443
+2025-05-29 15:03:09,543 - DEBUG - Found match at line 447
+2025-05-29 15:03:09,543 - DEBUG - Found match at line 449
+2025-05-29 15:03:09,543 - DEBUG - Found match at line 454
+2025-05-29 15:03:09,543 - DEBUG - Found match at line 458
+2025-05-29 15:03:09,543 - DEBUG - Found match at line 460
+2025-05-29 15:03:09,543 - DEBUG - Found match at line 727
+2025-05-29 15:03:09,543 - DEBUG - Found match at line 729
+2025-05-29 15:03:09,543 - DEBUG - Found match at line 731
+2025-05-29 15:03:09,543 - DEBUG - Found match at line 733
+2025-05-29 15:03:09,543 - DEBUG - Found match at line 735
+2025-05-29 15:03:09,543 - DEBUG - Found match at line 773
+2025-05-29 15:03:09,543 - DEBUG - Found match at line 925
+2025-05-29 15:03:09,543 - DEBUG - Found match at line 1277
+2025-05-29 15:03:09,543 - DEBUG - Found match at line 1279
+2025-05-29 15:03:09,543 - DEBUG - Found match at line 1283
+2025-05-29 15:03:09,543 - DEBUG - Found match at line 1285
+2025-05-29 15:03:09,543 - DEBUG - Found match at line 1288
+2025-05-29 15:03:09,543 - DEBUG - Found match at line 1290
+2025-05-29 15:03:09,543 - DEBUG - Found match at line 1296
+2025-05-29 15:03:09,543 - DEBUG - Found match at line 1299
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1303
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1305
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1307
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1310
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1312
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1314
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1318
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1321
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1323
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1327
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1329
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1332
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1334
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1338
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1340
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1343
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1347
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1349
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1351
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1365
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1376
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1387
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1391
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1393
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1395
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1398
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1400
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1402
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1406
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1409
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1413
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1415
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1420
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1431
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1442
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1464
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1475
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1486
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1497
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1508
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1519
+2025-05-29 15:03:09,544 - DEBUG - Found match at line 1530
+2025-05-29 15:03:09,545 - DEBUG - Found match at line 1532
+2025-05-29 15:03:09,545 - DEBUG - Found match at line 1536
+2025-05-29 15:03:09,545 - DEBUG - Found match at line 1538
+2025-05-29 15:03:09,545 - DEBUG - Found match at line 1541
+2025-05-29 15:03:09,545 - DEBUG - Found match at line 1543
+2025-05-29 15:03:09,545 - DEBUG - Found match at line 1545
+2025-05-29 15:03:09,545 - DEBUG - Found match at line 1547
+2025-05-29 15:03:09,545 - DEBUG - Found match at line 1549
+2025-05-29 15:03:09,545 - DEBUG - Found match at line 1552
+2025-05-29 15:03:09,545 - DEBUG - Found match at line 1554
+2025-05-29 15:03:09,545 - DEBUG - Found match at line 1556
+2025-05-29 15:03:09,545 - DEBUG - Found match at line 1558
+2025-05-29 15:03:09,545 - DEBUG - Found match at line 1560
+2025-05-29 15:03:09,545 - DEBUG - Found match at line 1563
+2025-05-29 15:03:09,545 - DEBUG - Found match at line 1565
+2025-05-29 15:03:09,545 - DEBUG - Found match at line 1567
+2025-05-29 15:03:09,545 - DEBUG - Found match at line 1569
+2025-05-29 15:03:09,545 - DEBUG - Found match at line 1571
+2025-05-29 15:03:09,545 - DEBUG - Found match at line 1574
+2025-05-29 15:03:09,545 - DEBUG - Found match at line 1585
+2025-05-29 15:03:09,545 - DEBUG - Found match at line 1607
+2025-05-29 15:03:09,545 - DEBUG - Found match at line 1618
+2025-05-29 15:03:09,545 - DEBUG - Found match at line 1728
+2025-05-29 15:03:09,545 - DEBUG - Total matches found: 109
+2025-05-29 15:03:09,545 - DEBUG - Found 109 snippets
+2025-05-29 15:03:09,546 - DEBUG - Showing popup
+2025-05-29 15:03:09,546 - DEBUG - Showing popup with 109 snippets
+2025-05-29 15:03:09,547 - DEBUG - Mouse click simulated for deselection
+2025-05-29 15:03:09,547 - DEBUG - Mouse released at position (393.70703125, 567.8203125)
+2025-05-29 15:03:09,971 - DEBUG - Selected text: 
+2025-05-29 15:03:09,972 - DEBUG - Mouse released at position (393.70703125, 567.8203125)
+2025-05-29 15:03:10,397 - DEBUG - Selected text: 
+2025-05-29 15:03:14,439 - DEBUG - Mouse released at position (610.0, 756.2734375)
+2025-05-29 15:03:14,888 - DEBUG - Selected text: 
+2025-05-29 15:03:18,872 - DEBUG - Mouse released at position (696.91015625, 818.203125)
+2025-05-29 15:03:19,315 - DEBUG - Selected text: 
+2025-05-29 15:04:10,723 - DEBUG - Mouse released at position (394.73046875, 571.59375)
+2025-05-29 15:04:11,352 - DEBUG - Selected text: sathi
+2025-05-29 15:04:11,353 - DEBUG - Searching for keyword: sathi
+2025-05-29 15:04:11,355 - DEBUG - Read 2760 lines from file
+2025-05-29 15:04:11,356 - DEBUG - Found match at line 12
+2025-05-29 15:04:11,356 - DEBUG - Found match at line 14
+2025-05-29 15:04:11,356 - DEBUG - Found match at line 16
+2025-05-29 15:04:11,356 - DEBUG - Found match at line 18
+2025-05-29 15:04:11,356 - DEBUG - Found match at line 23
+2025-05-29 15:04:11,356 - DEBUG - Found match at line 25
+2025-05-29 15:04:11,356 - DEBUG - Found match at line 27
+2025-05-29 15:04:11,356 - DEBUG - Found match at line 29
+2025-05-29 15:04:11,356 - DEBUG - Found match at line 34
+2025-05-29 15:04:11,356 - DEBUG - Found match at line 36
+2025-05-29 15:04:11,356 - DEBUG - Found match at line 38
+2025-05-29 15:04:11,356 - DEBUG - Found match at line 40
+2025-05-29 15:04:11,356 - DEBUG - Found match at line 45
+2025-05-29 15:04:11,356 - DEBUG - Found match at line 47
+2025-05-29 15:04:11,356 - DEBUG - Found match at line 49
+2025-05-29 15:04:11,356 - DEBUG - Found match at line 51
+2025-05-29 15:04:11,356 - DEBUG - Found match at line 317
+2025-05-29 15:04:11,356 - DEBUG - Found match at line 419
+2025-05-29 15:04:11,356 - DEBUG - Found match at line 425
+2025-05-29 15:04:11,356 - DEBUG - Found match at line 427
+2025-05-29 15:04:11,356 - DEBUG - Found match at line 430
+2025-05-29 15:04:11,356 - DEBUG - Found match at line 434
+2025-05-29 15:04:11,356 - DEBUG - Found match at line 436
+2025-05-29 15:04:11,356 - DEBUG - Found match at line 443
+2025-05-29 15:04:11,356 - DEBUG - Found match at line 447
+2025-05-29 15:04:11,356 - DEBUG - Found match at line 449
+2025-05-29 15:04:11,356 - DEBUG - Found match at line 454
+2025-05-29 15:04:11,356 - DEBUG - Found match at line 458
+2025-05-29 15:04:11,356 - DEBUG - Found match at line 460
+2025-05-29 15:04:11,356 - DEBUG - Found match at line 727
+2025-05-29 15:04:11,357 - DEBUG - Found match at line 729
+2025-05-29 15:04:11,357 - DEBUG - Found match at line 731
+2025-05-29 15:04:11,357 - DEBUG - Found match at line 733
+2025-05-29 15:04:11,357 - DEBUG - Found match at line 735
+2025-05-29 15:04:11,357 - DEBUG - Found match at line 773
+2025-05-29 15:04:11,357 - DEBUG - Found match at line 925
+2025-05-29 15:04:11,357 - DEBUG - Found match at line 1277
+2025-05-29 15:04:11,357 - DEBUG - Found match at line 1279
+2025-05-29 15:04:11,357 - DEBUG - Found match at line 1283
+2025-05-29 15:04:11,357 - DEBUG - Found match at line 1285
+2025-05-29 15:04:11,357 - DEBUG - Found match at line 1288
+2025-05-29 15:04:11,357 - DEBUG - Found match at line 1290
+2025-05-29 15:04:11,357 - DEBUG - Found match at line 1296
+2025-05-29 15:04:11,357 - DEBUG - Found match at line 1299
+2025-05-29 15:04:11,357 - DEBUG - Found match at line 1303
+2025-05-29 15:04:11,357 - DEBUG - Found match at line 1305
+2025-05-29 15:04:11,357 - DEBUG - Found match at line 1307
+2025-05-29 15:04:11,357 - DEBUG - Found match at line 1310
+2025-05-29 15:04:11,357 - DEBUG - Found match at line 1312
+2025-05-29 15:04:11,357 - DEBUG - Found match at line 1314
+2025-05-29 15:04:11,357 - DEBUG - Found match at line 1318
+2025-05-29 15:04:11,357 - DEBUG - Found match at line 1321
+2025-05-29 15:04:11,357 - DEBUG - Found match at line 1323
+2025-05-29 15:04:11,357 - DEBUG - Found match at line 1327
+2025-05-29 15:04:11,357 - DEBUG - Found match at line 1329
+2025-05-29 15:04:11,357 - DEBUG - Found match at line 1332
+2025-05-29 15:04:11,357 - DEBUG - Found match at line 1334
+2025-05-29 15:04:11,357 - DEBUG - Found match at line 1338
+2025-05-29 15:04:11,357 - DEBUG - Found match at line 1340
+2025-05-29 15:04:11,357 - DEBUG - Found match at line 1343
+2025-05-29 15:04:11,357 - DEBUG - Found match at line 1347
+2025-05-29 15:04:11,357 - DEBUG - Found match at line 1349
+2025-05-29 15:04:11,357 - DEBUG - Found match at line 1351
+2025-05-29 15:04:11,357 - DEBUG - Found match at line 1365
+2025-05-29 15:04:11,357 - DEBUG - Found match at line 1376
+2025-05-29 15:04:11,358 - DEBUG - Found match at line 1387
+2025-05-29 15:04:11,358 - DEBUG - Found match at line 1391
+2025-05-29 15:04:11,358 - DEBUG - Found match at line 1393
+2025-05-29 15:04:11,358 - DEBUG - Found match at line 1395
+2025-05-29 15:04:11,358 - DEBUG - Found match at line 1398
+2025-05-29 15:04:11,358 - DEBUG - Found match at line 1400
+2025-05-29 15:04:11,358 - DEBUG - Found match at line 1402
+2025-05-29 15:04:11,358 - DEBUG - Found match at line 1406
+2025-05-29 15:04:11,358 - DEBUG - Found match at line 1409
+2025-05-29 15:04:11,358 - DEBUG - Found match at line 1413
+2025-05-29 15:04:11,358 - DEBUG - Found match at line 1415
+2025-05-29 15:04:11,358 - DEBUG - Found match at line 1420
+2025-05-29 15:04:11,358 - DEBUG - Found match at line 1431
+2025-05-29 15:04:11,358 - DEBUG - Found match at line 1442
+2025-05-29 15:04:11,358 - DEBUG - Found match at line 1464
+2025-05-29 15:04:11,358 - DEBUG - Found match at line 1475
+2025-05-29 15:04:11,358 - DEBUG - Found match at line 1486
+2025-05-29 15:04:11,358 - DEBUG - Found match at line 1497
+2025-05-29 15:04:11,358 - DEBUG - Found match at line 1508
+2025-05-29 15:04:11,358 - DEBUG - Found match at line 1519
+2025-05-29 15:04:11,358 - DEBUG - Found match at line 1530
+2025-05-29 15:04:11,358 - DEBUG - Found match at line 1532
+2025-05-29 15:04:11,358 - DEBUG - Found match at line 1536
+2025-05-29 15:04:11,358 - DEBUG - Found match at line 1538
+2025-05-29 15:04:11,358 - DEBUG - Found match at line 1541
+2025-05-29 15:04:11,358 - DEBUG - Found match at line 1543
+2025-05-29 15:04:11,358 - DEBUG - Found match at line 1545
+2025-05-29 15:04:11,358 - DEBUG - Found match at line 1547
+2025-05-29 15:04:11,358 - DEBUG - Found match at line 1549
+2025-05-29 15:04:11,358 - DEBUG - Found match at line 1552
+2025-05-29 15:04:11,358 - DEBUG - Found match at line 1554
+2025-05-29 15:04:11,358 - DEBUG - Found match at line 1556
+2025-05-29 15:04:11,359 - DEBUG - Found match at line 1558
+2025-05-29 15:04:11,359 - DEBUG - Found match at line 1560
+2025-05-29 15:04:11,359 - DEBUG - Found match at line 1563
+2025-05-29 15:04:11,359 - DEBUG - Found match at line 1565
+2025-05-29 15:04:11,359 - DEBUG - Found match at line 1567
+2025-05-29 15:04:11,359 - DEBUG - Found match at line 1569
+2025-05-29 15:04:11,359 - DEBUG - Found match at line 1571
+2025-05-29 15:04:11,359 - DEBUG - Found match at line 1574
+2025-05-29 15:04:11,359 - DEBUG - Found match at line 1585
+2025-05-29 15:04:11,359 - DEBUG - Found match at line 1607
+2025-05-29 15:04:11,359 - DEBUG - Found match at line 1618
+2025-05-29 15:04:11,359 - DEBUG - Found match at line 1728
+2025-05-29 15:04:11,359 - DEBUG - Total matches found: 109
+2025-05-29 15:04:11,359 - DEBUG - Found 109 snippets
+2025-05-29 15:04:11,360 - DEBUG - Showing popup
+2025-05-29 15:04:11,360 - DEBUG - Showing popup with 109 snippets
+2025-05-29 15:04:11,407 - DEBUG - Mouse click simulated for deselection
+2025-05-29 15:04:11,409 - DEBUG - Mouse released at position (394.73046875, 571.59375)
+2025-05-29 15:04:11,803 - DEBUG - Selected text: sathi
+2025-05-29 15:04:11,803 - DEBUG - Searching for keyword: sathi
+2025-05-29 15:04:11,804 - DEBUG - Read 2760 lines from file
+2025-05-29 15:04:11,804 - DEBUG - Found match at line 12
+2025-05-29 15:04:11,804 - DEBUG - Found match at line 14
+2025-05-29 15:04:11,804 - DEBUG - Found match at line 16
+2025-05-29 15:04:11,804 - DEBUG - Found match at line 18
+2025-05-29 15:04:11,804 - DEBUG - Found match at line 23
+2025-05-29 15:04:11,804 - DEBUG - Found match at line 25
+2025-05-29 15:04:11,804 - DEBUG - Found match at line 27
+2025-05-29 15:04:11,804 - DEBUG - Found match at line 29
+2025-05-29 15:04:11,804 - DEBUG - Found match at line 34
+2025-05-29 15:04:11,804 - DEBUG - Found match at line 36
+2025-05-29 15:04:11,804 - DEBUG - Found match at line 38
+2025-05-29 15:04:11,804 - DEBUG - Found match at line 40
+2025-05-29 15:04:11,804 - DEBUG - Found match at line 45
+2025-05-29 15:04:11,804 - DEBUG - Found match at line 47
+2025-05-29 15:04:11,805 - DEBUG - Found match at line 49
+2025-05-29 15:04:11,805 - DEBUG - Found match at line 51
+2025-05-29 15:04:11,805 - DEBUG - Found match at line 317
+2025-05-29 15:04:11,805 - DEBUG - Found match at line 419
+2025-05-29 15:04:11,805 - DEBUG - Found match at line 425
+2025-05-29 15:04:11,805 - DEBUG - Found match at line 427
+2025-05-29 15:04:11,805 - DEBUG - Found match at line 430
+2025-05-29 15:04:11,805 - DEBUG - Found match at line 434
+2025-05-29 15:04:11,805 - DEBUG - Found match at line 436
+2025-05-29 15:04:11,805 - DEBUG - Found match at line 443
+2025-05-29 15:04:11,805 - DEBUG - Found match at line 447
+2025-05-29 15:04:11,805 - DEBUG - Found match at line 449
+2025-05-29 15:04:11,805 - DEBUG - Found match at line 454
+2025-05-29 15:04:11,805 - DEBUG - Found match at line 458
+2025-05-29 15:04:11,805 - DEBUG - Found match at line 460
+2025-05-29 15:04:11,805 - DEBUG - Found match at line 727
+2025-05-29 15:04:11,805 - DEBUG - Found match at line 729
+2025-05-29 15:04:11,805 - DEBUG - Found match at line 731
+2025-05-29 15:04:11,805 - DEBUG - Found match at line 733
+2025-05-29 15:04:11,805 - DEBUG - Found match at line 735
+2025-05-29 15:04:11,805 - DEBUG - Found match at line 773
+2025-05-29 15:04:11,805 - DEBUG - Found match at line 925
+2025-05-29 15:04:11,805 - DEBUG - Found match at line 1277
+2025-05-29 15:04:11,805 - DEBUG - Found match at line 1279
+2025-05-29 15:04:11,805 - DEBUG - Found match at line 1283
+2025-05-29 15:04:11,805 - DEBUG - Found match at line 1285
+2025-05-29 15:04:11,805 - DEBUG - Found match at line 1288
+2025-05-29 15:04:11,806 - DEBUG - Found match at line 1290
+2025-05-29 15:04:11,806 - DEBUG - Found match at line 1296
+2025-05-29 15:04:11,806 - DEBUG - Found match at line 1299
+2025-05-29 15:04:11,806 - DEBUG - Found match at line 1303
+2025-05-29 15:04:11,806 - DEBUG - Found match at line 1305
+2025-05-29 15:04:11,806 - DEBUG - Found match at line 1307
+2025-05-29 15:04:11,806 - DEBUG - Found match at line 1310
+2025-05-29 15:04:11,806 - DEBUG - Found match at line 1312
+2025-05-29 15:04:11,806 - DEBUG - Found match at line 1314
+2025-05-29 15:04:11,806 - DEBUG - Found match at line 1318
+2025-05-29 15:04:11,806 - DEBUG - Found match at line 1321
+2025-05-29 15:04:11,806 - DEBUG - Found match at line 1323
+2025-05-29 15:04:11,806 - DEBUG - Found match at line 1327
+2025-05-29 15:04:11,806 - DEBUG - Found match at line 1329
+2025-05-29 15:04:11,806 - DEBUG - Found match at line 1332
+2025-05-29 15:04:11,806 - DEBUG - Found match at line 1334
+2025-05-29 15:04:11,806 - DEBUG - Found match at line 1338
+2025-05-29 15:04:11,806 - DEBUG - Found match at line 1340
+2025-05-29 15:04:11,806 - DEBUG - Found match at line 1343
+2025-05-29 15:04:11,806 - DEBUG - Found match at line 1347
+2025-05-29 15:04:11,806 - DEBUG - Found match at line 1349
+2025-05-29 15:04:11,806 - DEBUG - Found match at line 1351
+2025-05-29 15:04:11,806 - DEBUG - Found match at line 1365
+2025-05-29 15:04:11,806 - DEBUG - Found match at line 1376
+2025-05-29 15:04:11,806 - DEBUG - Found match at line 1387
+2025-05-29 15:04:11,806 - DEBUG - Found match at line 1391
+2025-05-29 15:04:11,806 - DEBUG - Found match at line 1393
+2025-05-29 15:04:11,806 - DEBUG - Found match at line 1395
+2025-05-29 15:04:11,806 - DEBUG - Found match at line 1398
+2025-05-29 15:04:11,806 - DEBUG - Found match at line 1400
+2025-05-29 15:04:11,806 - DEBUG - Found match at line 1402
+2025-05-29 15:04:11,806 - DEBUG - Found match at line 1406
+2025-05-29 15:04:11,806 - DEBUG - Found match at line 1409
+2025-05-29 15:04:11,806 - DEBUG - Found match at line 1413
+2025-05-29 15:04:11,806 - DEBUG - Found match at line 1415
+2025-05-29 15:04:11,806 - DEBUG - Found match at line 1420
+2025-05-29 15:04:11,806 - DEBUG - Found match at line 1431
+2025-05-29 15:04:11,806 - DEBUG - Found match at line 1442
+2025-05-29 15:04:11,806 - DEBUG - Found match at line 1464
+2025-05-29 15:04:11,806 - DEBUG - Found match at line 1475
+2025-05-29 15:04:11,807 - DEBUG - Found match at line 1486
+2025-05-29 15:04:11,807 - DEBUG - Found match at line 1497
+2025-05-29 15:04:11,807 - DEBUG - Found match at line 1508
+2025-05-29 15:04:11,807 - DEBUG - Found match at line 1519
+2025-05-29 15:04:11,807 - DEBUG - Found match at line 1530
+2025-05-29 15:04:11,807 - DEBUG - Found match at line 1532
+2025-05-29 15:04:11,807 - DEBUG - Found match at line 1536
+2025-05-29 15:04:11,807 - DEBUG - Found match at line 1538
+2025-05-29 15:04:11,807 - DEBUG - Found match at line 1541
+2025-05-29 15:04:11,807 - DEBUG - Found match at line 1543
+2025-05-29 15:04:11,807 - DEBUG - Found match at line 1545
+2025-05-29 15:04:11,807 - DEBUG - Found match at line 1547
+2025-05-29 15:04:11,807 - DEBUG - Found match at line 1549
+2025-05-29 15:04:11,807 - DEBUG - Found match at line 1552
+2025-05-29 15:04:11,807 - DEBUG - Found match at line 1554
+2025-05-29 15:04:11,807 - DEBUG - Found match at line 1556
+2025-05-29 15:04:11,807 - DEBUG - Found match at line 1558
+2025-05-29 15:04:11,807 - DEBUG - Found match at line 1560
+2025-05-29 15:04:11,807 - DEBUG - Found match at line 1563
+2025-05-29 15:04:11,807 - DEBUG - Found match at line 1565
+2025-05-29 15:04:11,807 - DEBUG - Found match at line 1567
+2025-05-29 15:04:11,807 - DEBUG - Found match at line 1569
+2025-05-29 15:04:11,807 - DEBUG - Found match at line 1571
+2025-05-29 15:04:11,807 - DEBUG - Found match at line 1574
+2025-05-29 15:04:11,807 - DEBUG - Found match at line 1585
+2025-05-29 15:04:11,807 - DEBUG - Found match at line 1607
+2025-05-29 15:04:11,807 - DEBUG - Found match at line 1618
+2025-05-29 15:04:11,807 - DEBUG - Found match at line 1728
+2025-05-29 15:04:11,808 - DEBUG - Total matches found: 109
+2025-05-29 15:04:11,808 - DEBUG - Found 109 snippets
+2025-05-29 15:04:11,808 - DEBUG - Showing popup
+2025-05-29 15:04:11,808 - DEBUG - Showing popup with 109 snippets
+2025-05-29 15:04:11,809 - DEBUG - Mouse click simulated for deselection
+2025-05-29 15:04:11,810 - DEBUG - Mouse released at position (394.73046875, 571.59375)
+2025-05-29 15:04:12,230 - DEBUG - Selected text: 
+2025-05-29 15:04:12,231 - DEBUG - Mouse released at position (394.73046875, 571.59375)
+2025-05-29 15:04:12,661 - DEBUG - Selected text: 
+2025-05-29 15:04:22,374 - DEBUG - Mouse released at position (422.26953125, 727.37890625)
+2025-05-29 15:04:22,810 - DEBUG - Selected text: 
+2025-05-29 15:04:23,490 - DEBUG - Mouse released at position (638.80078125, 767.5078125)
+2025-05-29 15:04:23,886 - DEBUG - Selected text: 
+2025-05-29 15:05:45,127 - DEBUG - Mouse released at position (394.85546875, 659.890625)
+2025-05-29 15:05:45,586 - DEBUG - Selected text: sathi
+2025-05-29 15:05:45,586 - DEBUG - Searching for keyword: sathi
+2025-05-29 15:05:45,589 - DEBUG - Read 2760 lines from file
+2025-05-29 15:05:45,589 - DEBUG - Found match at line 12
+2025-05-29 15:05:45,589 - DEBUG - Found match at line 14
+2025-05-29 15:05:45,589 - DEBUG - Found match at line 16
+2025-05-29 15:05:45,589 - DEBUG - Found match at line 18
+2025-05-29 15:05:45,589 - DEBUG - Found match at line 23
+2025-05-29 15:05:45,589 - DEBUG - Found match at line 25
+2025-05-29 15:05:45,589 - DEBUG - Found match at line 27
+2025-05-29 15:05:45,589 - DEBUG - Found match at line 29
+2025-05-29 15:05:45,589 - DEBUG - Found match at line 34
+2025-05-29 15:05:45,589 - DEBUG - Found match at line 36
+2025-05-29 15:05:45,589 - DEBUG - Found match at line 38
+2025-05-29 15:05:45,589 - DEBUG - Found match at line 40
+2025-05-29 15:05:45,589 - DEBUG - Found match at line 45
+2025-05-29 15:05:45,589 - DEBUG - Found match at line 47
+2025-05-29 15:05:45,589 - DEBUG - Found match at line 49
+2025-05-29 15:05:45,589 - DEBUG - Found match at line 51
+2025-05-29 15:05:45,589 - DEBUG - Found match at line 317
+2025-05-29 15:05:45,589 - DEBUG - Found match at line 419
+2025-05-29 15:05:45,589 - DEBUG - Found match at line 425
+2025-05-29 15:05:45,589 - DEBUG - Found match at line 427
+2025-05-29 15:05:45,590 - DEBUG - Found match at line 430
+2025-05-29 15:05:45,590 - DEBUG - Found match at line 434
+2025-05-29 15:05:45,590 - DEBUG - Found match at line 436
+2025-05-29 15:05:45,590 - DEBUG - Found match at line 443
+2025-05-29 15:05:45,590 - DEBUG - Found match at line 447
+2025-05-29 15:05:45,590 - DEBUG - Found match at line 449
+2025-05-29 15:05:45,590 - DEBUG - Found match at line 454
+2025-05-29 15:05:45,590 - DEBUG - Found match at line 458
+2025-05-29 15:05:45,590 - DEBUG - Found match at line 460
+2025-05-29 15:05:45,590 - DEBUG - Found match at line 727
+2025-05-29 15:05:45,590 - DEBUG - Found match at line 729
+2025-05-29 15:05:45,590 - DEBUG - Found match at line 731
+2025-05-29 15:05:45,590 - DEBUG - Found match at line 733
+2025-05-29 15:05:45,590 - DEBUG - Found match at line 735
+2025-05-29 15:05:45,590 - DEBUG - Found match at line 773
+2025-05-29 15:05:45,590 - DEBUG - Found match at line 925
+2025-05-29 15:05:45,590 - DEBUG - Found match at line 1277
+2025-05-29 15:05:45,590 - DEBUG - Found match at line 1279
+2025-05-29 15:05:45,590 - DEBUG - Found match at line 1283
+2025-05-29 15:05:45,590 - DEBUG - Found match at line 1285
+2025-05-29 15:05:45,590 - DEBUG - Found match at line 1288
+2025-05-29 15:05:45,590 - DEBUG - Found match at line 1290
+2025-05-29 15:05:45,590 - DEBUG - Found match at line 1296
+2025-05-29 15:05:45,590 - DEBUG - Found match at line 1299
+2025-05-29 15:05:45,590 - DEBUG - Found match at line 1303
+2025-05-29 15:05:45,590 - DEBUG - Found match at line 1305
+2025-05-29 15:05:45,591 - DEBUG - Found match at line 1307
+2025-05-29 15:05:45,591 - DEBUG - Found match at line 1310
+2025-05-29 15:05:45,591 - DEBUG - Found match at line 1312
+2025-05-29 15:05:45,591 - DEBUG - Found match at line 1314
+2025-05-29 15:05:45,591 - DEBUG - Found match at line 1318
+2025-05-29 15:05:45,591 - DEBUG - Found match at line 1321
+2025-05-29 15:05:45,591 - DEBUG - Found match at line 1323
+2025-05-29 15:05:45,591 - DEBUG - Found match at line 1327
+2025-05-29 15:05:45,591 - DEBUG - Found match at line 1329
+2025-05-29 15:05:45,591 - DEBUG - Found match at line 1332
+2025-05-29 15:05:45,591 - DEBUG - Found match at line 1334
+2025-05-29 15:05:45,591 - DEBUG - Found match at line 1338
+2025-05-29 15:05:45,591 - DEBUG - Found match at line 1340
+2025-05-29 15:05:45,591 - DEBUG - Found match at line 1343
+2025-05-29 15:05:45,591 - DEBUG - Found match at line 1347
+2025-05-29 15:05:45,591 - DEBUG - Found match at line 1349
+2025-05-29 15:05:45,591 - DEBUG - Found match at line 1351
+2025-05-29 15:05:45,591 - DEBUG - Found match at line 1365
+2025-05-29 15:05:45,591 - DEBUG - Found match at line 1376
+2025-05-29 15:05:45,591 - DEBUG - Found match at line 1387
+2025-05-29 15:05:45,591 - DEBUG - Found match at line 1391
+2025-05-29 15:05:45,591 - DEBUG - Found match at line 1393
+2025-05-29 15:05:45,591 - DEBUG - Found match at line 1395
+2025-05-29 15:05:45,591 - DEBUG - Found match at line 1398
+2025-05-29 15:05:45,591 - DEBUG - Found match at line 1400
+2025-05-29 15:05:45,591 - DEBUG - Found match at line 1402
+2025-05-29 15:05:45,591 - DEBUG - Found match at line 1406
+2025-05-29 15:05:45,591 - DEBUG - Found match at line 1409
+2025-05-29 15:05:45,591 - DEBUG - Found match at line 1413
+2025-05-29 15:05:45,591 - DEBUG - Found match at line 1415
+2025-05-29 15:05:45,591 - DEBUG - Found match at line 1420
+2025-05-29 15:05:45,591 - DEBUG - Found match at line 1431
+2025-05-29 15:05:45,591 - DEBUG - Found match at line 1442
+2025-05-29 15:05:45,591 - DEBUG - Found match at line 1464
+2025-05-29 15:05:45,591 - DEBUG - Found match at line 1475
+2025-05-29 15:05:45,591 - DEBUG - Found match at line 1486
+2025-05-29 15:05:45,591 - DEBUG - Found match at line 1497
+2025-05-29 15:05:45,591 - DEBUG - Found match at line 1508
+2025-05-29 15:05:45,591 - DEBUG - Found match at line 1519
+2025-05-29 15:05:45,592 - DEBUG - Found match at line 1530
+2025-05-29 15:05:45,592 - DEBUG - Found match at line 1532
+2025-05-29 15:05:45,592 - DEBUG - Found match at line 1536
+2025-05-29 15:05:45,592 - DEBUG - Found match at line 1538
+2025-05-29 15:05:45,592 - DEBUG - Found match at line 1541
+2025-05-29 15:05:45,592 - DEBUG - Found match at line 1543
+2025-05-29 15:05:45,592 - DEBUG - Found match at line 1545
+2025-05-29 15:05:45,592 - DEBUG - Found match at line 1547
+2025-05-29 15:05:45,592 - DEBUG - Found match at line 1549
+2025-05-29 15:05:45,592 - DEBUG - Found match at line 1552
+2025-05-29 15:05:45,592 - DEBUG - Found match at line 1554
+2025-05-29 15:05:45,592 - DEBUG - Found match at line 1556
+2025-05-29 15:05:45,592 - DEBUG - Found match at line 1558
+2025-05-29 15:05:45,592 - DEBUG - Found match at line 1560
+2025-05-29 15:05:45,592 - DEBUG - Found match at line 1563
+2025-05-29 15:05:45,592 - DEBUG - Found match at line 1565
+2025-05-29 15:05:45,592 - DEBUG - Found match at line 1567
+2025-05-29 15:05:45,592 - DEBUG - Found match at line 1569
+2025-05-29 15:05:45,592 - DEBUG - Found match at line 1571
+2025-05-29 15:05:45,592 - DEBUG - Found match at line 1574
+2025-05-29 15:05:45,592 - DEBUG - Found match at line 1585
+2025-05-29 15:05:45,592 - DEBUG - Found match at line 1607
+2025-05-29 15:05:45,592 - DEBUG - Found match at line 1618
+2025-05-29 15:05:45,592 - DEBUG - Found match at line 1728
+2025-05-29 15:05:45,592 - DEBUG - Total matches found: 109
+2025-05-29 15:05:45,592 - DEBUG - Found 109 snippets
+2025-05-29 15:05:45,593 - DEBUG - Showing popup
+2025-05-29 15:05:45,593 - DEBUG - Showing popup with 109 snippets
+2025-05-29 15:05:45,640 - DEBUG - Mouse click simulated for deselection
+2025-05-29 15:05:45,641 - DEBUG - Mouse released at position (394.85546875, 659.890625)
+2025-05-29 15:05:46,039 - DEBUG - Selected text: sathi
+2025-05-29 15:05:46,039 - DEBUG - Searching for keyword: sathi
+2025-05-29 15:05:46,040 - DEBUG - Read 2760 lines from file
+2025-05-29 15:05:46,040 - DEBUG - Found match at line 12
+2025-05-29 15:05:46,040 - DEBUG - Found match at line 14
+2025-05-29 15:05:46,040 - DEBUG - Found match at line 16
+2025-05-29 15:05:46,040 - DEBUG - Found match at line 18
+2025-05-29 15:05:46,040 - DEBUG - Found match at line 23
+2025-05-29 15:05:46,040 - DEBUG - Found match at line 25
+2025-05-29 15:05:46,040 - DEBUG - Found match at line 27
+2025-05-29 15:05:46,041 - DEBUG - Found match at line 29
+2025-05-29 15:05:46,041 - DEBUG - Found match at line 34
+2025-05-29 15:05:46,041 - DEBUG - Found match at line 36
+2025-05-29 15:05:46,041 - DEBUG - Found match at line 38
+2025-05-29 15:05:46,041 - DEBUG - Found match at line 40
+2025-05-29 15:05:46,041 - DEBUG - Found match at line 45
+2025-05-29 15:05:46,041 - DEBUG - Found match at line 47
+2025-05-29 15:05:46,041 - DEBUG - Found match at line 49
+2025-05-29 15:05:46,041 - DEBUG - Found match at line 51
+2025-05-29 15:05:46,041 - DEBUG - Found match at line 317
+2025-05-29 15:05:46,041 - DEBUG - Found match at line 419
+2025-05-29 15:05:46,041 - DEBUG - Found match at line 425
+2025-05-29 15:05:46,041 - DEBUG - Found match at line 427
+2025-05-29 15:05:46,041 - DEBUG - Found match at line 430
+2025-05-29 15:05:46,041 - DEBUG - Found match at line 434
+2025-05-29 15:05:46,041 - DEBUG - Found match at line 436
+2025-05-29 15:05:46,041 - DEBUG - Found match at line 443
+2025-05-29 15:05:46,041 - DEBUG - Found match at line 447
+2025-05-29 15:05:46,041 - DEBUG - Found match at line 449
+2025-05-29 15:05:46,041 - DEBUG - Found match at line 454
+2025-05-29 15:05:46,041 - DEBUG - Found match at line 458
+2025-05-29 15:05:46,041 - DEBUG - Found match at line 460
+2025-05-29 15:05:46,041 - DEBUG - Found match at line 727
+2025-05-29 15:05:46,041 - DEBUG - Found match at line 729
+2025-05-29 15:05:46,041 - DEBUG - Found match at line 731
+2025-05-29 15:05:46,041 - DEBUG - Found match at line 733
+2025-05-29 15:05:46,041 - DEBUG - Found match at line 735
+2025-05-29 15:05:46,041 - DEBUG - Found match at line 773
+2025-05-29 15:05:46,041 - DEBUG - Found match at line 925
+2025-05-29 15:05:46,041 - DEBUG - Found match at line 1277
+2025-05-29 15:05:46,042 - DEBUG - Found match at line 1279
+2025-05-29 15:05:46,042 - DEBUG - Found match at line 1283
+2025-05-29 15:05:46,042 - DEBUG - Found match at line 1285
+2025-05-29 15:05:46,042 - DEBUG - Found match at line 1288
+2025-05-29 15:05:46,042 - DEBUG - Found match at line 1290
+2025-05-29 15:05:46,042 - DEBUG - Found match at line 1296
+2025-05-29 15:05:46,042 - DEBUG - Found match at line 1299
+2025-05-29 15:05:46,042 - DEBUG - Found match at line 1303
+2025-05-29 15:05:46,042 - DEBUG - Found match at line 1305
+2025-05-29 15:05:46,042 - DEBUG - Found match at line 1307
+2025-05-29 15:05:46,042 - DEBUG - Found match at line 1310
+2025-05-29 15:05:46,042 - DEBUG - Found match at line 1312
+2025-05-29 15:05:46,042 - DEBUG - Found match at line 1314
+2025-05-29 15:05:46,042 - DEBUG - Found match at line 1318
+2025-05-29 15:05:46,042 - DEBUG - Found match at line 1321
+2025-05-29 15:05:46,042 - DEBUG - Found match at line 1323
+2025-05-29 15:05:46,042 - DEBUG - Found match at line 1327
+2025-05-29 15:05:46,042 - DEBUG - Found match at line 1329
+2025-05-29 15:05:46,042 - DEBUG - Found match at line 1332
+2025-05-29 15:05:46,042 - DEBUG - Found match at line 1334
+2025-05-29 15:05:46,042 - DEBUG - Found match at line 1338
+2025-05-29 15:05:46,042 - DEBUG - Found match at line 1340
+2025-05-29 15:05:46,042 - DEBUG - Found match at line 1343
+2025-05-29 15:05:46,042 - DEBUG - Found match at line 1347
+2025-05-29 15:05:46,042 - DEBUG - Found match at line 1349
+2025-05-29 15:05:46,042 - DEBUG - Found match at line 1351
+2025-05-29 15:05:46,042 - DEBUG - Found match at line 1365
+2025-05-29 15:05:46,042 - DEBUG - Found match at line 1376
+2025-05-29 15:05:46,042 - DEBUG - Found match at line 1387
+2025-05-29 15:05:46,042 - DEBUG - Found match at line 1391
+2025-05-29 15:05:46,042 - DEBUG - Found match at line 1393
+2025-05-29 15:05:46,042 - DEBUG - Found match at line 1395
+2025-05-29 15:05:46,042 - DEBUG - Found match at line 1398
+2025-05-29 15:05:46,042 - DEBUG - Found match at line 1400
+2025-05-29 15:05:46,042 - DEBUG - Found match at line 1402
+2025-05-29 15:05:46,042 - DEBUG - Found match at line 1406
+2025-05-29 15:05:46,042 - DEBUG - Found match at line 1409
+2025-05-29 15:05:46,042 - DEBUG - Found match at line 1413
+2025-05-29 15:05:46,042 - DEBUG - Found match at line 1415
+2025-05-29 15:05:46,042 - DEBUG - Found match at line 1420
+2025-05-29 15:05:46,042 - DEBUG - Found match at line 1431
+2025-05-29 15:05:46,043 - DEBUG - Found match at line 1442
+2025-05-29 15:05:46,043 - DEBUG - Found match at line 1464
+2025-05-29 15:05:46,043 - DEBUG - Found match at line 1475
+2025-05-29 15:05:46,043 - DEBUG - Found match at line 1486
+2025-05-29 15:05:46,043 - DEBUG - Found match at line 1497
+2025-05-29 15:05:46,043 - DEBUG - Found match at line 1508
+2025-05-29 15:05:46,043 - DEBUG - Found match at line 1519
+2025-05-29 15:05:46,043 - DEBUG - Found match at line 1530
+2025-05-29 15:05:46,043 - DEBUG - Found match at line 1532
+2025-05-29 15:05:46,043 - DEBUG - Found match at line 1536
+2025-05-29 15:05:46,043 - DEBUG - Found match at line 1538
+2025-05-29 15:05:46,043 - DEBUG - Found match at line 1541
+2025-05-29 15:05:46,043 - DEBUG - Found match at line 1543
+2025-05-29 15:05:46,043 - DEBUG - Found match at line 1545
+2025-05-29 15:05:46,043 - DEBUG - Found match at line 1547
+2025-05-29 15:05:46,043 - DEBUG - Found match at line 1549
+2025-05-29 15:05:46,043 - DEBUG - Found match at line 1552
+2025-05-29 15:05:46,043 - DEBUG - Found match at line 1554
+2025-05-29 15:05:46,043 - DEBUG - Found match at line 1556
+2025-05-29 15:05:46,043 - DEBUG - Found match at line 1558
+2025-05-29 15:05:46,043 - DEBUG - Found match at line 1560
+2025-05-29 15:05:46,043 - DEBUG - Found match at line 1563
+2025-05-29 15:05:46,043 - DEBUG - Found match at line 1565
+2025-05-29 15:05:46,043 - DEBUG - Found match at line 1567
+2025-05-29 15:05:46,043 - DEBUG - Found match at line 1569
+2025-05-29 15:05:46,043 - DEBUG - Found match at line 1571
+2025-05-29 15:05:46,043 - DEBUG - Found match at line 1574
+2025-05-29 15:05:46,043 - DEBUG - Found match at line 1585
+2025-05-29 15:05:46,043 - DEBUG - Found match at line 1607
+2025-05-29 15:05:46,043 - DEBUG - Found match at line 1618
+2025-05-29 15:05:46,043 - DEBUG - Found match at line 1728
+2025-05-29 15:05:46,044 - DEBUG - Total matches found: 109
+2025-05-29 15:05:46,044 - DEBUG - Found 109 snippets
+2025-05-29 15:05:46,044 - DEBUG - Showing popup
+2025-05-29 15:05:46,044 - DEBUG - Showing popup with 109 snippets
+2025-05-29 15:05:46,045 - DEBUG - Mouse click simulated for deselection
+2025-05-29 15:05:46,045 - DEBUG - Mouse released at position (394.85546875, 659.890625)
+2025-05-29 15:05:46,455 - DEBUG - Selected text: 
+2025-05-29 15:05:46,456 - DEBUG - Mouse released at position (394.85546875, 659.890625)
+2025-05-29 15:05:46,895 - DEBUG - Selected text: 
+2025-05-29 15:05:50,776 - DEBUG - Mouse released at position (622.19921875, 776.60546875)
+2025-05-29 15:05:51,213 - DEBUG - Selected text: 
+2025-05-29 15:07:25,331 - DEBUG - Mouse released at position (85.27734375, 633.5625)
+2025-05-29 15:07:25,793 - DEBUG - Selected text: TCP/IP protokollari stekining ikkinchi sathi sa
+2025-05-29 15:07:25,794 - DEBUG - Searching for keyword: TCP/IP protokollari stekining ikkinchi sathi sa
+2025-05-29 15:07:25,796 - DEBUG - Read 2760 lines from file
+2025-05-29 15:07:25,796 - DEBUG - Found match at line 23
+2025-05-29 15:07:25,797 - DEBUG - Total matches found: 1
+2025-05-29 15:07:25,797 - DEBUG - Found 1 snippets
+2025-05-29 15:07:25,797 - DEBUG - Showing popup
+2025-05-29 15:07:25,798 - DEBUG - Showing popup with 1 snippets
+2025-05-29 15:07:25,846 - DEBUG - Mouse click simulated for deselection
+2025-05-29 15:07:25,868 - DEBUG - Mouse released at position (189.98828125, 601.05078125)
+2025-05-29 15:07:26,262 - DEBUG - Selected text: TCP/IP protokollari stekining ikkinchi sathi sa
+2025-05-29 15:07:26,262 - DEBUG - Searching for keyword: TCP/IP protokollari stekining ikkinchi sathi sa
+2025-05-29 15:07:26,263 - DEBUG - Read 2760 lines from file
+2025-05-29 15:07:26,263 - DEBUG - Found match at line 23
+2025-05-29 15:07:26,264 - DEBUG - Total matches found: 1
+2025-05-29 15:07:26,264 - DEBUG - Found 1 snippets
+2025-05-29 15:07:26,265 - DEBUG - Showing popup
+2025-05-29 15:07:26,265 - DEBUG - Showing popup with 1 snippets
+2025-05-29 15:07:26,265 - DEBUG - Mouse click simulated for deselection
+2025-05-29 15:07:26,267 - DEBUG - Mouse released at position (189.98828125, 601.05078125)
+2025-05-29 15:07:26,679 - DEBUG - Selected text: 
+2025-05-29 15:07:28,412 - DEBUG - Mouse released at position (387.05859375, 658.55859375)
+2025-05-29 15:07:28,861 - DEBUG - Selected text: sathi
+2025-05-29 15:07:28,861 - DEBUG - Searching for keyword: sathi
+2025-05-29 15:07:28,862 - DEBUG - Read 2760 lines from file
+2025-05-29 15:07:28,862 - DEBUG - Found match at line 12
+2025-05-29 15:07:28,862 - DEBUG - Found match at line 14
+2025-05-29 15:07:28,862 - DEBUG - Found match at line 16
+2025-05-29 15:07:28,862 - DEBUG - Found match at line 18
+2025-05-29 15:07:28,862 - DEBUG - Found match at line 23
+2025-05-29 15:07:28,862 - DEBUG - Found match at line 25
+2025-05-29 15:07:28,862 - DEBUG - Found match at line 27
+2025-05-29 15:07:28,862 - DEBUG - Found match at line 29
+2025-05-29 15:07:28,862 - DEBUG - Found match at line 34
+2025-05-29 15:07:28,862 - DEBUG - Found match at line 36
+2025-05-29 15:07:28,862 - DEBUG - Found match at line 38
+2025-05-29 15:07:28,862 - DEBUG - Found match at line 40
+2025-05-29 15:07:28,862 - DEBUG - Found match at line 45
+2025-05-29 15:07:28,862 - DEBUG - Found match at line 47
+2025-05-29 15:07:28,862 - DEBUG - Found match at line 49
+2025-05-29 15:07:28,862 - DEBUG - Found match at line 51
+2025-05-29 15:07:28,862 - DEBUG - Found match at line 317
+2025-05-29 15:07:28,862 - DEBUG - Found match at line 419
+2025-05-29 15:07:28,863 - DEBUG - Found match at line 425
+2025-05-29 15:07:28,863 - DEBUG - Found match at line 427
+2025-05-29 15:07:28,863 - DEBUG - Found match at line 430
+2025-05-29 15:07:28,863 - DEBUG - Found match at line 434
+2025-05-29 15:07:28,863 - DEBUG - Found match at line 436
+2025-05-29 15:07:28,863 - DEBUG - Found match at line 443
+2025-05-29 15:07:28,863 - DEBUG - Found match at line 447
+2025-05-29 15:07:28,863 - DEBUG - Found match at line 449
+2025-05-29 15:07:28,863 - DEBUG - Found match at line 454
+2025-05-29 15:07:28,863 - DEBUG - Found match at line 458
+2025-05-29 15:07:28,863 - DEBUG - Found match at line 460
+2025-05-29 15:07:28,863 - DEBUG - Found match at line 727
+2025-05-29 15:07:28,863 - DEBUG - Found match at line 729
+2025-05-29 15:07:28,863 - DEBUG - Found match at line 731
+2025-05-29 15:07:28,863 - DEBUG - Found match at line 733
+2025-05-29 15:07:28,863 - DEBUG - Found match at line 735
+2025-05-29 15:07:28,863 - DEBUG - Found match at line 773
+2025-05-29 15:07:28,863 - DEBUG - Found match at line 925
+2025-05-29 15:07:28,863 - DEBUG - Found match at line 1277
+2025-05-29 15:07:28,863 - DEBUG - Found match at line 1279
+2025-05-29 15:07:28,863 - DEBUG - Found match at line 1283
+2025-05-29 15:07:28,863 - DEBUG - Found match at line 1285
+2025-05-29 15:07:28,863 - DEBUG - Found match at line 1288
+2025-05-29 15:07:28,863 - DEBUG - Found match at line 1290
+2025-05-29 15:07:28,863 - DEBUG - Found match at line 1296
+2025-05-29 15:07:28,863 - DEBUG - Found match at line 1299
+2025-05-29 15:07:28,863 - DEBUG - Found match at line 1303
+2025-05-29 15:07:28,863 - DEBUG - Found match at line 1305
+2025-05-29 15:07:28,863 - DEBUG - Found match at line 1307
+2025-05-29 15:07:28,863 - DEBUG - Found match at line 1310
+2025-05-29 15:07:28,863 - DEBUG - Found match at line 1312
+2025-05-29 15:07:28,864 - DEBUG - Found match at line 1314
+2025-05-29 15:07:28,864 - DEBUG - Found match at line 1318
+2025-05-29 15:07:28,864 - DEBUG - Found match at line 1321
+2025-05-29 15:07:28,864 - DEBUG - Found match at line 1323
+2025-05-29 15:07:28,864 - DEBUG - Found match at line 1327
+2025-05-29 15:07:28,864 - DEBUG - Found match at line 1329
+2025-05-29 15:07:28,864 - DEBUG - Found match at line 1332
+2025-05-29 15:07:28,864 - DEBUG - Found match at line 1334
+2025-05-29 15:07:28,864 - DEBUG - Found match at line 1338
+2025-05-29 15:07:28,864 - DEBUG - Found match at line 1340
+2025-05-29 15:07:28,864 - DEBUG - Found match at line 1343
+2025-05-29 15:07:28,864 - DEBUG - Found match at line 1347
+2025-05-29 15:07:28,864 - DEBUG - Found match at line 1349
+2025-05-29 15:07:28,864 - DEBUG - Found match at line 1351
+2025-05-29 15:07:28,864 - DEBUG - Found match at line 1365
+2025-05-29 15:07:28,864 - DEBUG - Found match at line 1376
+2025-05-29 15:07:28,864 - DEBUG - Found match at line 1387
+2025-05-29 15:07:28,864 - DEBUG - Found match at line 1391
+2025-05-29 15:07:28,864 - DEBUG - Found match at line 1393
+2025-05-29 15:07:28,864 - DEBUG - Found match at line 1395
+2025-05-29 15:07:28,864 - DEBUG - Found match at line 1398
+2025-05-29 15:07:28,864 - DEBUG - Found match at line 1400
+2025-05-29 15:07:28,864 - DEBUG - Found match at line 1402
+2025-05-29 15:07:28,864 - DEBUG - Found match at line 1406
+2025-05-29 15:07:28,864 - DEBUG - Found match at line 1409
+2025-05-29 15:07:28,864 - DEBUG - Found match at line 1413
+2025-05-29 15:07:28,864 - DEBUG - Found match at line 1415
+2025-05-29 15:07:28,864 - DEBUG - Found match at line 1420
+2025-05-29 15:07:28,864 - DEBUG - Found match at line 1431
+2025-05-29 15:07:28,864 - DEBUG - Found match at line 1442
+2025-05-29 15:07:28,864 - DEBUG - Found match at line 1464
+2025-05-29 15:07:28,864 - DEBUG - Found match at line 1475
+2025-05-29 15:07:28,864 - DEBUG - Found match at line 1486
+2025-05-29 15:07:28,864 - DEBUG - Found match at line 1497
+2025-05-29 15:07:28,864 - DEBUG - Found match at line 1508
+2025-05-29 15:07:28,864 - DEBUG - Found match at line 1519
+2025-05-29 15:07:28,864 - DEBUG - Found match at line 1530
+2025-05-29 15:07:28,864 - DEBUG - Found match at line 1532
+2025-05-29 15:07:28,864 - DEBUG - Found match at line 1536
+2025-05-29 15:07:28,864 - DEBUG - Found match at line 1538
+2025-05-29 15:07:28,865 - DEBUG - Found match at line 1541
+2025-05-29 15:07:28,865 - DEBUG - Found match at line 1543
+2025-05-29 15:07:28,865 - DEBUG - Found match at line 1545
+2025-05-29 15:07:28,865 - DEBUG - Found match at line 1547
+2025-05-29 15:07:28,865 - DEBUG - Found match at line 1549
+2025-05-29 15:07:28,865 - DEBUG - Found match at line 1552
+2025-05-29 15:07:28,865 - DEBUG - Found match at line 1554
+2025-05-29 15:07:28,865 - DEBUG - Found match at line 1556
+2025-05-29 15:07:28,865 - DEBUG - Found match at line 1558
+2025-05-29 15:07:28,865 - DEBUG - Found match at line 1560
+2025-05-29 15:07:28,865 - DEBUG - Found match at line 1563
+2025-05-29 15:07:28,865 - DEBUG - Found match at line 1565
+2025-05-29 15:07:28,865 - DEBUG - Found match at line 1567
+2025-05-29 15:07:28,865 - DEBUG - Found match at line 1569
+2025-05-29 15:07:28,865 - DEBUG - Found match at line 1571
+2025-05-29 15:07:28,865 - DEBUG - Found match at line 1574
+2025-05-29 15:07:28,865 - DEBUG - Found match at line 1585
+2025-05-29 15:07:28,865 - DEBUG - Found match at line 1607
+2025-05-29 15:07:28,865 - DEBUG - Found match at line 1618
+2025-05-29 15:07:28,865 - DEBUG - Found match at line 1728
+2025-05-29 15:07:28,865 - DEBUG - Total matches found: 109
+2025-05-29 15:07:28,865 - DEBUG - Found 109 snippets
+2025-05-29 15:07:28,866 - DEBUG - Showing popup
+2025-05-29 15:07:28,866 - DEBUG - Showing popup with 109 snippets
+2025-05-29 15:07:28,867 - DEBUG - Mouse click simulated for deselection
+2025-05-29 15:07:28,867 - DEBUG - Mouse released at position (387.05859375, 658.55859375)
+2025-05-29 15:07:29,284 - DEBUG - Selected text: 
+2025-05-29 15:07:29,284 - DEBUG - Mouse released at position (387.05859375, 658.55859375)
+2025-05-29 15:07:29,710 - DEBUG - Selected text: 
+2025-05-29 15:07:32,379 - DEBUG - Mouse released at position (634.8046875, 792.54296875)
+2025-05-29 15:07:32,821 - DEBUG - Selected text: 
+2025-05-29 15:12:03,720 - DEBUG - Mouse released at position (99.75390625, 630.99609375)
+2025-05-29 15:12:04,090 - DEBUG - Key pressed: c
+2025-05-29 15:12:04,326 - DEBUG - Selected text: TCP/IP protokollari stekining ikkinchi sathi s
+2025-05-29 15:12:04,326 - DEBUG - Searching for keyword: TCP/IP protokollari stekining ikkinchi sathi s
+2025-05-29 15:12:04,329 - DEBUG - Read 2760 lines from file
+2025-05-29 15:12:04,329 - DEBUG - Found match at line 23
+2025-05-29 15:12:04,330 - DEBUG - Total matches found: 1
+2025-05-29 15:12:04,330 - DEBUG - Found 1 snippets
+2025-05-29 15:12:04,331 - DEBUG - Showing popup
+2025-05-29 15:12:04,332 - DEBUG - Showing popup with 1 snippets
+2025-05-29 15:12:04,383 - DEBUG - Mouse click simulated for deselection
+2025-05-29 15:12:04,401 - DEBUG - Mouse released at position (317.96875, 655.42578125)
+2025-05-29 15:12:04,562 - DEBUG - Key pressed: c
+2025-05-29 15:12:04,800 - DEBUG - Selected text: TCP/IP protokollari stekining ikkinchi sathi s
+2025-05-29 15:12:04,800 - DEBUG - Searching for keyword: TCP/IP protokollari stekining ikkinchi sathi s
+2025-05-29 15:12:04,801 - DEBUG - Read 2760 lines from file
+2025-05-29 15:12:04,801 - DEBUG - Found match at line 23
+2025-05-29 15:12:04,802 - DEBUG - Total matches found: 1
+2025-05-29 15:12:04,802 - DEBUG - Found 1 snippets
+2025-05-29 15:12:04,928 - DEBUG - Showing popup
+2025-05-29 15:12:04,928 - DEBUG - Showing popup with 1 snippets
+2025-05-29 15:12:04,929 - DEBUG - Mouse click simulated for deselection
+2025-05-29 15:12:04,934 - DEBUG - Mouse released at position (317.96875, 655.42578125)
+2025-05-29 15:12:05,129 - DEBUG - Key pressed: c
+2025-05-29 15:12:05,366 - DEBUG - Selected text: 
+2025-05-29 15:12:05,753 - DEBUG - Mouse released at position (402.96484375, 665.96875)
+2025-05-29 15:12:05,954 - DEBUG - Key pressed: c
+2025-05-29 15:12:06,187 - DEBUG - Selected text: i sathi sat
+2025-05-29 15:12:06,187 - DEBUG - Searching for keyword: i sathi sat
+2025-05-29 15:12:06,188 - DEBUG - Read 2760 lines from file
+2025-05-29 15:12:06,188 - DEBUG - Found match at line 12
+2025-05-29 15:12:06,188 - DEBUG - Found match at line 23
+2025-05-29 15:12:06,188 - DEBUG - Found match at line 34
+2025-05-29 15:12:06,188 - DEBUG - Found match at line 45
+2025-05-29 15:12:06,189 - DEBUG - Total matches found: 4
+2025-05-29 15:12:06,189 - DEBUG - Found 4 snippets
+2025-05-29 15:12:06,190 - DEBUG - Showing popup
+2025-05-29 15:12:06,190 - DEBUG - Showing popup with 4 snippets
+2025-05-29 15:12:06,190 - DEBUG - Mouse click simulated for deselection
+2025-05-29 15:12:06,191 - DEBUG - Mouse released at position (402.96484375, 665.96875)
+2025-05-29 15:12:06,372 - DEBUG - Key pressed: c
+2025-05-29 15:12:06,610 - DEBUG - Selected text: 
+2025-05-29 15:12:07,087 - DEBUG - Mouse released at position (346.44921875, 662.26171875)
+2025-05-29 15:12:07,294 - DEBUG - Key pressed: c
+2025-05-29 15:12:07,532 - DEBUG - Selected text: sathi
+2025-05-29 15:12:07,533 - DEBUG - Searching for keyword: sathi
+2025-05-29 15:12:07,534 - DEBUG - Read 2760 lines from file
+2025-05-29 15:12:07,534 - DEBUG - Found match at line 12
+2025-05-29 15:12:07,534 - DEBUG - Found match at line 14
+2025-05-29 15:12:07,534 - DEBUG - Found match at line 16
+2025-05-29 15:12:07,534 - DEBUG - Found match at line 18
+2025-05-29 15:12:07,534 - DEBUG - Found match at line 23
+2025-05-29 15:12:07,534 - DEBUG - Found match at line 25
+2025-05-29 15:12:07,534 - DEBUG - Found match at line 27
+2025-05-29 15:12:07,534 - DEBUG - Found match at line 29
+2025-05-29 15:12:07,534 - DEBUG - Found match at line 34
+2025-05-29 15:12:07,534 - DEBUG - Found match at line 36
+2025-05-29 15:12:07,534 - DEBUG - Found match at line 38
+2025-05-29 15:12:07,534 - DEBUG - Found match at line 40
+2025-05-29 15:12:07,534 - DEBUG - Found match at line 45
+2025-05-29 15:12:07,534 - DEBUG - Found match at line 47
+2025-05-29 15:12:07,534 - DEBUG - Found match at line 49
+2025-05-29 15:12:07,534 - DEBUG - Found match at line 51
+2025-05-29 15:12:07,534 - DEBUG - Found match at line 317
+2025-05-29 15:12:07,534 - DEBUG - Found match at line 419
+2025-05-29 15:12:07,534 - DEBUG - Found match at line 425
+2025-05-29 15:12:07,534 - DEBUG - Found match at line 427
+2025-05-29 15:12:07,534 - DEBUG - Found match at line 430
+2025-05-29 15:12:07,535 - DEBUG - Found match at line 434
+2025-05-29 15:12:07,535 - DEBUG - Found match at line 436
+2025-05-29 15:12:07,535 - DEBUG - Found match at line 443
+2025-05-29 15:12:07,535 - DEBUG - Found match at line 447
+2025-05-29 15:12:07,535 - DEBUG - Found match at line 449
+2025-05-29 15:12:07,535 - DEBUG - Found match at line 454
+2025-05-29 15:12:07,535 - DEBUG - Found match at line 458
+2025-05-29 15:12:07,535 - DEBUG - Found match at line 460
+2025-05-29 15:12:07,535 - DEBUG - Found match at line 727
+2025-05-29 15:12:07,535 - DEBUG - Found match at line 729
+2025-05-29 15:12:07,535 - DEBUG - Found match at line 731
+2025-05-29 15:12:07,535 - DEBUG - Found match at line 733
+2025-05-29 15:12:07,535 - DEBUG - Found match at line 735
+2025-05-29 15:12:07,535 - DEBUG - Found match at line 773
+2025-05-29 15:12:07,535 - DEBUG - Found match at line 925
+2025-05-29 15:12:07,535 - DEBUG - Found match at line 1277
+2025-05-29 15:12:07,535 - DEBUG - Found match at line 1279
+2025-05-29 15:12:07,535 - DEBUG - Found match at line 1283
+2025-05-29 15:12:07,535 - DEBUG - Found match at line 1285
+2025-05-29 15:12:07,535 - DEBUG - Found match at line 1288
+2025-05-29 15:12:07,535 - DEBUG - Found match at line 1290
+2025-05-29 15:12:07,535 - DEBUG - Found match at line 1296
+2025-05-29 15:12:07,535 - DEBUG - Found match at line 1299
+2025-05-29 15:12:07,535 - DEBUG - Found match at line 1303
+2025-05-29 15:12:07,535 - DEBUG - Found match at line 1305
+2025-05-29 15:12:07,535 - DEBUG - Found match at line 1307
+2025-05-29 15:12:07,535 - DEBUG - Found match at line 1310
+2025-05-29 15:12:07,536 - DEBUG - Found match at line 1312
+2025-05-29 15:12:07,536 - DEBUG - Found match at line 1314
+2025-05-29 15:12:07,536 - DEBUG - Found match at line 1318
+2025-05-29 15:12:07,536 - DEBUG - Found match at line 1321
+2025-05-29 15:12:07,536 - DEBUG - Found match at line 1323
+2025-05-29 15:12:07,536 - DEBUG - Found match at line 1327
+2025-05-29 15:12:07,536 - DEBUG - Found match at line 1329
+2025-05-29 15:12:07,536 - DEBUG - Found match at line 1332
+2025-05-29 15:12:07,536 - DEBUG - Found match at line 1334
+2025-05-29 15:12:07,536 - DEBUG - Found match at line 1338
+2025-05-29 15:12:07,536 - DEBUG - Found match at line 1340
+2025-05-29 15:12:07,536 - DEBUG - Found match at line 1343
+2025-05-29 15:12:07,536 - DEBUG - Found match at line 1347
+2025-05-29 15:12:07,536 - DEBUG - Found match at line 1349
+2025-05-29 15:12:07,536 - DEBUG - Found match at line 1351
+2025-05-29 15:12:07,536 - DEBUG - Found match at line 1365
+2025-05-29 15:12:07,536 - DEBUG - Found match at line 1376
+2025-05-29 15:12:07,536 - DEBUG - Found match at line 1387
+2025-05-29 15:12:07,536 - DEBUG - Found match at line 1391
+2025-05-29 15:12:07,536 - DEBUG - Found match at line 1393
+2025-05-29 15:12:07,536 - DEBUG - Found match at line 1395
+2025-05-29 15:12:07,536 - DEBUG - Found match at line 1398
+2025-05-29 15:12:07,536 - DEBUG - Found match at line 1400
+2025-05-29 15:12:07,536 - DEBUG - Found match at line 1402
+2025-05-29 15:12:07,536 - DEBUG - Found match at line 1406
+2025-05-29 15:12:07,536 - DEBUG - Found match at line 1409
+2025-05-29 15:12:07,536 - DEBUG - Found match at line 1413
+2025-05-29 15:12:07,536 - DEBUG - Found match at line 1415
+2025-05-29 15:12:07,536 - DEBUG - Found match at line 1420
+2025-05-29 15:12:07,536 - DEBUG - Found match at line 1431
+2025-05-29 15:12:07,536 - DEBUG - Found match at line 1442
+2025-05-29 15:12:07,536 - DEBUG - Found match at line 1464
+2025-05-29 15:12:07,536 - DEBUG - Found match at line 1475
+2025-05-29 15:12:07,536 - DEBUG - Found match at line 1486
+2025-05-29 15:12:07,536 - DEBUG - Found match at line 1497
+2025-05-29 15:12:07,536 - DEBUG - Found match at line 1508
+2025-05-29 15:12:07,536 - DEBUG - Found match at line 1519
+2025-05-29 15:12:07,536 - DEBUG - Found match at line 1530
+2025-05-29 15:12:07,536 - DEBUG - Found match at line 1532
+2025-05-29 15:12:07,537 - DEBUG - Found match at line 1536
+2025-05-29 15:12:07,537 - DEBUG - Found match at line 1538
+2025-05-29 15:12:07,537 - DEBUG - Found match at line 1541
+2025-05-29 15:12:07,537 - DEBUG - Found match at line 1543
+2025-05-29 15:12:07,537 - DEBUG - Found match at line 1545
+2025-05-29 15:12:07,537 - DEBUG - Found match at line 1547
+2025-05-29 15:12:07,537 - DEBUG - Found match at line 1549
+2025-05-29 15:12:07,537 - DEBUG - Found match at line 1552
+2025-05-29 15:12:07,537 - DEBUG - Found match at line 1554
+2025-05-29 15:12:07,537 - DEBUG - Found match at line 1556
+2025-05-29 15:12:07,537 - DEBUG - Found match at line 1558
+2025-05-29 15:12:07,537 - DEBUG - Found match at line 1560
+2025-05-29 15:12:07,537 - DEBUG - Found match at line 1563
+2025-05-29 15:12:07,537 - DEBUG - Found match at line 1565
+2025-05-29 15:12:07,537 - DEBUG - Found match at line 1567
+2025-05-29 15:12:07,537 - DEBUG - Found match at line 1569
+2025-05-29 15:12:07,537 - DEBUG - Found match at line 1571
+2025-05-29 15:12:07,537 - DEBUG - Found match at line 1574
+2025-05-29 15:12:07,537 - DEBUG - Found match at line 1585
+2025-05-29 15:12:07,537 - DEBUG - Found match at line 1607
+2025-05-29 15:12:07,537 - DEBUG - Found match at line 1618
+2025-05-29 15:12:07,537 - DEBUG - Found match at line 1728
+2025-05-29 15:12:07,537 - DEBUG - Total matches found: 109
+2025-05-29 15:12:07,538 - DEBUG - Found 109 snippets
+2025-05-29 15:12:07,538 - DEBUG - Showing popup
+2025-05-29 15:12:07,538 - DEBUG - Showing popup with 109 snippets
+2025-05-29 15:12:07,539 - DEBUG - Mouse click simulated for deselection
+2025-05-29 15:12:07,539 - DEBUG - Mouse released at position (346.44921875, 662.26171875)
+2025-05-29 15:12:07,723 - DEBUG - Key pressed: c
+2025-05-29 15:12:07,964 - DEBUG - Selected text: 
+2025-05-29 15:12:07,965 - DEBUG - Mouse released at position (346.44921875, 662.26171875)
+2025-05-29 15:12:08,153 - DEBUG - Key pressed: c
+2025-05-29 15:12:08,391 - DEBUG - Selected text: 
+2025-05-29 15:12:09,133 - DEBUG - Key pressed: x
+2025-05-29 15:12:09,135 - DEBUG - Moved to next snippet: 2
+2025-05-29 15:12:09,720 - DEBUG - Key pressed: x
+2025-05-29 15:12:09,723 - DEBUG - Moved to next snippet: 3
+2025-05-29 15:12:09,967 - DEBUG - Key pressed: x
+2025-05-29 15:12:09,969 - DEBUG - Moved to next snippet: 4
+2025-05-29 15:12:10,170 - DEBUG - Key pressed: x
+2025-05-29 15:12:10,172 - DEBUG - Moved to next snippet: 5
+2025-05-29 15:12:10,438 - DEBUG - Key pressed: x
+2025-05-29 15:12:10,440 - DEBUG - Moved to next snippet: 6
+2025-05-29 15:12:10,935 - DEBUG - Key pressed: x
+2025-05-29 15:12:10,937 - DEBUG - Moved to next snippet: 7
+2025-05-29 15:12:11,110 - DEBUG - Key pressed: x
+2025-05-29 15:12:11,112 - DEBUG - Moved to next snippet: 8
+2025-05-29 15:12:11,580 - DEBUG - Key pressed: x
+2025-05-29 15:12:11,582 - DEBUG - Moved to next snippet: 9
+2025-05-29 15:12:11,754 - DEBUG - Key pressed: x
+2025-05-29 15:12:11,756 - DEBUG - Moved to next snippet: 10
+2025-05-29 15:12:11,944 - DEBUG - Key pressed: x
+2025-05-29 15:12:11,947 - DEBUG - Moved to next snippet: 11
+2025-05-29 15:12:12,331 - DEBUG - Key pressed: z
+2025-05-29 15:12:12,331 - DEBUG - Moved to previous snippet: 10
+2025-05-29 15:12:12,500 - DEBUG - Key pressed: z
+2025-05-29 15:12:12,502 - DEBUG - Moved to previous snippet: 9
+2025-05-29 15:12:12,674 - DEBUG - Key pressed: z
+2025-05-29 15:12:12,677 - DEBUG - Moved to previous snippet: 8
+2025-05-29 15:12:12,858 - DEBUG - Key pressed: z
+2025-05-29 15:12:12,860 - DEBUG - Moved to previous snippet: 7
+2025-05-29 15:12:13,243 - DEBUG - Key pressed: z
+2025-05-29 15:12:13,245 - DEBUG - Moved to previous snippet: 6
+2025-05-29 15:12:16,703 - DEBUG - Key pressed: z
+2025-05-29 15:12:16,705 - DEBUG - Moved to previous snippet: 5
+2025-05-29 15:12:18,394 - DEBUG - Key pressed: x
+2025-05-29 15:12:18,395 - DEBUG - Moved to next snippet: 6
+2025-05-29 15:12:19,415 - DEBUG - Key pressed: x
+2025-05-29 15:12:19,417 - DEBUG - Moved to next snippet: 7
+2025-05-29 15:12:20,136 - DEBUG - Key pressed: x
+2025-05-29 15:12:20,138 - DEBUG - Moved to next snippet: 8
+2025-05-29 15:12:21,121 - DEBUG - Mouse released at position (285.171875, 662.3203125)
+2025-05-29 15:12:21,315 - DEBUG - Key pressed: c
+2025-05-29 15:12:21,554 - DEBUG - Selected text: inchi sa
+2025-05-29 15:12:21,555 - DEBUG - Searching for keyword: inchi sa
+2025-05-29 15:12:21,555 - DEBUG - Read 2760 lines from file
+2025-05-29 15:12:21,556 - DEBUG - Found match at line 23
+2025-05-29 15:12:21,556 - DEBUG - Found match at line 34
+2025-05-29 15:12:21,556 - DEBUG - Found match at line 45
+2025-05-29 15:12:21,556 - DEBUG - Found match at line 1277
+2025-05-29 15:12:21,556 - DEBUG - Found match at line 1288
+2025-05-29 15:12:21,556 - DEBUG - Found match at line 1299
+2025-05-29 15:12:21,556 - DEBUG - Found match at line 1310
+2025-05-29 15:12:21,556 - DEBUG - Found match at line 1321
+2025-05-29 15:12:21,556 - DEBUG - Found match at line 1332
+2025-05-29 15:12:21,556 - DEBUG - Found match at line 1343
+2025-05-29 15:12:21,557 - DEBUG - Total matches found: 10
+2025-05-29 15:12:21,557 - DEBUG - Found 10 snippets
+2025-05-29 15:12:21,557 - DEBUG - Showing popup
+2025-05-29 15:12:21,557 - DEBUG - Showing popup with 10 snippets
+2025-05-29 15:12:21,558 - DEBUG - Mouse click simulated for deselection
+2025-05-29 15:12:21,558 - DEBUG - Mouse released at position (285.171875, 662.3203125)
+2025-05-29 15:12:21,715 - DEBUG - Key pressed: c
+2025-05-29 15:12:21,954 - DEBUG - Selected text: 
+2025-05-29 15:12:23,272 - DEBUG - Mouse released at position (376.140625, 656.7265625)
+2025-05-29 15:12:23,481 - DEBUG - Key pressed: c
+2025-05-29 15:12:23,722 - DEBUG - Selected text: inchi sathi
+2025-05-29 15:12:23,722 - DEBUG - Searching for keyword: inchi sathi
+2025-05-29 15:12:23,723 - DEBUG - Read 2760 lines from file
+2025-05-29 15:12:23,723 - DEBUG - Found match at line 23
+2025-05-29 15:12:23,723 - DEBUG - Found match at line 34
+2025-05-29 15:12:23,723 - DEBUG - Found match at line 45
+2025-05-29 15:12:23,724 - DEBUG - Found match at line 1277
+2025-05-29 15:12:23,724 - DEBUG - Found match at line 1288
+2025-05-29 15:12:23,724 - DEBUG - Found match at line 1299
+2025-05-29 15:12:23,724 - DEBUG - Found match at line 1310
+2025-05-29 15:12:23,724 - DEBUG - Found match at line 1321
+2025-05-29 15:12:23,724 - DEBUG - Found match at line 1332
+2025-05-29 15:12:23,724 - DEBUG - Found match at line 1343
+2025-05-29 15:12:23,725 - DEBUG - Total matches found: 10
+2025-05-29 15:12:23,725 - DEBUG - Found 10 snippets
+2025-05-29 15:12:23,873 - DEBUG - Showing popup
+2025-05-29 15:12:23,873 - DEBUG - Showing popup with 10 snippets
+2025-05-29 15:12:23,875 - DEBUG - Mouse click simulated for deselection
+2025-05-29 15:12:23,877 - DEBUG - Mouse released at position (376.140625, 656.7265625)
+2025-05-29 15:12:24,064 - DEBUG - Key pressed: c
+2025-05-29 15:12:24,289 - DEBUG - Selected text: 
+2025-05-29 15:12:25,297 - DEBUG - Key pressed: Key.ctrl
+2025-05-29 15:12:25,304 - DEBUG - Mouse released at position (713.42578125, 828.27734375)
+2025-05-29 15:12:25,389 - DEBUG - Key pressed: c
+2025-05-29 15:13:26,073 - DEBUG - Mouse released at position (441.3984375, 659.12109375)
+2025-05-29 15:13:26,301 - DEBUG - Key pressed: c
+2025-05-29 15:13:26,541 - DEBUG - Selected text: ining ikkinchi sathi sathi qa
+2025-05-29 15:13:26,542 - DEBUG - Searching for keyword: ining ikkinchi sathi sathi qa
+2025-05-29 15:13:26,544 - DEBUG - Read 2760 lines from file
+2025-05-29 15:13:26,545 - DEBUG - Found match at line 23
+2025-05-29 15:13:26,545 - DEBUG - Total matches found: 1
+2025-05-29 15:13:26,545 - DEBUG - Found 1 snippets
+2025-05-29 15:13:26,546 - DEBUG - Showing popup
+2025-05-29 15:13:26,547 - DEBUG - Showing popup with 1 snippets
+2025-05-29 15:13:26,598 - DEBUG - Mouse click simulated for deselection
+2025-05-29 15:13:26,616 - DEBUG - Mouse released at position (441.3984375, 659.12109375)
+2025-05-29 15:13:26,774 - DEBUG - Key pressed: c
+2025-05-29 15:13:27,010 - DEBUG - Selected text: ining ikkinchi sathi sathi qa
+2025-05-29 15:13:27,011 - DEBUG - Searching for keyword: ining ikkinchi sathi sathi qa
+2025-05-29 15:13:27,012 - DEBUG - Read 2760 lines from file
+2025-05-29 15:13:27,012 - DEBUG - Found match at line 23
+2025-05-29 15:13:27,013 - DEBUG - Total matches found: 1
+2025-05-29 15:13:27,013 - DEBUG - Found 1 snippets
+2025-05-29 15:13:27,013 - DEBUG - Showing popup
+2025-05-29 15:13:27,013 - DEBUG - Showing popup with 1 snippets
+2025-05-29 15:13:27,014 - DEBUG - Mouse click simulated for deselection
+2025-05-29 15:13:27,014 - DEBUG - Mouse released at position (441.3984375, 659.12109375)
+2025-05-29 15:13:27,174 - DEBUG - Key pressed: c
+2025-05-29 15:13:27,413 - DEBUG - Selected text: 
+2025-05-29 15:13:28,640 - DEBUG - Mouse released at position (345.328125, 665.66796875)
+2025-05-29 15:13:28,846 - DEBUG - Key pressed: c
+2025-05-29 15:13:29,073 - DEBUG - Selected text: sathi
+2025-05-29 15:13:29,073 - DEBUG - Searching for keyword: sathi
+2025-05-29 15:13:29,074 - DEBUG - Read 2760 lines from file
+2025-05-29 15:13:29,074 - DEBUG - Found match at line 12
+2025-05-29 15:13:29,074 - DEBUG - Found match at line 14
+2025-05-29 15:13:29,074 - DEBUG - Found match at line 16
+2025-05-29 15:13:29,074 - DEBUG - Found match at line 18
+2025-05-29 15:13:29,074 - DEBUG - Found match at line 23
+2025-05-29 15:13:29,074 - DEBUG - Found match at line 25
+2025-05-29 15:13:29,074 - DEBUG - Found match at line 27
+2025-05-29 15:13:29,074 - DEBUG - Found match at line 29
+2025-05-29 15:13:29,074 - DEBUG - Found match at line 34
+2025-05-29 15:13:29,074 - DEBUG - Found match at line 36
+2025-05-29 15:13:29,074 - DEBUG - Found match at line 38
+2025-05-29 15:13:29,074 - DEBUG - Found match at line 40
+2025-05-29 15:13:29,074 - DEBUG - Found match at line 45
+2025-05-29 15:13:29,074 - DEBUG - Found match at line 47
+2025-05-29 15:13:29,074 - DEBUG - Found match at line 49
+2025-05-29 15:13:29,074 - DEBUG - Found match at line 51
+2025-05-29 15:13:29,074 - DEBUG - Found match at line 317
+2025-05-29 15:13:29,075 - DEBUG - Found match at line 419
+2025-05-29 15:13:29,075 - DEBUG - Found match at line 425
+2025-05-29 15:13:29,075 - DEBUG - Found match at line 427
+2025-05-29 15:13:29,075 - DEBUG - Found match at line 430
+2025-05-29 15:13:29,075 - DEBUG - Found match at line 434
+2025-05-29 15:13:29,075 - DEBUG - Found match at line 436
+2025-05-29 15:13:29,075 - DEBUG - Found match at line 443
+2025-05-29 15:13:29,075 - DEBUG - Found match at line 447
+2025-05-29 15:13:29,075 - DEBUG - Found match at line 449
+2025-05-29 15:13:29,075 - DEBUG - Found match at line 454
+2025-05-29 15:13:29,075 - DEBUG - Found match at line 458
+2025-05-29 15:13:29,075 - DEBUG - Found match at line 460
+2025-05-29 15:13:29,075 - DEBUG - Found match at line 727
+2025-05-29 15:13:29,075 - DEBUG - Found match at line 729
+2025-05-29 15:13:29,075 - DEBUG - Found match at line 731
+2025-05-29 15:13:29,075 - DEBUG - Found match at line 733
+2025-05-29 15:13:29,075 - DEBUG - Found match at line 735
+2025-05-29 15:13:29,075 - DEBUG - Found match at line 773
+2025-05-29 15:13:29,075 - DEBUG - Found match at line 925
+2025-05-29 15:13:29,075 - DEBUG - Found match at line 1277
+2025-05-29 15:13:29,075 - DEBUG - Found match at line 1279
+2025-05-29 15:13:29,075 - DEBUG - Found match at line 1283
+2025-05-29 15:13:29,075 - DEBUG - Found match at line 1285
+2025-05-29 15:13:29,075 - DEBUG - Found match at line 1288
+2025-05-29 15:13:29,075 - DEBUG - Found match at line 1290
+2025-05-29 15:13:29,075 - DEBUG - Found match at line 1296
+2025-05-29 15:13:29,075 - DEBUG - Found match at line 1299
+2025-05-29 15:13:29,075 - DEBUG - Found match at line 1303
+2025-05-29 15:13:29,075 - DEBUG - Found match at line 1305
+2025-05-29 15:13:29,075 - DEBUG - Found match at line 1307
+2025-05-29 15:13:29,075 - DEBUG - Found match at line 1310
+2025-05-29 15:13:29,075 - DEBUG - Found match at line 1312
+2025-05-29 15:13:29,075 - DEBUG - Found match at line 1314
+2025-05-29 15:13:29,075 - DEBUG - Found match at line 1318
+2025-05-29 15:13:29,075 - DEBUG - Found match at line 1321
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1323
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1327
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1329
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1332
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1334
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1338
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1340
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1343
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1347
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1349
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1351
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1365
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1376
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1387
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1391
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1393
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1395
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1398
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1400
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1402
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1406
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1409
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1413
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1415
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1420
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1431
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1442
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1464
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1475
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1486
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1497
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1508
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1519
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1530
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1532
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1536
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1538
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1541
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1543
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1545
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1547
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1549
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1552
+2025-05-29 15:13:29,076 - DEBUG - Found match at line 1554
+2025-05-29 15:13:29,077 - DEBUG - Found match at line 1556
+2025-05-29 15:13:29,077 - DEBUG - Found match at line 1558
+2025-05-29 15:13:29,077 - DEBUG - Found match at line 1560
+2025-05-29 15:13:29,077 - DEBUG - Found match at line 1563
+2025-05-29 15:13:29,077 - DEBUG - Found match at line 1565
+2025-05-29 15:13:29,077 - DEBUG - Found match at line 1567
+2025-05-29 15:13:29,077 - DEBUG - Found match at line 1569
+2025-05-29 15:13:29,077 - DEBUG - Found match at line 1571
+2025-05-29 15:13:29,077 - DEBUG - Found match at line 1574
+2025-05-29 15:13:29,077 - DEBUG - Found match at line 1585
+2025-05-29 15:13:29,077 - DEBUG - Found match at line 1607
+2025-05-29 15:13:29,077 - DEBUG - Found match at line 1618
+2025-05-29 15:13:29,077 - DEBUG - Found match at line 1728
+2025-05-29 15:13:29,077 - DEBUG - Total matches found: 109
+2025-05-29 15:13:29,077 - DEBUG - Found 109 snippets
+2025-05-29 15:13:29,078 - DEBUG - Showing popup
+2025-05-29 15:13:29,078 - DEBUG - Showing popup with 109 snippets
+2025-05-29 15:13:29,078 - DEBUG - Mouse click simulated for deselection
+2025-05-29 15:13:29,079 - DEBUG - Mouse released at position (345.328125, 665.66796875)
+2025-05-29 15:13:29,258 - DEBUG - Key pressed: c
+2025-05-29 15:13:29,499 - DEBUG - Selected text: 
+2025-05-29 15:13:29,500 - DEBUG - Mouse released at position (345.328125, 665.66796875)
+2025-05-29 15:13:29,696 - DEBUG - Key pressed: c
+2025-05-29 15:13:29,934 - DEBUG - Selected text: 
+2025-05-29 15:13:31,723 - DEBUG - Mouse released at position (308.421875, 659.015625)
+2025-05-29 15:13:31,929 - DEBUG - Key pressed: c
+2025-05-29 15:13:32,168 - DEBUG - Selected text: hi sa
+2025-05-29 15:13:32,168 - DEBUG - Searching for keyword: hi sa
+2025-05-29 15:13:32,169 - DEBUG - Read 2760 lines from file
+2025-05-29 15:13:32,169 - DEBUG - Found match at line 12
+2025-05-29 15:13:32,169 - DEBUG - Found match at line 23
+2025-05-29 15:13:32,169 - DEBUG - Found match at line 34
+2025-05-29 15:13:32,169 - DEBUG - Found match at line 45
+2025-05-29 15:13:32,169 - DEBUG - Found match at line 1277
+2025-05-29 15:13:32,169 - DEBUG - Found match at line 1288
+2025-05-29 15:13:32,169 - DEBUG - Found match at line 1299
+2025-05-29 15:13:32,169 - DEBUG - Found match at line 1310
+2025-05-29 15:13:32,169 - DEBUG - Found match at line 1321
+2025-05-29 15:13:32,169 - DEBUG - Found match at line 1332
+2025-05-29 15:13:32,169 - DEBUG - Found match at line 1343
+2025-05-29 15:13:32,170 - DEBUG - Total matches found: 11
+2025-05-29 15:13:32,170 - DEBUG - Found 11 snippets
+2025-05-29 15:13:32,170 - DEBUG - Showing popup
+2025-05-29 15:13:32,170 - DEBUG - Showing popup with 11 snippets
+2025-05-29 15:13:32,171 - DEBUG - Mouse click simulated for deselection
+2025-05-29 15:13:32,171 - DEBUG - Mouse released at position (308.421875, 659.015625)
+2025-05-29 15:13:32,358 - DEBUG - Key pressed: c
+2025-05-29 15:13:32,598 - DEBUG - Selected text: 
+2025-05-29 15:13:45,456 - DEBUG - Mouse released at position (225.859375, 655.453125)
+2025-05-29 15:13:45,667 - DEBUG - Key pressed: c
+2025-05-29 15:13:45,905 - DEBUG - Selected text: 
+2025-05-29 15:13:47,690 - DEBUG - Mouse released at position (323.9765625, 663.72265625)
+2025-05-29 15:13:47,903 - DEBUG - Key pressed: c
+2025-05-29 15:13:48,123 - DEBUG - Selected text: stekining ikkinchi
+2025-05-29 15:13:48,123 - DEBUG - Searching for keyword: stekining ikkinchi
+2025-05-29 15:13:48,124 - DEBUG - Read 2760 lines from file
+2025-05-29 15:13:48,125 - DEBUG - Found match at line 23
+2025-05-29 15:13:48,125 - DEBUG - Found match at line 2420
+2025-05-29 15:13:48,125 - DEBUG - Total matches found: 2
+2025-05-29 15:13:48,125 - DEBUG - Found 2 snippets
+2025-05-29 15:13:48,125 - DEBUG - Showing popup
+2025-05-29 15:13:48,125 - DEBUG - Showing popup with 2 snippets
+2025-05-29 15:13:48,126 - DEBUG - Mouse click simulated for deselection
+2025-05-29 15:13:48,126 - DEBUG - Mouse released at position (323.9765625, 663.72265625)
+2025-05-29 15:13:48,306 - DEBUG - Key pressed: c
+2025-05-29 15:13:48,544 - DEBUG - Selected text: 
+2025-05-29 15:13:50,571 - DEBUG - Key pressed: x
+2025-05-29 15:13:50,573 - DEBUG - Moved to next snippet: 2
+2025-05-29 15:13:51,766 - DEBUG - Key pressed: z
+2025-05-29 15:13:51,769 - DEBUG - Moved to previous snippet: 1
+2025-05-29 15:13:52,489 - DEBUG - Key pressed: x
+2025-05-29 15:13:52,492 - DEBUG - Moved to next snippet: 2
+2025-05-29 15:13:54,194 - DEBUG - Key pressed: z
+2025-05-29 15:13:54,196 - DEBUG - Moved to previous snippet: 1
+2025-05-29 15:13:54,837 - DEBUG - Key pressed: z
+2025-05-29 15:13:55,707 - DEBUG - Key pressed: x
+2025-05-29 15:13:55,708 - DEBUG - Moved to next snippet: 2
+2025-05-29 15:13:56,214 - DEBUG - Key pressed: x
+2025-05-29 15:13:56,516 - DEBUG - Key pressed: z
+2025-05-29 15:13:56,517 - DEBUG - Moved to previous snippet: 1
+2025-05-29 15:13:56,888 - DEBUG - Key pressed: x
+2025-05-29 15:13:56,889 - DEBUG - Moved to next snippet: 2
+2025-05-29 15:13:57,258 - DEBUG - Key pressed: z
+2025-05-29 15:13:57,260 - DEBUG - Moved to previous snippet: 1
+2025-05-29 15:13:57,597 - DEBUG - Key pressed: x
+2025-05-29 15:13:57,600 - DEBUG - Moved to next snippet: 2
+2025-05-29 15:13:58,170 - DEBUG - Key pressed: z
+2025-05-29 15:13:58,172 - DEBUG - Moved to previous snippet: 1
+2025-05-29 15:13:58,535 - DEBUG - Key pressed: x
+2025-05-29 15:13:58,537 - DEBUG - Moved to next snippet: 2
+2025-05-29 15:13:59,185 - DEBUG - Key pressed: z
+2025-05-29 15:13:59,187 - DEBUG - Moved to previous snippet: 1
+2025-05-29 15:14:00,023 - DEBUG - Mouse released at position (367.03125, 674.078125)
+2025-05-29 15:14:00,219 - DEBUG - Key pressed: c
+2025-05-29 15:14:00,459 - DEBUG - Selected text: sathi sathi qanday nomlanadi?
+2025-05-29 15:14:00,459 - DEBUG - Searching for keyword: sathi sathi qanday nomlanadi?
+2025-05-29 15:14:00,462 - DEBUG - Read 2760 lines from file
+2025-05-29 15:14:00,462 - DEBUG - Found match at line 12
+2025-05-29 15:14:00,462 - DEBUG - Found match at line 23
+2025-05-29 15:14:00,462 - DEBUG - Found match at line 34
+2025-05-29 15:14:00,462 - DEBUG - Found match at line 45
+2025-05-29 15:14:00,462 - DEBUG - Total matches found: 4
+2025-05-29 15:14:00,463 - DEBUG - Found 4 snippets
+2025-05-29 15:14:00,463 - DEBUG - Showing popup
+2025-05-29 15:14:00,463 - DEBUG - Showing popup with 4 snippets
+2025-05-29 15:14:00,464 - DEBUG - Mouse click simulated for deselection
+2025-05-29 15:14:00,465 - DEBUG - Mouse released at position (367.03125, 674.078125)
+2025-05-29 15:14:00,648 - DEBUG - Key pressed: c
+2025-05-29 15:14:00,886 - DEBUG - Selected text: 
+2025-05-29 15:14:01,440 - DEBUG - Mouse released at position (456.1484375, 785.140625)
+2025-05-29 15:14:01,647 - DEBUG - Key pressed: c
+2025-05-29 15:14:01,882 - DEBUG - Selected text: 
+2025-05-29 15:14:02,857 - DEBUG - Mouse released at position (584.0703125, 808.8046875)
+2025-05-29 15:14:03,015 - DEBUG - Key pressed: Key.ctrl
+2025-05-29 15:14:03,064 - DEBUG - Key pressed: c
+2025-05-29 15:14:03,302 - DEBUG - Selected text: 
+2025-05-29 15:14:03,413 - DEBUG - Key pressed: c
+2025-05-29 15:15:40,044 - DEBUG - Mouse released at position (313.25390625, 568.0859375)
+2025-05-29 15:15:40,273 - DEBUG - Key pressed: c
+2025-05-29 15:15:40,510 - DEBUG - Selected text: tekining birnch
+2025-05-29 15:15:40,510 - DEBUG - Searching for keyword: tekining birnch
+2025-05-29 15:15:40,513 - DEBUG - Read 2760 lines from file
+2025-05-29 15:15:40,513 - DEBUG - Found match at line 12
+2025-05-29 15:15:40,514 - DEBUG - Total matches found: 1
+2025-05-29 15:15:40,514 - DEBUG - Found 1 snippets
+2025-05-29 15:15:40,514 - DEBUG - Showing popup
+2025-05-29 15:15:40,515 - DEBUG - Showing popup with 1 snippets
+2025-05-29 15:15:40,565 - DEBUG - Mouse click simulated for deselection
+2025-05-29 15:15:40,585 - DEBUG - Mouse released at position (313.0, 567.83203125)
+2025-05-29 15:15:40,748 - DEBUG - Key pressed: c
+2025-05-29 15:15:40,984 - DEBUG - Selected text: tekining birnch
+2025-05-29 15:15:40,984 - DEBUG - Searching for keyword: tekining birnch
+2025-05-29 15:15:40,985 - DEBUG - Read 2760 lines from file
+2025-05-29 15:15:40,985 - DEBUG - Found match at line 12
+2025-05-29 15:15:40,986 - DEBUG - Total matches found: 1
+2025-05-29 15:15:40,986 - DEBUG - Found 1 snippets
+2025-05-29 15:15:40,986 - DEBUG - Showing popup
+2025-05-29 15:15:40,986 - DEBUG - Showing popup with 1 snippets
+2025-05-29 15:15:40,987 - DEBUG - Mouse click simulated for deselection
+2025-05-29 15:15:40,988 - DEBUG - Mouse released at position (313.0, 567.83203125)
+2025-05-29 15:15:41,168 - DEBUG - Key pressed: c
+2025-05-29 15:15:41,404 - DEBUG - Selected text: 
+2025-05-29 15:15:42,393 - DEBUG - Mouse released at position (342.58984375, 568.8046875)
+2025-05-29 15:15:42,600 - DEBUG - Key pressed: c
+2025-05-29 15:15:42,840 - DEBUG - Selected text: sathi
+2025-05-29 15:15:42,840 - DEBUG - Searching for keyword: sathi
+2025-05-29 15:15:42,841 - DEBUG - Read 2760 lines from file
+2025-05-29 15:15:42,841 - DEBUG - Found match at line 12
+2025-05-29 15:15:42,841 - DEBUG - Found match at line 14
+2025-05-29 15:15:42,842 - DEBUG - Found match at line 16
+2025-05-29 15:15:42,842 - DEBUG - Found match at line 18
+2025-05-29 15:15:42,842 - DEBUG - Found match at line 23
+2025-05-29 15:15:42,842 - DEBUG - Found match at line 25
+2025-05-29 15:15:42,842 - DEBUG - Found match at line 27
+2025-05-29 15:15:42,842 - DEBUG - Found match at line 29
+2025-05-29 15:15:42,842 - DEBUG - Found match at line 34
+2025-05-29 15:15:42,842 - DEBUG - Found match at line 36
+2025-05-29 15:15:42,842 - DEBUG - Found match at line 38
+2025-05-29 15:15:42,842 - DEBUG - Found match at line 40
+2025-05-29 15:15:42,842 - DEBUG - Found match at line 45
+2025-05-29 15:15:42,842 - DEBUG - Found match at line 47
+2025-05-29 15:15:42,842 - DEBUG - Found match at line 49
+2025-05-29 15:15:42,842 - DEBUG - Found match at line 51
+2025-05-29 15:15:42,842 - DEBUG - Found match at line 317
+2025-05-29 15:15:42,842 - DEBUG - Found match at line 419
+2025-05-29 15:15:42,842 - DEBUG - Found match at line 425
+2025-05-29 15:15:42,842 - DEBUG - Found match at line 427
+2025-05-29 15:15:42,842 - DEBUG - Found match at line 430
+2025-05-29 15:15:42,842 - DEBUG - Found match at line 434
+2025-05-29 15:15:42,842 - DEBUG - Found match at line 436
+2025-05-29 15:15:42,842 - DEBUG - Found match at line 443
+2025-05-29 15:15:42,842 - DEBUG - Found match at line 447
+2025-05-29 15:15:42,842 - DEBUG - Found match at line 449
+2025-05-29 15:15:42,842 - DEBUG - Found match at line 454
+2025-05-29 15:15:42,842 - DEBUG - Found match at line 458
+2025-05-29 15:15:42,842 - DEBUG - Found match at line 460
+2025-05-29 15:15:42,843 - DEBUG - Found match at line 727
+2025-05-29 15:15:42,843 - DEBUG - Found match at line 729
+2025-05-29 15:15:42,843 - DEBUG - Found match at line 731
+2025-05-29 15:15:42,843 - DEBUG - Found match at line 733
+2025-05-29 15:15:42,843 - DEBUG - Found match at line 735
+2025-05-29 15:15:42,843 - DEBUG - Found match at line 773
+2025-05-29 15:15:42,843 - DEBUG - Found match at line 925
+2025-05-29 15:15:42,843 - DEBUG - Found match at line 1277
+2025-05-29 15:15:42,843 - DEBUG - Found match at line 1279
+2025-05-29 15:15:42,843 - DEBUG - Found match at line 1283
+2025-05-29 15:15:42,843 - DEBUG - Found match at line 1285
+2025-05-29 15:15:42,843 - DEBUG - Found match at line 1288
+2025-05-29 15:15:42,843 - DEBUG - Found match at line 1290
+2025-05-29 15:15:42,843 - DEBUG - Found match at line 1296
+2025-05-29 15:15:42,843 - DEBUG - Found match at line 1299
+2025-05-29 15:15:42,843 - DEBUG - Found match at line 1303
+2025-05-29 15:15:42,843 - DEBUG - Found match at line 1305
+2025-05-29 15:15:42,843 - DEBUG - Found match at line 1307
+2025-05-29 15:15:42,843 - DEBUG - Found match at line 1310
+2025-05-29 15:15:42,843 - DEBUG - Found match at line 1312
+2025-05-29 15:15:42,843 - DEBUG - Found match at line 1314
+2025-05-29 15:15:42,843 - DEBUG - Found match at line 1318
+2025-05-29 15:15:42,843 - DEBUG - Found match at line 1321
+2025-05-29 15:15:42,843 - DEBUG - Found match at line 1323
+2025-05-29 15:15:42,843 - DEBUG - Found match at line 1327
+2025-05-29 15:15:42,843 - DEBUG - Found match at line 1329
+2025-05-29 15:15:42,843 - DEBUG - Found match at line 1332
+2025-05-29 15:15:42,843 - DEBUG - Found match at line 1334
+2025-05-29 15:15:42,843 - DEBUG - Found match at line 1338
+2025-05-29 15:15:42,843 - DEBUG - Found match at line 1340
+2025-05-29 15:15:42,843 - DEBUG - Found match at line 1343
+2025-05-29 15:15:42,844 - DEBUG - Found match at line 1347
+2025-05-29 15:15:42,844 - DEBUG - Found match at line 1349
+2025-05-29 15:15:42,844 - DEBUG - Found match at line 1351
+2025-05-29 15:15:42,844 - DEBUG - Found match at line 1365
+2025-05-29 15:15:42,844 - DEBUG - Found match at line 1376
+2025-05-29 15:15:42,844 - DEBUG - Found match at line 1387
+2025-05-29 15:15:42,844 - DEBUG - Found match at line 1391
+2025-05-29 15:15:42,844 - DEBUG - Found match at line 1393
+2025-05-29 15:15:42,844 - DEBUG - Found match at line 1395
+2025-05-29 15:15:42,844 - DEBUG - Found match at line 1398
+2025-05-29 15:15:42,844 - DEBUG - Found match at line 1400
+2025-05-29 15:15:42,844 - DEBUG - Found match at line 1402
+2025-05-29 15:15:42,844 - DEBUG - Found match at line 1406
+2025-05-29 15:15:42,844 - DEBUG - Found match at line 1409
+2025-05-29 15:15:42,844 - DEBUG - Found match at line 1413
+2025-05-29 15:15:42,844 - DEBUG - Found match at line 1415
+2025-05-29 15:15:42,844 - DEBUG - Found match at line 1420
+2025-05-29 15:15:42,844 - DEBUG - Found match at line 1431
+2025-05-29 15:15:42,844 - DEBUG - Found match at line 1442
+2025-05-29 15:15:42,844 - DEBUG - Found match at line 1464
+2025-05-29 15:15:42,844 - DEBUG - Found match at line 1475
+2025-05-29 15:15:42,844 - DEBUG - Found match at line 1486
+2025-05-29 15:15:42,844 - DEBUG - Found match at line 1497
+2025-05-29 15:15:42,844 - DEBUG - Found match at line 1508
+2025-05-29 15:15:42,844 - DEBUG - Found match at line 1519
+2025-05-29 15:15:42,844 - DEBUG - Found match at line 1530
+2025-05-29 15:15:42,844 - DEBUG - Found match at line 1532
+2025-05-29 15:15:42,844 - DEBUG - Found match at line 1536
+2025-05-29 15:15:42,844 - DEBUG - Found match at line 1538
+2025-05-29 15:15:42,844 - DEBUG - Found match at line 1541
+2025-05-29 15:15:42,844 - DEBUG - Found match at line 1543
+2025-05-29 15:15:42,844 - DEBUG - Found match at line 1545
+2025-05-29 15:15:42,844 - DEBUG - Found match at line 1547
+2025-05-29 15:15:42,844 - DEBUG - Found match at line 1549
+2025-05-29 15:15:42,844 - DEBUG - Found match at line 1552
+2025-05-29 15:15:42,844 - DEBUG - Found match at line 1554
+2025-05-29 15:15:42,844 - DEBUG - Found match at line 1556
+2025-05-29 15:15:42,844 - DEBUG - Found match at line 1558
+2025-05-29 15:15:42,845 - DEBUG - Found match at line 1560
+2025-05-29 15:15:42,845 - DEBUG - Found match at line 1563
+2025-05-29 15:15:42,845 - DEBUG - Found match at line 1565
+2025-05-29 15:15:42,845 - DEBUG - Found match at line 1567
+2025-05-29 15:15:42,845 - DEBUG - Found match at line 1569
+2025-05-29 15:15:42,845 - DEBUG - Found match at line 1571
+2025-05-29 15:15:42,845 - DEBUG - Found match at line 1574
+2025-05-29 15:15:42,845 - DEBUG - Found match at line 1585
+2025-05-29 15:15:42,845 - DEBUG - Found match at line 1607
+2025-05-29 15:15:42,845 - DEBUG - Found match at line 1618
+2025-05-29 15:15:42,845 - DEBUG - Found match at line 1728
+2025-05-29 15:15:42,845 - DEBUG - Total matches found: 109
+2025-05-29 15:15:42,845 - DEBUG - Found 109 snippets
+2025-05-29 15:15:42,944 - DEBUG - Showing popup
+2025-05-29 15:15:42,944 - DEBUG - Showing popup with 109 snippets
+2025-05-29 15:15:42,945 - DEBUG - Mouse click simulated for deselection
+2025-05-29 15:15:42,947 - DEBUG - Mouse released at position (342.58984375, 568.8046875)
+2025-05-29 15:15:43,146 - DEBUG - Key pressed: c
+2025-05-29 15:15:43,384 - DEBUG - Selected text: 
+2025-05-29 15:15:43,385 - DEBUG - Mouse released at position (342.58984375, 568.8046875)
+2025-05-29 15:15:43,571 - DEBUG - Key pressed: c
+2025-05-29 15:15:43,807 - DEBUG - Selected text: 
+2025-05-29 15:15:44,622 - DEBUG - Key pressed: x
+2025-05-29 15:15:44,624 - DEBUG - Moved to next snippet: 2
+2025-05-29 15:15:45,517 - DEBUG - Key pressed: x
+2025-05-29 15:15:45,532 - DEBUG - Moved to next snippet: 3
+2025-05-29 15:15:45,917 - DEBUG - Key pressed: x
+2025-05-29 15:15:45,919 - DEBUG - Moved to next snippet: 4
+2025-05-29 15:15:46,374 - DEBUG - Key pressed: x
+2025-05-29 15:15:46,376 - DEBUG - Moved to next snippet: 5
+2025-05-29 15:15:46,601 - DEBUG - Key pressed: x
+2025-05-29 15:15:46,603 - DEBUG - Moved to next snippet: 6
+2025-05-29 15:15:46,839 - DEBUG - Key pressed: x
+2025-05-29 15:15:46,841 - DEBUG - Moved to next snippet: 7
+2025-05-29 15:15:47,139 - DEBUG - Key pressed: x
+2025-05-29 15:15:47,144 - DEBUG - Moved to next snippet: 8
+2025-05-29 15:15:47,373 - DEBUG - Key pressed: x
+2025-05-29 15:15:47,380 - DEBUG - Moved to next snippet: 9
+2025-05-29 15:15:47,589 - DEBUG - Key pressed: x
+2025-05-29 15:15:47,595 - DEBUG - Moved to next snippet: 10
+2025-05-29 15:15:47,803 - DEBUG - Key pressed: x
+2025-05-29 15:15:47,805 - DEBUG - Moved to next snippet: 11
+2025-05-29 15:15:48,008 - DEBUG - Key pressed: x
+2025-05-29 15:15:48,011 - DEBUG - Moved to next snippet: 12
+2025-05-29 15:15:48,211 - DEBUG - Key pressed: x
+2025-05-29 15:15:48,215 - DEBUG - Moved to next snippet: 13
+2025-05-29 15:15:48,418 - DEBUG - Key pressed: x
+2025-05-29 15:15:48,421 - DEBUG - Moved to next snippet: 14
+2025-05-29 15:15:48,619 - DEBUG - Key pressed: x
+2025-05-29 15:15:48,620 - DEBUG - Moved to next snippet: 15
+2025-05-29 15:15:49,126 - DEBUG - Mouse released at position (251.5703125, 579.71875)
+2025-05-29 15:15:49,345 - DEBUG - Key pressed: c
+2025-05-29 15:15:49,580 - DEBUG - Selected text: thi sathi qanday nomlanadi?
+2025-05-29 15:15:49,581 - DEBUG - Searching for keyword: thi sathi qanday nomlanadi?
+2025-05-29 15:15:49,582 - DEBUG - Read 2760 lines from file
+2025-05-29 15:15:49,582 - DEBUG - Found match at line 12
+2025-05-29 15:15:49,582 - DEBUG - Found match at line 23
+2025-05-29 15:15:49,582 - DEBUG - Found match at line 34
+2025-05-29 15:15:49,582 - DEBUG - Found match at line 45
+2025-05-29 15:15:49,583 - DEBUG - Total matches found: 4
+2025-05-29 15:15:49,583 - DEBUG - Found 4 snippets
+2025-05-29 15:15:49,583 - DEBUG - Showing popup
+2025-05-29 15:15:49,583 - DEBUG - Showing popup with 4 snippets
+2025-05-29 15:15:49,584 - DEBUG - Mouse click simulated for deselection
+2025-05-29 15:15:49,585 - DEBUG - Mouse released at position (251.5703125, 579.71875)
+2025-05-29 15:15:49,755 - DEBUG - Key pressed: c
+2025-05-29 15:15:49,992 - DEBUG - Selected text: 
+2025-05-29 15:15:51,912 - DEBUG - Mouse released at position (256.7109375, 571.109375)
+2025-05-29 15:15:52,124 - DEBUG - Key pressed: c
+2025-05-29 15:15:52,355 - DEBUG - Selected text: birnchi sathi sathi qanday nomlanadi?
+2025-05-29 15:15:52,355 - DEBUG - Searching for keyword: birnchi sathi sathi qanday nomlanadi?
+2025-05-29 15:15:52,356 - DEBUG - Read 2760 lines from file
+2025-05-29 15:15:52,356 - DEBUG - Found match at line 12
+2025-05-29 15:15:52,356 - DEBUG - Total matches found: 1
+2025-05-29 15:15:52,356 - DEBUG - Found 1 snippets
+2025-05-29 15:15:52,513 - DEBUG - Showing popup
+2025-05-29 15:15:52,513 - DEBUG - Showing popup with 1 snippets
+2025-05-29 15:15:52,514 - DEBUG - Mouse click simulated for deselection
+2025-05-29 15:15:52,517 - DEBUG - Mouse released at position (256.7109375, 571.109375)
+2025-05-29 15:15:52,710 - DEBUG - Key pressed: c
+2025-05-29 15:15:52,943 - DEBUG - Selected text: 
+2025-05-29 15:15:54,128 - DEBUG - Mouse released at position (185.16015625, 571.77734375)
+2025-05-29 15:15:54,342 - DEBUG - Key pressed: c
+2025-05-29 15:15:54,581 - DEBUG - Selected text: stekining
+2025-05-29 15:15:54,581 - DEBUG - Searching for keyword: stekining
+2025-05-29 15:15:54,582 - DEBUG - Read 2760 lines from file
+2025-05-29 15:15:54,582 - DEBUG - Found match at line 12
+2025-05-29 15:15:54,582 - DEBUG - Found match at line 23
+2025-05-29 15:15:54,582 - DEBUG - Found match at line 34
+2025-05-29 15:15:54,582 - DEBUG - Found match at line 45
+2025-05-29 15:15:54,583 - DEBUG - Found match at line 2409
+2025-05-29 15:15:54,583 - DEBUG - Found match at line 2420
+2025-05-29 15:15:54,583 - DEBUG - Found match at line 2431
+2025-05-29 15:15:54,583 - DEBUG - Found match at line 2442
+2025-05-29 15:15:54,583 - DEBUG - Found match at line 2497
+2025-05-29 15:15:54,583 - DEBUG - Total matches found: 9
+2025-05-29 15:15:54,583 - DEBUG - Found 9 snippets
+2025-05-29 15:15:54,583 - DEBUG - Showing popup
+2025-05-29 15:15:54,583 - DEBUG - Showing popup with 9 snippets
+2025-05-29 15:15:54,584 - DEBUG - Mouse click simulated for deselection
+2025-05-29 15:15:54,585 - DEBUG - Mouse released at position (185.16015625, 571.77734375)
+2025-05-29 15:15:54,759 - DEBUG - Key pressed: c
+2025-05-29 15:15:54,997 - DEBUG - Selected text: 
+2025-05-29 15:15:56,859 - DEBUG - Mouse released at position (366.19921875, 595.546875)
+2025-05-29 15:15:57,063 - DEBUG - Key pressed: c
+2025-05-29 15:15:57,302 - DEBUG - Selected text: stekining birnchi sathi sathi qanday nomlanadi?
+zsh: no matches found: nomlanadi?
+2025-05-29 15:15:57,302 - DEBUG - Searching for keyword: stekining birnchi sathi sathi qanday nomlanadi?
+zsh: no matches found: nomlanadi?
+2025-05-29 15:15:57,303 - DEBUG - Read 2760 lines from file
+2025-05-29 15:15:57,304 - DEBUG - No matches found
+2025-05-29 15:15:57,304 - DEBUG - Total matches found: 1
+2025-05-29 15:15:57,304 - DEBUG - Found 1 snippets
+2025-05-29 15:15:57,304 - DEBUG - Showing popup
+2025-05-29 15:15:57,304 - DEBUG - Showing popup with 1 snippets
+2025-05-29 15:15:57,305 - DEBUG - Mouse click simulated for deselection
+2025-05-29 15:15:57,306 - DEBUG - Mouse released at position (366.19921875, 595.546875)
+2025-05-29 15:15:57,486 - DEBUG - Key pressed: c
+2025-05-29 15:15:57,723 - DEBUG - Selected text: 
+2025-05-29 15:15:57,724 - DEBUG - Mouse released at position (365.92578125, 595.546875)
+2025-05-29 15:15:57,911 - DEBUG - Key pressed: c
+2025-05-29 15:15:58,150 - DEBUG - Selected text: 
+2025-05-29 15:15:58,645 - DEBUG - Mouse released at position (261.66015625, 566.07421875)
+2025-05-29 15:15:58,844 - DEBUG - Key pressed: c
+2025-05-29 15:15:59,083 - DEBUG - Selected text: stekining
+2025-05-29 15:15:59,084 - DEBUG - Searching for keyword: stekining
+2025-05-29 15:15:59,085 - DEBUG - Read 2760 lines from file
+2025-05-29 15:15:59,085 - DEBUG - Found match at line 12
+2025-05-29 15:15:59,085 - DEBUG - Found match at line 23
+2025-05-29 15:15:59,085 - DEBUG - Found match at line 34
+2025-05-29 15:15:59,085 - DEBUG - Found match at line 45
+2025-05-29 15:15:59,086 - DEBUG - Found match at line 2409
+2025-05-29 15:15:59,086 - DEBUG - Found match at line 2420
+2025-05-29 15:15:59,086 - DEBUG - Found match at line 2431
+2025-05-29 15:15:59,086 - DEBUG - Found match at line 2442
+2025-05-29 15:15:59,086 - DEBUG - Found match at line 2497
+2025-05-29 15:15:59,086 - DEBUG - Total matches found: 9
+2025-05-29 15:15:59,086 - DEBUG - Found 9 snippets
+2025-05-29 15:15:59,086 - DEBUG - Showing popup
+2025-05-29 15:15:59,086 - DEBUG - Showing popup with 9 snippets
+2025-05-29 15:15:59,087 - DEBUG - Mouse click simulated for deselection
+2025-05-29 15:15:59,089 - DEBUG - Mouse released at position (261.1171875, 565.53125)
+2025-05-29 15:15:59,275 - DEBUG - Key pressed: c
+2025-05-29 15:15:59,514 - DEBUG - Selected text: 
+2025-05-29 15:15:59,960 - DEBUG - Mouse released at position (276.58203125, 568.4765625)
+2025-05-29 15:16:00,163 - DEBUG - Key pressed: c
+2025-05-29 15:16:00,400 - DEBUG - Selected text: 
+2025-05-29 15:16:00,993 - DEBUG - Mouse released at position (277.78515625, 571.734375)
+2025-05-29 15:16:01,201 - DEBUG - Key pressed: c
+2025-05-29 15:16:01,438 - DEBUG - Selected text: birnchi
+2025-05-29 15:16:01,438 - DEBUG - Searching for keyword: birnchi
+2025-05-29 15:16:01,439 - DEBUG - Read 2760 lines from file
+2025-05-29 15:16:01,439 - DEBUG - Found match at line 12
+2025-05-29 15:16:01,440 - DEBUG - Total matches found: 1
+2025-05-29 15:16:01,440 - DEBUG - Found 1 snippets
+2025-05-29 15:16:01,440 - DEBUG - Showing popup
+2025-05-29 15:16:01,440 - DEBUG - Showing popup with 1 snippets
+2025-05-29 15:16:01,441 - DEBUG - Mouse click simulated for deselection
+2025-05-29 15:16:01,442 - DEBUG - Mouse released at position (277.78515625, 571.734375)
+2025-05-29 15:16:01,629 - DEBUG - Key pressed: c
+2025-05-29 15:16:01,869 - DEBUG - Selected text: 
+2025-05-29 15:16:01,870 - DEBUG - Mouse released at position (277.78515625, 571.734375)
+2025-05-29 15:16:02,059 - DEBUG - Key pressed: c
+2025-05-29 15:16:02,294 - DEBUG - Selected text: 
+2025-05-29 15:16:46,878 - DEBUG - Mouse released at position (302.11328125, 682.984375)
+2025-05-29 15:16:47,085 - DEBUG - Key pressed: c
+2025-05-29 15:16:47,323 - DEBUG - Selected text: 
+2025-05-29 15:16:47,528 - DEBUG - Mouse released at position (338.61328125, 662.140625)
+2025-05-29 15:16:47,734 - DEBUG - Key pressed: c
+2025-05-29 15:16:47,954 - DEBUG - Selected text: sathi
+2025-05-29 15:16:47,954 - DEBUG - Searching for keyword: sathi
+2025-05-29 15:16:47,955 - DEBUG - Read 2760 lines from file
+2025-05-29 15:16:47,955 - DEBUG - Found match at line 12
+2025-05-29 15:16:47,955 - DEBUG - Found match at line 14
+2025-05-29 15:16:47,955 - DEBUG - Found match at line 16
+2025-05-29 15:16:47,955 - DEBUG - Found match at line 18
+2025-05-29 15:16:47,955 - DEBUG - Found match at line 23
+2025-05-29 15:16:47,955 - DEBUG - Found match at line 25
+2025-05-29 15:16:47,955 - DEBUG - Found match at line 27
+2025-05-29 15:16:47,955 - DEBUG - Found match at line 29
+2025-05-29 15:16:47,955 - DEBUG - Found match at line 34
+2025-05-29 15:16:47,955 - DEBUG - Found match at line 36
+2025-05-29 15:16:47,955 - DEBUG - Found match at line 38
+2025-05-29 15:16:47,955 - DEBUG - Found match at line 40
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 45
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 47
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 49
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 51
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 317
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 419
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 425
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 427
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 430
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 434
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 436
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 443
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 447
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 449
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 454
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 458
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 460
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 727
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 729
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 731
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 733
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 735
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 773
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 925
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 1277
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 1279
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 1283
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 1285
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 1288
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 1290
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 1296
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 1299
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 1303
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 1305
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 1307
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 1310
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 1312
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 1314
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 1318
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 1321
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 1323
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 1327
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 1329
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 1332
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 1334
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 1338
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 1340
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 1343
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 1347
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 1349
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 1351
+2025-05-29 15:16:47,956 - DEBUG - Found match at line 1365
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1376
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1387
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1391
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1393
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1395
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1398
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1400
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1402
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1406
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1409
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1413
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1415
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1420
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1431
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1442
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1464
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1475
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1486
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1497
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1508
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1519
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1530
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1532
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1536
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1538
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1541
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1543
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1545
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1547
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1549
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1552
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1554
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1556
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1558
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1560
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1563
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1565
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1567
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1569
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1571
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1574
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1585
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1607
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1618
+2025-05-29 15:16:47,957 - DEBUG - Found match at line 1728
+2025-05-29 15:16:47,957 - DEBUG - Total matches found: 109
+2025-05-29 15:16:47,957 - DEBUG - Found 109 snippets
+2025-05-29 15:16:47,958 - DEBUG - Showing popup
+2025-05-29 15:16:47,958 - DEBUG - Showing popup with 109 snippets
+2025-05-29 15:16:47,958 - DEBUG - Mouse click simulated for deselection
+2025-05-29 15:16:47,958 - DEBUG - Mouse released at position (338.61328125, 662.140625)
+2025-05-29 15:16:48,120 - DEBUG - Key pressed: c
+2025-05-29 15:16:48,356 - DEBUG - Selected text: 
+2025-05-29 15:16:48,357 - DEBUG - Mouse released at position (338.61328125, 662.140625)
+2025-05-29 15:16:48,541 - DEBUG - Key pressed: c
+2025-05-29 15:16:48,777 - DEBUG - Selected text: 
+2025-05-29 15:16:51,515 - DEBUG - Key pressed: x
+2025-05-29 15:16:51,520 - DEBUG - Moved to next snippet: 2
+2025-05-29 15:16:51,998 - DEBUG - Key pressed: x
+2025-05-29 15:16:52,004 - DEBUG - Moved to next snippet: 3
+2025-05-29 15:16:52,330 - DEBUG - Key pressed: x
+2025-05-29 15:16:52,335 - DEBUG - Moved to next snippet: 4
+2025-05-29 15:16:52,651 - DEBUG - Key pressed: x
+2025-05-29 15:16:52,657 - DEBUG - Moved to next snippet: 5
+2025-05-29 15:16:52,880 - DEBUG - Key pressed: x
+2025-05-29 15:16:52,884 - DEBUG - Moved to next snippet: 6
+2025-05-29 15:16:53,060 - DEBUG - Key pressed: x
+2025-05-29 15:16:53,062 - DEBUG - Moved to next snippet: 7
+2025-05-29 15:16:53,260 - DEBUG - Key pressed: x
+2025-05-29 15:16:53,266 - DEBUG - Moved to next snippet: 8
+2025-05-29 15:16:53,455 - DEBUG - Key pressed: x
+2025-05-29 15:16:53,458 - DEBUG - Moved to next snippet: 9
+2025-05-29 15:16:53,667 - DEBUG - Key pressed: x
+2025-05-29 15:16:53,669 - DEBUG - Moved to next snippet: 10
+2025-05-29 15:16:54,343 - DEBUG - Key pressed: x
+2025-05-29 15:16:54,348 - DEBUG - Moved to next snippet: 11
+2025-05-29 15:16:54,636 - DEBUG - Key pressed: x
+2025-05-29 15:16:54,640 - DEBUG - Moved to next snippet: 12
+2025-05-29 15:16:55,012 - DEBUG - Key pressed: x
+2025-05-29 15:16:55,018 - DEBUG - Moved to next snippet: 13
+2025-05-29 15:16:55,213 - DEBUG - Key pressed: x
+2025-05-29 15:16:55,220 - DEBUG - Moved to next snippet: 14
+2025-05-29 15:16:55,396 - DEBUG - Key pressed: x
+2025-05-29 15:16:55,401 - DEBUG - Moved to next snippet: 15
+2025-05-29 15:16:55,832 - DEBUG - Key pressed: z
+2025-05-29 15:16:55,833 - DEBUG - Moved to previous snippet: 14
+2025-05-29 15:16:56,008 - DEBUG - Key pressed: z
+2025-05-29 15:16:56,010 - DEBUG - Moved to previous snippet: 13
+2025-05-29 15:16:56,191 - DEBUG - Key pressed: z
+2025-05-29 15:16:56,193 - DEBUG - Moved to previous snippet: 12
+2025-05-29 15:16:56,366 - DEBUG - Key pressed: z
+2025-05-29 15:16:56,368 - DEBUG - Moved to previous snippet: 11
+2025-05-29 15:16:56,529 - DEBUG - Key pressed: z
+2025-05-29 15:16:56,530 - DEBUG - Moved to previous snippet: 10
+2025-05-29 15:16:56,788 - DEBUG - Key pressed: x
+2025-05-29 15:16:56,790 - DEBUG - Moved to next snippet: 11
+2025-05-29 15:16:56,962 - DEBUG - Key pressed: x
+2025-05-29 15:16:56,968 - DEBUG - Moved to next snippet: 12
+2025-05-29 15:16:57,135 - DEBUG - Key pressed: x
+2025-05-29 15:16:57,141 - DEBUG - Moved to next snippet: 13
+2025-05-29 15:16:57,298 - DEBUG - Key pressed: x
+2025-05-29 15:16:57,300 - DEBUG - Moved to next snippet: 14
+2025-05-29 15:16:57,626 - DEBUG - Mouse released at position (363.046875, 669.2890625)
+2025-05-29 15:16:57,837 - DEBUG - Key pressed: c
+2025-05-29 15:16:58,066 - DEBUG - Selected text: ath
+2025-05-29 15:16:58,066 - DEBUG - Searching for keyword: ath
+2025-05-29 15:16:58,068 - DEBUG - Read 2760 lines from file
+2025-05-29 15:16:58,068 - DEBUG - Found match at line 1
+2025-05-29 15:16:58,068 - DEBUG - Found match at line 12
+2025-05-29 15:16:58,068 - DEBUG - Found match at line 14
+2025-05-29 15:16:58,068 - DEBUG - Found match at line 16
+2025-05-29 15:16:58,068 - DEBUG - Found match at line 18
+2025-05-29 15:16:58,068 - DEBUG - Found match at line 20
+2025-05-29 15:16:58,068 - DEBUG - Found match at line 23
+2025-05-29 15:16:58,068 - DEBUG - Found match at line 25
+2025-05-29 15:16:58,068 - DEBUG - Found match at line 27
+2025-05-29 15:16:58,068 - DEBUG - Found match at line 29
+2025-05-29 15:16:58,068 - DEBUG - Found match at line 31
+2025-05-29 15:16:58,068 - DEBUG - Found match at line 34
+2025-05-29 15:16:58,068 - DEBUG - Found match at line 36
+2025-05-29 15:16:58,068 - DEBUG - Found match at line 38
+2025-05-29 15:16:58,068 - DEBUG - Found match at line 40
+2025-05-29 15:16:58,068 - DEBUG - Found match at line 42
+2025-05-29 15:16:58,068 - DEBUG - Found match at line 45
+2025-05-29 15:16:58,068 - DEBUG - Found match at line 47
+2025-05-29 15:16:58,068 - DEBUG - Found match at line 49
+2025-05-29 15:16:58,068 - DEBUG - Found match at line 51
+2025-05-29 15:16:58,068 - DEBUG - Found match at line 53
+2025-05-29 15:16:58,068 - DEBUG - Found match at line 317
+2025-05-29 15:16:58,068 - DEBUG - Found match at line 419
+2025-05-29 15:16:58,068 - DEBUG - Found match at line 425
+2025-05-29 15:16:58,068 - DEBUG - Found match at line 427
+2025-05-29 15:16:58,068 - DEBUG - Found match at line 430
+2025-05-29 15:16:58,068 - DEBUG - Found match at line 434
+2025-05-29 15:16:58,069 - DEBUG - Found match at line 436
+2025-05-29 15:16:58,069 - DEBUG - Found match at line 441
+2025-05-29 15:16:58,069 - DEBUG - Found match at line 443
+2025-05-29 15:16:58,069 - DEBUG - Found match at line 445
+2025-05-29 15:16:58,069 - DEBUG - Found match at line 447
+2025-05-29 15:16:58,069 - DEBUG - Found match at line 449
+2025-05-29 15:16:58,069 - DEBUG - Found match at line 452
+2025-05-29 15:16:58,069 - DEBUG - Found match at line 454
+2025-05-29 15:16:58,069 - DEBUG - Found match at line 456
+2025-05-29 15:16:58,069 - DEBUG - Found match at line 458
+2025-05-29 15:16:58,069 - DEBUG - Found match at line 460
+2025-05-29 15:16:58,069 - DEBUG - Found match at line 727
+2025-05-29 15:16:58,069 - DEBUG - Found match at line 729
+2025-05-29 15:16:58,069 - DEBUG - Found match at line 731
+2025-05-29 15:16:58,069 - DEBUG - Found match at line 733
+2025-05-29 15:16:58,069 - DEBUG - Found match at line 735
+2025-05-29 15:16:58,069 - DEBUG - Found match at line 773
+2025-05-29 15:16:58,069 - DEBUG - Found match at line 925
+2025-05-29 15:16:58,069 - DEBUG - Found match at line 1266
+2025-05-29 15:16:58,069 - DEBUG - Found match at line 1277
+2025-05-29 15:16:58,069 - DEBUG - Found match at line 1279
+2025-05-29 15:16:58,069 - DEBUG - Found match at line 1281
+2025-05-29 15:16:58,069 - DEBUG - Found match at line 1283
+2025-05-29 15:16:58,069 - DEBUG - Found match at line 1285
+2025-05-29 15:16:58,069 - DEBUG - Found match at line 1288
+2025-05-29 15:16:58,069 - DEBUG - Found match at line 1290
+2025-05-29 15:16:58,069 - DEBUG - Found match at line 1292
+2025-05-29 15:16:58,069 - DEBUG - Found match at line 1294
+2025-05-29 15:16:58,069 - DEBUG - Found match at line 1296
+2025-05-29 15:16:58,069 - DEBUG - Found match at line 1299
+2025-05-29 15:16:58,069 - DEBUG - Found match at line 1301
+2025-05-29 15:16:58,069 - DEBUG - Found match at line 1303
+2025-05-29 15:16:58,069 - DEBUG - Found match at line 1305
+2025-05-29 15:16:58,069 - DEBUG - Found match at line 1307
+2025-05-29 15:16:58,069 - DEBUG - Found match at line 1310
+2025-05-29 15:16:58,069 - DEBUG - Found match at line 1312
+2025-05-29 15:16:58,069 - DEBUG - Found match at line 1314
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1316
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1318
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1321
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1323
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1325
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1327
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1329
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1332
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1334
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1336
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1338
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1340
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1343
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1345
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1347
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1349
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1351
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1354
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1356
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1358
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1360
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1362
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1365
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1376
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1387
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1389
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1391
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1393
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1395
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1398
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1400
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1402
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1404
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1406
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1409
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1411
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1413
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1415
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1417
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1420
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1431
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1442
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1464
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1475
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1486
+2025-05-29 15:16:58,070 - DEBUG - Found match at line 1497
+2025-05-29 15:16:58,071 - DEBUG - Found match at line 1508
+2025-05-29 15:16:58,071 - DEBUG - Found match at line 1519
+2025-05-29 15:16:58,071 - DEBUG - Found match at line 1530
+2025-05-29 15:16:58,071 - DEBUG - Found match at line 1532
+2025-05-29 15:16:58,071 - DEBUG - Found match at line 1534
+2025-05-29 15:16:58,071 - DEBUG - Found match at line 1536
+2025-05-29 15:16:58,071 - DEBUG - Found match at line 1538
+2025-05-29 15:16:58,071 - DEBUG - Found match at line 1541
+2025-05-29 15:16:58,071 - DEBUG - Found match at line 1543
+2025-05-29 15:16:58,071 - DEBUG - Found match at line 1545
+2025-05-29 15:16:58,071 - DEBUG - Found match at line 1547
+2025-05-29 15:16:58,071 - DEBUG - Found match at line 1549
+2025-05-29 15:16:58,071 - DEBUG - Found match at line 1552
+2025-05-29 15:16:58,071 - DEBUG - Found match at line 1554
+2025-05-29 15:16:58,071 - DEBUG - Found match at line 1556
+2025-05-29 15:16:58,071 - DEBUG - Found match at line 1558
+2025-05-29 15:16:58,071 - DEBUG - Found match at line 1560
+2025-05-29 15:16:58,071 - DEBUG - Found match at line 1563
+2025-05-29 15:16:58,071 - DEBUG - Found match at line 1565
+2025-05-29 15:16:58,071 - DEBUG - Found match at line 1567
+2025-05-29 15:16:58,071 - DEBUG - Found match at line 1569
+2025-05-29 15:16:58,071 - DEBUG - Found match at line 1571
+2025-05-29 15:16:58,071 - DEBUG - Found match at line 1574
+2025-05-29 15:16:58,071 - DEBUG - Found match at line 1585
+2025-05-29 15:16:58,071 - DEBUG - Found match at line 1596
+2025-05-29 15:16:58,071 - DEBUG - Found match at line 1607
+2025-05-29 15:16:58,071 - DEBUG - Found match at line 1618
+2025-05-29 15:16:58,071 - DEBUG - Found match at line 1728
+2025-05-29 15:16:58,072 - DEBUG - Total matches found: 138
+2025-05-29 15:16:58,072 - DEBUG - Found 138 snippets
+2025-05-29 15:16:58,072 - DEBUG - Showing popup
+2025-05-29 15:16:58,072 - DEBUG - Showing popup with 138 snippets
+2025-05-29 15:16:58,072 - DEBUG - Mouse click simulated for deselection
+2025-05-29 15:16:58,073 - DEBUG - Mouse released at position (363.046875, 669.2890625)
+2025-05-29 15:16:58,248 - DEBUG - Key pressed: c
+2025-05-29 15:16:58,486 - DEBUG - Selected text: 
+2025-05-29 15:17:00,993 - DEBUG - Mouse released at position (246.75, 661.72265625)
+2025-05-29 15:17:01,204 - DEBUG - Key pressed: c
+2025-05-29 15:17:01,441 - DEBUG - Selected text: ikkinchi sath
+2025-05-29 15:17:01,441 - DEBUG - Searching for keyword: ikkinchi sath
+2025-05-29 15:17:01,442 - DEBUG - Read 2760 lines from file
+2025-05-29 15:17:01,442 - DEBUG - Found match at line 23
+2025-05-29 15:17:01,442 - DEBUG - Found match at line 1310
+2025-05-29 15:17:01,443 - DEBUG - Total matches found: 2
+2025-05-29 15:17:01,443 - DEBUG - Found 2 snippets
+2025-05-29 15:17:01,443 - DEBUG - Showing popup
+2025-05-29 15:17:01,443 - DEBUG - Showing popup with 2 snippets
+2025-05-29 15:17:01,444 - DEBUG - Mouse click simulated for deselection
+2025-05-29 15:17:01,445 - DEBUG - Mouse released at position (246.75, 661.72265625)
+2025-05-29 15:17:01,616 - DEBUG - Key pressed: c
+2025-05-29 15:17:01,859 - DEBUG - Selected text: 
+2025-05-29 15:17:01,860 - DEBUG - Mouse released at position (246.75, 661.72265625)
+2025-05-29 15:17:02,049 - DEBUG - Key pressed: c
+2025-05-29 15:17:02,287 - DEBUG - Selected text: 
+2025-05-29 15:17:02,958 - DEBUG - Mouse released at position (64.78515625, 657.82421875)
+2025-05-29 15:17:03,131 - DEBUG - Key pressed: c
+2025-05-29 15:17:03,369 - DEBUG - Selected text: 
+2025-05-29 15:17:03,774 - DEBUG - Mouse released at position (170.95703125, 660.5078125)
+2025-05-29 15:17:03,950 - DEBUG - Key pressed: c
+2025-05-29 15:17:04,189 - DEBUG - Selected text: 
+2025-05-29 15:17:04,658 - DEBUG - Mouse released at position (325.82421875, 693.3125)
+2025-05-29 15:17:05,038 - DEBUG - Key pressed: c
+2025-05-29 15:17:05,277 - DEBUG - Selected text: 
+2025-05-29 15:17:07,424 - DEBUG - Mouse released at position (71.26953125, 662.67578125)
+2025-05-29 15:17:07,632 - DEBUG - Key pressed: c
+2025-05-29 15:17:07,870 - DEBUG - Selected text: protokollari stekining
+2025-05-29 15:17:07,870 - DEBUG - Searching for keyword: protokollari stekining
+2025-05-29 15:17:07,871 - DEBUG - Read 2760 lines from file
+2025-05-29 15:17:07,871 - DEBUG - Found match at line 12
+2025-05-29 15:17:07,871 - DEBUG - Found match at line 23
+2025-05-29 15:17:07,871 - DEBUG - Found match at line 34
+2025-05-29 15:17:07,871 - DEBUG - Found match at line 45
+2025-05-29 15:17:07,872 - DEBUG - Total matches found: 4
+2025-05-29 15:17:07,872 - DEBUG - Found 4 snippets
+2025-05-29 15:17:07,957 - DEBUG - Showing popup
+2025-05-29 15:17:07,957 - DEBUG - Showing popup with 4 snippets
+2025-05-29 15:17:07,957 - DEBUG - Mouse click simulated for deselection
+2025-05-29 15:17:07,959 - DEBUG - Mouse released at position (71.26953125, 662.67578125)
+2025-05-29 15:17:08,126 - DEBUG - Key pressed: c
+2025-05-29 15:17:08,365 - DEBUG - Selected text: 
+2025-05-29 15:17:10,177 - DEBUG - Key pressed: x
+2025-05-29 15:17:10,189 - DEBUG - Moved to next snippet: 2
+2025-05-29 15:17:10,572 - DEBUG - Key pressed: x
+2025-05-29 15:17:10,574 - DEBUG - Moved to next snippet: 3
+2025-05-29 15:17:10,990 - DEBUG - Key pressed: x
+2025-05-29 15:17:10,993 - DEBUG - Moved to next snippet: 4
+2025-05-29 15:17:11,203 - DEBUG - Key pressed: x
+2025-05-29 15:17:11,608 - DEBUG - Key pressed: x
+2025-05-29 15:17:11,915 - DEBUG - Key pressed: x
+2025-05-29 15:17:12,420 - DEBUG - Key pressed: z
+2025-05-29 15:17:12,422 - DEBUG - Moved to previous snippet: 3
+2025-05-29 15:17:12,592 - DEBUG - Key pressed: z
+2025-05-29 15:17:12,594 - DEBUG - Moved to previous snippet: 2
+2025-05-29 15:17:12,737 - DEBUG - Key pressed: z
+2025-05-29 15:17:12,739 - DEBUG - Moved to previous snippet: 1
+2025-05-29 15:17:12,929 - DEBUG - Key pressed: z
+2025-05-29 15:17:13,274 - DEBUG - Key pressed: x
+2025-05-29 15:17:13,276 - DEBUG - Moved to next snippet: 2
+2025-05-29 15:17:13,453 - DEBUG - Key pressed: x
+2025-05-29 15:17:13,459 - DEBUG - Moved to next snippet: 3
+2025-05-29 15:17:13,600 - DEBUG - Key pressed: x
+2025-05-29 15:17:13,606 - DEBUG - Moved to next snippet: 4
+2025-05-29 15:17:13,760 - DEBUG - Key pressed: x
+2025-05-29 15:17:14,073 - DEBUG - Key pressed: z
+2025-05-29 15:17:14,075 - DEBUG - Moved to previous snippet: 3
+2025-05-29 15:17:14,229 - DEBUG - Key pressed: z
+2025-05-29 15:17:14,232 - DEBUG - Moved to previous snippet: 2
+2025-05-29 15:17:14,396 - DEBUG - Key pressed: z
+2025-05-29 15:17:14,398 - DEBUG - Moved to previous snippet: 1
+2025-05-29 15:17:14,876 - DEBUG - Key pressed: x
+2025-05-29 15:17:14,882 - DEBUG - Moved to next snippet: 2
+2025-05-29 15:17:18,043 - DEBUG - Key pressed: x
+2025-05-29 15:17:18,044 - DEBUG - Moved to next snippet: 3
+2025-05-29 15:17:18,927 - DEBUG - Key pressed: x
+2025-05-29 15:17:18,933 - DEBUG - Moved to next snippet: 4
+2025-05-29 15:17:19,624 - DEBUG - Key pressed: x
+2025-05-29 15:17:20,604 - DEBUG - Mouse released at position (32.75390625, 664.53125)
+2025-05-29 15:17:20,808 - DEBUG - Key pressed: c
+2025-05-29 15:17:21,043 - DEBUG - Selected text: 
+2025-05-29 15:17:22,154 - DEBUG - Mouse released at position (158.28125, 834.10546875)
+2025-05-29 15:17:22,378 - DEBUG - Key pressed: c
+2025-05-29 15:17:22,609 - DEBUG - Selected text: 
+2025-05-29 15:17:22,640 - DEBUG - Key pressed: m
+2025-05-29 15:17:22,719 - DEBUG - Key pressed: a
+2025-05-29 15:17:22,825 - DEBUG - Key pressed: k
+2025-05-29 15:17:22,905 - DEBUG - Key pressed: e
+2025-05-29 15:17:22,981 - DEBUG - Key pressed: Key.space
+2025-05-29 15:17:23,260 - DEBUG - Key pressed: s
+2025-05-29 15:17:23,970 - DEBUG - Mouse released at position (555.16015625, 825.625)
+2025-05-29 15:17:24,084 - DEBUG - Key pressed: Key.ctrl
+2025-05-29 15:17:24,153 - DEBUG - Key pressed: c
+2025-05-29 15:17:24,389 - DEBUG - Selected text: 
+2025-05-29 15:17:25,587 - DEBUG - Mouse released at position (489.83984375, 840.57421875)
+2025-05-29 15:17:25,788 - DEBUG - Key pressed: c
+2025-05-29 15:17:26,024 - DEBUG - Selected text: 
+2025-05-29 15:17:26,945 - DEBUG - Key pressed: Key.ctrl
+2025-05-29 15:17:27,156 - DEBUG - Key pressed: c
+2025-05-29 15:18:17,321 - DEBUG - Mouse released at position (271.62890625, 655.71484375)
+2025-05-29 15:18:17,546 - DEBUG - Key pressed: c
+2025-05-29 15:18:17,785 - DEBUG - Selected text: stekining ik
+2025-05-29 15:18:17,786 - DEBUG - Searching for keyword: stekining ik
+2025-05-29 15:18:17,787 - DEBUG - Read 2760 lines from file
+2025-05-29 15:18:17,788 - DEBUG - Found match at line 23
+2025-05-29 15:18:17,788 - DEBUG - Found match at line 2420
+2025-05-29 15:18:17,788 - DEBUG - Total matches found: 2
+2025-05-29 15:18:17,788 - DEBUG - Found 2 snippets
+2025-05-29 15:18:17,935 - DEBUG - Showing popup
+2025-05-29 15:18:17,936 - DEBUG - Showing popup with 2 snippets
+2025-05-29 15:18:17,986 - DEBUG - Mouse click simulated for deselection
+2025-05-29 15:18:18,028 - DEBUG - Mouse released at position (271.62890625, 655.71484375)
+2025-05-29 15:18:18,188 - DEBUG - Key pressed: c
+2025-05-29 15:18:18,424 - DEBUG - Selected text: stekining ik
+2025-05-29 15:18:18,424 - DEBUG - Searching for keyword: stekining ik
+2025-05-29 15:18:18,425 - DEBUG - Read 2760 lines from file
+2025-05-29 15:18:18,425 - DEBUG - Found match at line 23
+2025-05-29 15:18:18,426 - DEBUG - Found match at line 2420
+2025-05-29 15:18:18,426 - DEBUG - Total matches found: 2
+2025-05-29 15:18:18,426 - DEBUG - Found 2 snippets
+2025-05-29 15:18:18,426 - DEBUG - Showing popup
+2025-05-29 15:18:18,427 - DEBUG - Showing popup with 2 snippets
+2025-05-29 15:18:18,427 - DEBUG - Mouse click simulated for deselection
+2025-05-29 15:18:18,428 - DEBUG - Mouse released at position (271.62890625, 655.71484375)
+2025-05-29 15:18:18,593 - DEBUG - Key pressed: c
+2025-05-29 15:18:18,834 - DEBUG - Selected text: 
+2025-05-29 15:18:21,686 - DEBUG - Mouse released at position (518.41796875, 735.65234375)
+2025-05-29 15:18:21,898 - DEBUG - Key pressed: c
+2025-05-29 15:18:22,119 - DEBUG - Selected text: 
+2025-05-29 15:18:23,270 - DEBUG - Mouse released at position (830.3046875, 756.16796875)
+2025-05-29 15:18:23,474 - DEBUG - Key pressed: c
+2025-05-29 15:18:23,713 - DEBUG - Selected text: 
+2025-05-29 15:18:25,387 - DEBUG - Mouse released at position (814.859375, 778.0546875)
+2025-05-29 15:18:25,574 - DEBUG - Key pressed: c
+2025-05-29 15:18:25,812 - DEBUG - Selected text: 
+2025-05-29 15:18:27,821 - DEBUG - Mouse released at position (665.47265625, 702.98828125)
+2025-05-29 15:18:28,035 - DEBUG - Key pressed: c
+2025-05-29 15:18:28,273 - DEBUG - Selected text: 
+2025-05-29 15:18:30,670 - DEBUG - Mouse released at position (452.78515625, 747.57421875)
+2025-05-29 15:18:30,875 - DEBUG - Key pressed: c
+2025-05-29 15:18:31,111 - DEBUG - Selected text: 
+2025-05-29 15:18:33,071 - DEBUG - Mouse released at position (594.0703125, 28.62109375)
+2025-05-29 15:18:33,281 - DEBUG - Key pressed: c
+2025-05-29 15:18:33,519 - DEBUG - Selected text: 
+2025-05-29 15:18:33,671 - DEBUG - Mouse released at position (580.62890625, 38.3671875)
+2025-05-29 15:18:33,879 - DEBUG - Key pressed: c
+2025-05-29 15:18:34,116 - DEBUG - Selected text: 
+2025-05-29 15:18:34,121 - DEBUG - Mouse released at position (580.62890625, 38.3671875)
+2025-05-29 15:18:34,316 - DEBUG - Key pressed: c
+2025-05-29 15:18:34,556 - DEBUG - Selected text: 
+2025-05-29 15:18:37,004 - DEBUG - Mouse released at position (715.6328125, 716.33203125)
+2025-05-29 15:18:37,196 - DEBUG - Key pressed: c
+2025-05-29 15:18:37,437 - DEBUG - Selected text: 
+2025-05-29 15:18:37,887 - DEBUG - Mouse released at position (731.6328125, 751.578125)
+2025-05-29 15:18:38,096 - DEBUG - Key pressed: c
+2025-05-29 15:18:38,335 - DEBUG - Selected text: 
+2025-05-29 15:18:39,121 - DEBUG - Mouse released at position (846.0859375, 774.20703125)
+2025-05-29 15:18:39,322 - DEBUG - Key pressed: c
+2025-05-29 15:18:39,561 - DEBUG - Selected text: 
+2025-05-29 15:18:40,690 - DEBUG - Key pressed: x
+2025-05-29 15:18:40,693 - DEBUG - Moved to next snippet: 2
+2025-05-29 15:18:41,206 - DEBUG - Key pressed: x
+2025-05-29 15:18:41,688 - DEBUG - Mouse released at position (630.3359375, 757.2109375)
+2025-05-29 15:18:41,738 - DEBUG - Key pressed: x
+2025-05-29 15:18:41,897 - DEBUG - Key pressed: c
+2025-05-29 15:18:42,133 - DEBUG - Selected text: 
+2025-05-29 15:18:42,904 - DEBUG - Mouse released at position (1142.890625, 877.3671875)
+2025-05-29 15:18:43,111 - DEBUG - Key pressed: c
+2025-05-29 15:18:43,348 - DEBUG - Selected text: 
+2025-05-29 15:18:43,498 - DEBUG - Key pressed: x
+2025-05-29 15:18:43,857 - DEBUG - Key pressed: z
+2025-05-29 15:18:43,859 - DEBUG - Moved to previous snippet: 1
+2025-05-29 15:18:44,277 - DEBUG - Key pressed: x
+2025-05-29 15:18:44,279 - DEBUG - Moved to next snippet: 2
+2025-05-29 15:18:44,499 - DEBUG - Key pressed: x
+2025-05-29 15:18:44,680 - DEBUG - Key pressed: z
+2025-05-29 15:18:44,682 - DEBUG - Moved to previous snippet: 1
+2025-05-29 15:18:44,861 - DEBUG - Key pressed: x
+2025-05-29 15:18:44,867 - DEBUG - Moved to next snippet: 2
+2025-05-29 15:18:44,973 - DEBUG - Key pressed: z
+2025-05-29 15:18:44,976 - DEBUG - Moved to previous snippet: 1
+2025-05-29 15:18:45,089 - DEBUG - Key pressed: x
+2025-05-29 15:18:45,094 - DEBUG - Moved to next snippet: 2
+2025-05-29 15:18:45,239 - DEBUG - Key pressed: z
+2025-05-29 15:18:45,242 - DEBUG - Moved to previous snippet: 1
+2025-05-29 15:18:45,368 - DEBUG - Key pressed: x
+2025-05-29 15:18:45,370 - DEBUG - Moved to next snippet: 2
+2025-05-29 15:18:45,505 - DEBUG - Key pressed: z
+2025-05-29 15:18:45,506 - DEBUG - Moved to previous snippet: 1
+2025-05-29 15:18:45,573 - DEBUG - Key pressed: x
+2025-05-29 15:18:45,575 - DEBUG - Moved to next snippet: 2
+2025-05-29 15:18:45,954 - DEBUG - Mouse released at position (451.57421875, 787.0859375)
+2025-05-29 15:18:46,155 - DEBUG - Key pressed: c
+2025-05-29 15:18:46,394 - DEBUG - Selected text: 
+2025-05-29 15:18:47,420 - DEBUG - Mouse released at position (499.296875, 813.90234375)
+2025-05-29 15:18:47,617 - DEBUG - Key pressed: c
+2025-05-29 15:18:47,854 - DEBUG - Selected text: 
+2025-05-29 15:18:47,926 - DEBUG - Key pressed: c
