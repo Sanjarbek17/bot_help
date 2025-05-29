@@ -156,7 +156,9 @@ def create_popup(text_list):
         def update_display():
             for widget in popup_window.winfo_children():
                 if isinstance(widget, tk.Label):
-                    widget.config(text=text_list[current_index])
+                    widget.config(
+                        text=f"Match {current_index + 1}/{len(text_list)}:\n{text_list[current_index]}"
+                    )
 
         def on_key(event):
             global current_index
@@ -176,7 +178,7 @@ def create_popup(text_list):
                         on_move.last_position = (x, y)
 
                     last_x, last_y = on_move.last_position
-                    if abs(x - last_x) > 5 or abs(y - last_y) > 5:
+                    if abs(x - last_x) > 10 or abs(y - last_y) > 10:
                         popup_window.destroy()
                         setattr(sys.modules[__name__], "popup_window", None)
 
@@ -192,7 +194,7 @@ def create_popup(text_list):
 
         label = tk.Label(
             popup_window,
-            text=text_list[0],
+            text=f"Match 1/{len(text_list)}:\n{text_list[0]}",
             font=("Courier", 9),
             bg="white",
             fg="black",
