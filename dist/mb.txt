@@ -1,0 +1,1029 @@
+
+TRUE va FALSE  qiymatini qabul qiluvchi toifalar qanday nomlanadi?
+====
+#Bul toifali
+====
+Butun toifali
+====
+Sana va vaqt toifali
+====
+Qator toifali
+
++++++
+
+Tizimdagi ma’lumotlarni qayta tiklash uchun MB qanday imkoniyatidan foydalanish zarur
+====
+#Backup
+====
+Tables
+====
+Config
+====
+Memory
+
++++++
+
+UPDATE operatorini vazifasi?
+====
+#Jadvalda qatorni o‘zgartirish
+====
+Jadvalga satr qo‘shish
+====
+Jadvalni o‘zgartirish
+====
+Jadvaldan tanlash
+
++++++
+
+3 NFga o`tishdan oldin jadval qaysi normal formada bo`lishi shart
+====
+#2 NF
+====
+4 NF
+====
+5 NF
+====
+6 NF
+
++++++
+
+Jadvaldagi ustunga qo‘yilgan qanday cheklanish ustun qiymatlarining takrorlanmasligini ta’minlaydi
+====
+#UNIQUE
+====
+FOREIGN KEY
+====
+NOT NULL
+====
+CHECK
+
++++++
+
+Ma’lumotlarni taqdim etishning ierarxik modelida ma’lumotlar bog'lanishi qanday tasvirlanadi
+====
+#daraxt turidagi graf
+====
+ixtiyoriy graf
+====
+ro‘yxatlar
+====
+jadvallar
+
++++++
+Select RPAD(oyinchi, 11, '*') from func; So`rov natijasini tanlang
+====
+#Ahmedov****
+====
+****Ahmedov
+====
+Ahmedov***
+====
+**********Ahmedov
+
++++++
+
+Select LPAD(oyinchi, 11, '*') from fun. So`rov natijasini tanlang
+====
+#****Ahmedov
+====
+**********Ahmedov
+====
+Ahmedov****
+====
+Ahmedov******
+
++++++
+
+LIKE to`g`ri qo'llanilgan so`rovni ko`rsating
+====
+#SELECT   * FROM  Products WHERE   Name LIKE ‘%ford%’
+====
+SELECT   * FROM  LIKE WHERE   Name  Products ‘%ford%’
+====
+SELECT  LIKE (‘%ford%’)  FROM  Products WHERE  Name  
+====
+SELECT   * FROM  Products,   Name LIKE ‘%ford%’
+
++++++
+
+Qaysi javobda LIKE operatoridan to'g'ri foydalanilgan
+====
+#SELECT * from Xodim WHERE Ism LIKE '%or%'
+====
+SELECT * from Xodim WHERE LIKE `Ism`  '%or'
+====
+SELECT * from Xodim  `Ism`  WHERE LIKE '%or%'
+====
+SELECT * from Xodim WHERE Ism LIKE ='or'
+
++++++
+
+Xodim jadvalidan ixtiyoriy atributni o'chirish amali qaysi javobda to‘g‘ri ko‘rsatilgan
+====
+#ALTER TABLE `Xodim` DROP  COLUMN `Tel_raqam` text(15) 
+====
+ALTER TABLE `Xodim` DELETE `Jinsi` varchar(10) not null
+====
+ALTER TABLE `Xodim` DROP RENAME `Yoshi` int(3) not null
+====
+ALTER TABLE `Xodim` CHANGE  DROP `Tel_raqam` text(15)  not null
+
++++++
+
+Talaba jadvalidan familiyasi B harfi bilan boshlanib, V harfi bilan tugovchilarini sonini sanash so‘rovi qaysi javobda to‘g‘ri ko‘rsatilgan
+====
+#SELECT COUNT(*) as `Natija`  from  `Talaba`  WHERE  `Familiyasi`  LIKE  `B%V`
+====
+SELECT COUNT(*) as `Natija` from `Talaba` WHERE  LIKE `Familiyasi` `B%V`
+====
+SELECT COUNT(*) as `Natija` from `Talaba` WHERE LIKE `Familiyasi` `B%V%`
+====
+SELECT COUNT(*) as `Natija` from `Talaba` WHERE `Familiyasi` LIKE `%B%V`
+
++++++
+
+Fanlar jadvalidan `fan_soati` 80 dan yuqori bo‘lganlarini nomi bo‘yicha guruhlab chiqarish so‘rovi qaysi javobda to‘g‘ri ko‘rsatilgan
+====
+#SELECT  `Fan_nomi`, MAX(`fan_soati`) as `Natija` from `Fanlar` GROUP BY `Fan_nomi`  HAVING MAX(`fan_soati`)>80
+====
+SELECT  `Fan_nomi`, MAX(`fan_soati`)  from `Fanlar` GROUP BY `Fan_nomi`  HAVING MAX(`fan_soati`)>=80
+====
+SELECT  `Fan_nomi`, MAX(`fan_soati`) as `Natija` GROUP BY `Fan_soati`  HAVING MAX(`fan_soati`)>80
+====
+SELECT  `Fan_nomi`, MAX(`fan_soati`) as `Natija` from `Fanlar` GROUP BY `Fan_nomi`  HAVING MAX(`fan_nomi`)>80
+
++++++
+
+Xodim jadvalidan ixtiyoriy atributning ma'lumot tipini o'zgartirish amali qaysi javobda to‘g‘ri ko‘rsatilgan
+====
+#ALTER TABLE `Xodim` MODIFY  `Jinsi` varchar(5) 
+====
+ALTER TABLE `Xodim` MODIFY ALTER `Jinsi` varchar(10) not null
+====
+ALTER TABLE `Xodim` MODIFY CHANGE `Yoshi int(3) not null
+====
+ALTER TABLE `Xodim` CHANGE COLUMN `Tel_raqam` text(15)  not null
+
++++++
+
+Mahsulot jadvalidan ixtiyoriy atributning ma'lumot tipini o'zgartirish amali qaysi javobda to‘g‘ri ko‘rsatilgan
+====
+#ALTER TABLE `Mahsulot` MODIFY  `narxi` varchar(15)  null
+====
+ALTER TABLE `Mahsulot` MODIFY ALTER `nomi` varchar(10) null
+====
+ALTER TABLE `Mahsulot`  MODIFY CHANGE `nomi`  text(3) null
+====
+ALTER TABLE `Mahsulot` CHANGE COLUMN `narxi` text(15)  null
+
++++++
+
+MySQL da  CREATE VIEW operatori ishlatilsa
+====
+#2 ta jadvaldan kerakli ustunlar tanlanadi va virtual usulda ko’rsatiladi
+====
+Dinamik jadvaldan ma’lumot ko’rsatiladi
+====
+har doim har xil
+====
+VIEW  jadvallarni ko’rsatish uchun hizmat qiladi
+
++++++
+
+MySQL so’rov bajarilsa natijasi qanday bo’ladi? SELECT MAX(Baho) AS Katta_ball FROM Yakuniy_Nazorat;
+====
+#Yakuniy_Nazorat jadvalining Baho ustunidagi ma’lumotlarni eng kattasini Katta_ball deb nomlab ko’rsatish
+====
+Yakuniy_Nazorat jadvalidagi Baho ustunidagi ma’lumotlarni o’rtachasini Katta_ball deb nomlab ko’rsatish
+====
+MAX(Baho) nomli jadvaldan Baho ustunidagi ma’lumotlarni o’rtachasini Katta_ball deb nomlab ko’rsatish
+====
+KattaNarx  jadvalidan MAX(Baho) nomli ustunidagi ma’lumotlarni eng kattasini ko’rsatish
+
++++++
+
+INSERT INTO  operatori vazifasi?
+====
+#Ma’lumotlarni jadvalga kiritish va satr qo’shish  uchun
+====
+Ma’lumotlarni ustunga kiritish va yangi maydon qo’shish  uchun
+====
+Ma’lumotlarni maydonga kiritish va yangi ustun qo’shish  uchun
+====
+Ma’lumotlardagi maydon tipini o’zgartirish uchun
+
++++++
+
+Qaysi javobda LIKE operatoridan to'g'ri foydalanilgan
+====
+#SELECT * from Talaba WHERE `Familiyasi` LIKE '%ev'
+====
+SELECT * from Talaba WHERE LIKE `Familiyasi`  '%ev'
+====
+SELECT * from Talaba  `Familiyasi`  WHERE LIKE '%ev%'
+====
+SELECT * from Talaba WHERE `Familiyasi`  LIKE 'ev'
+
++++++
+
+Berilgan misoldagi ‘number’ so’zi ?: SELECT * FROM STUDENT WHERE group_id IN (SELECT id FROM group WHERE number=‘217-18’)
+====
+#ustun
+====
+qator
+====
+birlashuv
+====
+jadval
+
++++++
+
+Quyidagi berilgan MySQL so’rovini ishga tushirsa sintaksis xato bor deb, bajarilmaydigan so’rovni toping.
+====
+#INSERT INTO CUSTOMERS (ID,NAME,AGE,ADDRESS,SALARY) VALUES (1, 'Rustam', 32, 'Andijon', Done );
+====
+INSERT INTO CUSTOMERS (ID,NAME,AGE,ADDRESS,SALARY)  VALUES (2, 'Khurshid', 25, 'Denov', 1500.00 );
+====
+INSERT INTO CUSTOMERS (ID,NAME,AGE,ADDRESS,SALARY) VALUES (3, 'Kamronbek', 23, 'Karshi', 2000.00 );
+====
+INSERT INTO CUSTOMERS (ID,NAME,AGE,ADDRESS,SALARY) VALUES (4, 'Charos', 25, 'Chirchiq', 6500.00 );
+
++++++
+
+SELECT * FROM STUDENT WHERE SURNAME LIKE 'P%';
+====
+#P harfi bilan boshlanadigan familyalar chiqadi.
+====
+P bilan tugovchi familyalar chiqadi.
+====
+Hech nima chiqmaydi
+====
+P harfiga teng bo‘lmagan familyalar chiqadi
+
++++++
+
+SELECT SUBSTR(`familiya`,1,1)  FROM `xodimlar`; so`rov natijasini toping
+====
+#Xodimlar familyalarining bosh harflarini chiqaradi
+====
+Xodimlar familyalarining birinchisini chiqaradi
+====
+Xodimlar familyalarining bitta harfini chiqaradi
+====
+So`rovda xatolik beradi
+
++++++
+
+SELECT TIMESTAMPDIFF(SECOND, '2015-04-29 22:14:55', '2015-04-29 22:24:18'); So`rov natijasini aniqlang
+====
+#soniyalar orasidagi farq
+====
+joriy vaqtni ko`rsatadi
+====
+ko`rsatilgan vaqt
+====
+xatolik yuz beradi
+
++++++
+
+LONG toifasi xotiradan qancha joy egallaydi
+====
+#Bitta jadval uchun Maksimal darajasi  4G
+====
+Bitta jadval uchun Maksimal darajasi   2 G
+====
+Bitta jadval uchun Maksimal darajasi  6 G
+====
+Bitta jadval uchun Maksimal darajasi  8 G
+
++++++
+
+MB dagi ma’lumotlarni tranzaktsiya mantiqiy birligi nima deb ataladi
+====
+#Tranzaksiya
+====
+Operatsiya
+====
+O‘qish
+====
+Yozuvlarni qayd qilish
+
++++++
+
+MBBTda DDL tilini vazifasi nima?
+====
+#Ma`lumotlarni tasvirlash tili
+====
+Ma`lumotlarni manipulyatsiya qilish tili
+====
+Ma`lumotlarni nazorat qilish tili
+====
+Ma`lumotlarni saqlash tili
+
++++++
+
+SQLda satrni uzunligini aniqlab beradigan operatorni toping
+====
+#Length
+====
+Substr
+====
+Mid
+====
+First
+
++++++
+
+Bir nechta amallar birligining bajarilishining nomlanishi nima deyiladi
+====
+#Tranzaksiya
+====
+Domen
+====
+Abstraktsiya
+====
+Sikllar
+
++++++
+
+GRANT SELECT, INSERT ON Talaba  TO 'Alimov_Doniyor'; so’rovi natijasi
+====
+#Talaba  jadvalga, 'Alimov_Doniyor' foydalanuvchiga  SELECT, INSERT operatorlarini ishlatishga ruxsat berish
+====
+Alimov_Doniyor'  jadvalga temporary foydalanuvchiga SELECT, INSERT operatorlarini ishlatishga ruxsat berish
+====
+Temporary jadvalga, 'Alimov_Doniyor' foydalanuvchiga  SELECT, INSERT operatorlarini ishlatishga ruxsat bermaslik
+====
+'Alimov_Doniyor'  jadvalga temporary foydalanuvchiga SELECT, INSERT operatorlarini ishlatishga ruxsat berimaslik
+
++++++
+
+Bitta tranzaksiya nechta operatsiyadan iborat bo‘lishi mumkin
+====
+#bir nechta
+====
+faqat bitta
+====
+faqat ikkita
+====
+kamida ikkitadan
+
++++++
+
+Ko‘p foydalanuvchili MBBTda ishlashning murakkabligi nimada
+====
+#Loyihalash, foydalanishda hamda boshqarishda  murakkabligi
+====
+Loyihalashning murakkabligi
+====
+Ekspluatatsiyaning murakkabligi
+====
+MB ga bo‘lgan talablar o‘zgaradi
+
++++++
+
+SELECT * FROM STUDENT WHERE SURNAME LIKE 'P%';
+====
+#P harfi bilan boshlanadigan familiyalar chiqadi.
+====
+P bilan tugovchi familiyalar chiqadi.
+====
+Natija chiqmaydi
+====
+P harfiga teng bo‘lmagan familiyalar chiqadi
+
++++++
+
+SELECT operatoridan keyin '*' belgisi nimani bildiradi?
+====
+#hamma ustunlarni belgilashni
+====
+hamma satrlarni belgilashni
+====
+satr qatorlari yulduzcha bilan shifrlanganini
+====
+bu belgidan foydalanib bo‘lmaydi
+
++++++
+
+Ichki bog‘lanish operatori – bu
+====
+#INNER JOIN
+====
+FULL OUTER JOIN
+====
+RIGHT OUTER JOIN
+====
+LEFT OUTER JOIN
+
++++++
+
+Chap tashqi bog‘lanish operatori – bu
+====
+#LEFT OUTER JOIN
+====
+INNER JOIN
+====
+FULL OUTER JOIN
+====
+RIGHT OUTER JOIN
+
++++++
+
+Qaysi operator yordamida «kesishuv» amali bajariladi
+====
+#INNER JOIN
+====
+UNION
+====
+DEVIDE
+====
+MINUS
+
++++++
+
+Relyatsion turdagi ma'lumotlar bazasi obyektlari necha o’lchovli jadvalni tashkil etadi?
+====
+#ikki
+====
+bir
+====
+uch
+====
+to'rt
+
++++++
+
+UPDATE operatorini qaysi kalit so’zi jadvalni aniq ustunlarini tanlab olish va o’zgartirish imkonini beradi?
+====
+#SET
+====
+AND va OR
+====
+SETUP
+====
+DATE
+
++++++
+
+Qaysi operator yordamida «tanlash» amali bajariladi
+====
+#SELECT + WHERE
+====
+UPDATE + WHERE
+====
+INSERT
+====
+DELETE + WHERE
+
++++++
+
+INSERT, UPDATE, DELETE quyidagi SQL tillarining  qaysi biriga tegishli?
+====
+#DML
+====
+DDL
+====
+DQL
+====
+DSL
+
++++++
+
+Qaysi predikat guruhlash uchun ishlatiladi?
+====
+#GROUP BY
+====
+WHERE
+====
+HAVING
+====
+ORDER BY
+
++++++
+
+DELETE operatorining vazifasi?
+====
+#Qatorni o‘chirish
+====
+Jadvalga satr qo‘shish
+====
+Jadvalni o‘zgartirish
+====
+Jadvaldan tanlash
+
++++++
+
+Quyidagi so‘rov nimani anglatadi: SELECT * FROM STUDENT;
+====
+#STUDENT jadvalini tanlash
+====
+STUDENT jadvalini yaratish
+====
+STUDENT jadvalini o'chirish
+====
+STUDENT jadvalini o'zgartirish
+
++++++
+
+CREATE operatorining vazifasi?
+====
+#Ma’lumotlar bazasida obyekt yaratish
+====
+Ma’lumotlar bazasida obyektni o‘chirish
+====
+Ma’lumotlar bazasida obyektni o‘zgartirish
+====
+Jadvalga qator qo‘shish
+
++++++
+
+MIN() agregat funksiyasining vazifasini ayting
+====
+#Belgilangan ustunning eng kichik qiymatini topish
+====
+Belgilangan qatorning eng kichik qiymatini topish
+====
+Belgilangan elementning eng kichik qiymatini topish
+====
+Belgilangan obyektning eng kichik qiymatini topish
+
++++++
+
+MAX() agregat funksiyasining vazifasini ayting
+====
+#Belgilangan ustunning eng katta qiymatini topish
+====
+Belgilangan qatorning eng katta qiymatini topish
+====
+Belgilangan elementning eng katta qiymatini topish
+====
+Belgilangan obyektning eng katta qiymatini topish
+
++++++
+
+Jadvaldagi  ustunga  qo‘yilgan  qanday  cheklanish ustun  qiymatlarining  bo‘sh  bo‘lmasligini ko‘rsatadi
+====
+#NOT NULL
+====
+FORGN KEY
+====
+UNIQUE
+====
+CHECK
+
++++++
+
+VARCHAR toifasi bu - 
+====
+#o‘zgaruvchan toifadagi satr tipi
+====
+butun tip
+====
+sana va vaqt
+====
+moddiy son
+
++++++
+
+Relyatsion  ma’lumotlar bazasida qaysi so‘rov tillari qo‘llaniladi
+====
+#SQL
+====
+Objective C
+====
+Haskell
+====
+Basic
+
++++++
+
+Relyatsion ma’lumotlar bazasidagi asosiy tushunchalarni aniqlang?
+====
+#Jadval, maydon, yozuv
+====
+Jadval, ustun, qator
+====
+Jadval, ustun, yozuv
+====
+Jadval, ustun
+
++++++
+
+Relyatsion ma’lumotlar bazasining asosiy tushunchalarini aniqlang?
+====
+#munosabatlarning majmuasi yoki ikkilik jadvallari
+====
+munosabatlarning majmuasi yoki ikkilik bazasi
+====
+munosabatlarning majmuasi yoki ikkilik qatorlar
+====
+munosabatlarning majmuasi yoki ikkilik ustunlar
+
++++++
+
+Ma`lumotlar bazasidagi ma`lumotlarni foydalanuvchilarga interfeys orqali ko`rinishi qaysi tavsiflashga tegishli
+====
+#logik
+====
+lizik
+====
+konseptual
+====
+logik va fizik
+
++++++
+
+Bitta MBBTda nechtagacha ma'lumotlar bazasi bo`lishi mumkin
+====
+#bir nechta
+====
+bitta
+====
+ikkita
+====
+turli MBBTlarda turlicha
+
++++++
+
+Ma'lumotlar bazasini boshqarish tizimidagi foydalanuvchilar uchun mos abstraksiya bosqichini ko‘rsating
+====
+#Tashqi
+====
+Konseptual
+====
+Ichki
+====
+Jismoniy
+
++++++
+
+Fayllarni boshqarish qanday amalga oshiriladi
+====
+#Fayl tizimi orqali 
+====
+Kataloglar orqali
+====
+Foydalanuvchilar roli orqali
+====
+Fayl nomlari orqali
+
++++++
+
+Atributlarda saqlanadigan ma'lumotlar bu-
+====
+#atribut qiymatlari
+====
+atribut tizimlari
+====
+ma'lumotlar bazasi tizimlari
+====
+ma'lumotlar bazasini boshqarish tizimlari
+
++++++
+
+Ma’lumotlarni tavsiflanishiga ko'ra nechtaga ajratish mumkin
+====
+#Ikki (Logik va fizik)
+====
+Uch (Logik, fizik, Maydon)
+====
+to'rt (Logik, Colloborate, Fixed, Dinamik)
+====
+Besh (Fizik, Tranzaktion, Concat, Insert, Set)
+
++++++
+
+MBBT arxitekturasining nechta  bosqichi mavjud
+====
+#3 ta (Tashqi, Konseptual va Fizik)
+====
+4 ta  (Logik, Colloborate, Fixed, Dinamik)
+====
+5 ta (Fizik, Tranzaktion, Concat, Insert, Set)
+====
+2 ta (Fixed, Dinamik)
+
++++++
+
+Ma’lumotlar bazasini boshqarish tizimi deganda nimani tushunasiz?
+====
+#ma'lumotlar bazalarini yaratish va foydalanish uchun boshqarishni ta'minlovchi, maxsus lingvistik vositalar majmuiga ega bo`lgan dasturiy ta`minot
+====
+ma'lumotlar bazalarini yaratish uchun dasturiy ta'minot
+====
+ma'lumotlar bazalarini yaratish va foydalanish uchun dasturiy ta'minot
+====
+ma'lumotlar bazalarini yaratish va foydalanish uchun boshqarishni ta'minlovchi dasturiy ta'minot
+
++++++
+
+Ob’еkt atributi deganda nima tushuniladi?
+====
+#jadval ustuni
+====
+jadval qatori
+====
+jadval katakchalari
+====
+jadval
+
++++++
+
+Mohiyat aloqa diagrammasida uchraydigan shaklni toping
+====
+#Ellips
+====
+Parallelogram
+====
+Aylana
+====
+Trapetsiya
+
++++++
+
+Zamonaviy ma'lumotlar bazasini boshqarish tizimlari fayl tizimining qaysi muammosiga yechim bo'la oladi
+====
+#ko‘p foydalanuvchilar bilan ishlashga
+====
+katta hajmdagi axborotni saqlashga
+====
+ma’lumotlarni saralashga
+====
+ma’lumotlarni strukturalashga
+
++++++
+
+MBBT arxitekturasining bosqichi hisoblanmaydigan javob variantini ko‘rsating
+====
+#Datalogik
+====
+Logik
+====
+Konseptual
+====
+Fizik
+
++++++
+
+Markazlashtirilgan to`plam va ma’lumotlardan jamoaviy foydalanish zarur bo`lgan dasturiy, til, tashkiliy va texnik vositalar tizimi ........deb ataladi.
+====
+#ma’lumotlar banki
+====
+ma’lumotlar bazalari
+====
+ilovalar
+====
+ma’lumotlar lug’ati
+
++++++
+
+Ma’lumotlarni taqdim etish modeli bu-
+====
+#Malumotlar bazasida saqlanuvchi ma’lumotlarning mantiqiy strukturasi
+====
+Ma’lumotlar bazasida saqlanuvchi ma’lumotlarning fizik strukturasi
+====
+Ma’lumotlarning ierarxik strukturasi
+====
+Ma’lumotlarning tarmoq strukturasi
+
++++++
+
+Relyatsion algebra amallarini ko`rsating
+====
+#Kesishuv, birlashtirish, ayirish, dekard ko`paytma
+====
+Kesishuv, qo`shish, seleksiya, dekard ko`paytma
+====
+Kesishuv, seleksiya, ayirish, dekard ko`paytma
+====
+Kesishuv, qo`shish, ayirish, seleksiya,  dekard ko`paytma
+
++++++
+
+Ikkinchi normal formada quyidagicha talab qo‘yiladi:
+====
+#Jadvalning hamma maydonlari birinchi kalitga bog‘liq
+====
+Hamma maydonlar mustaqil
+====
+Hamma maydonlar  kalitsiz maydonlarga bog‘liq
+====
+Hamma maydonlar ikkilamchi kalitga bog’liq
+
++++++
+
+SQL kengaytmasi nimani anglatadi?
+====
+#Strukturalashgan so‘rov tili
+====
+Ketma-ket so‘rov tili
+====
+Standart so‘rov tili
+====
+Tezkor so‘rov tili
+
++++++
+
+Butun toifa keltirilgan javobni ko`rsating
+====
+#NUMERIC
+====
+FLOAT
+====
+TIMESTAMP
+====
+VARCHAR
+
++++++
+
+NOT, AND, OR operatorlari vazifasi nimadan iborat?
+====
+#Mantiqiy amallarni bajarish
+====
+Solishtirish ammallarini bajarish
+====
+O‘zlashtirish amallarini bajarish
+====
+Arifmetik amallar va operatorlar
+
++++++
+
+Ma’lumotlar bazasi jadvali nima uchun kerak?
+====
+#ma’lumotlarni saqlashga
+====
+ma’lumotlarni qayta ishlashga
+====
+ma’lumotlar bazasini kiritish va ularni ko‘zdan kechirish
+====
+qiyin dasturlar yaratishga
+
++++++
+
+Qidiruv so‘rovlarini tezlashtirish uchun qaysi MBBT mexanizmi ishlatiladi
+====
+#indekslar
+====
+ikkilamchi kalitlar
+====
+tranzaksiyalar
+====
+so‘rovlarni bajarilishini tezlashtirish mumkin emas
+
++++++
+
+AVG() agregat funksiyasining vazifasini ayting
+====
+#Belgilangan ustunning o`rta arifmetigini topish
+====
+Belgilangan qatorning o`rta arifmetigini topish
+====
+Belgilangan jadvalning o`rta arifmetigini topish
+====
+Belgilangan ob`yektning o`rta arifmetigini topish
+
++++++
+
+CREATE TABLE jadval yaratish operatorida NOT NULL nimani anglatadi?
+====
+#Ustunga tegishli bo‘lgan satr qiymatlari bo‘sh bo‘lmasligini
+====
+Ustunga tegishli bo‘lgan satr qiymatlari bo‘sh bo‘lishligini
+====
+Jadval bo‘m bo‘shligini
+====
+Jadval satrlarida probellar bo‘lmasligini
+
++++++
+
+INSERT operatorini vazifasi?
+====
+#Jadvalga satr qo‘shish
+====
+Jadvalni o‘zgartirish
+====
+Jadvaldan tanlash
+====
+Qatorni o‘chirish
+
++++++
+
+CREATE TABLE jadval yaratish operatorida NULL nimani anglatadi?
+====
+#Ustunda qiymat bermaslik imkoniyatini
+====
+Ustunga tegishli bo‘lgan satr qiymatlari bo‘sh bo‘lmasligini
+====
+Jadval bo‘shligini
+====
+Jadval satrlarida probellar bo‘lmasligini
+
++++++
+
+UNION operatori vazifasi
+====
+#Jadvallarni birlashtiradi
+====
+Ikkita jadvalni yoniga qisqartiradi
+====
+Jadvallarni qisqartiradi
+====
+Jadvallarni ayiradi
+
++++++
+
+Select lpad(o'yinchi, 10, '*') from fun. So`rov natijasini tanlang
+====
+#****Suarez
+====
+**********Suarez
+====
+Suarez***
+====
+Suarez****
+
++++++
+
+Select name, surname from test1 UNION ALL select name, surname from test2;           So`rovdagi "ALL" qanday vazifa bajaradi?
+====
+#Jadvallar birlashtiriladi
+====
+Barcha ma`lumotlarni filtrlab birlashtiradi
+====
+Barcha ustunlarni birlashtiradi
+====
+Barcha jadvallarni birlashtiradi
+
++++++
+
+Select rpad(uyinchi, 10, '*') from func; So`rov natijasini tanlang
+====
+#Suarez****
+====
+****Suarez
+====
+Suarez***
+====
+**********Suarez
+
++++++
+
+Select * from table1 INNER JOIN table2 ON table1.name=table2.name; So`rovdagi "table2" nima?
+====
+#Jadval nomi
+====
+MB ga bo‘lgan talablar o‘zgaradi
+====
+Maxsus operator
+====
+Jadval qatori
+
++++++
+
+Select ism, yosh, familiya from test where ism like 'S%'; So`rovdagi "%" nima uchun ishlatiladi
+====
+#"S"dan keyin simvollar bo`lishi mumkin
+====
+"S"dan oldin simvollar bo`lishi mumkin
+====
+"S"dan keyin % bo`lishi mumkin
+====
+"S%" simvollar bo`lishi mumkin
+
++++++
+
+Jadval ustunidagi yig‘indi qiymati qanday hisoblanadi
+====
+#SUM funksiyasi yordamida
+====
+COUNT funksiyasi yordamida
+====
+MIN funksiyasi yordamida
+====
+MAX funksiyasi yordamida
+
++++++
+
+SELECT Name, Surname FROM talaba; So’rovida  Name, Surname nimani anglatadi
+====
+#Ustunlar 
+====
+Qatorlar
+====
+Jadvallar
+====
+Ob’yektlar
+
++++++
+
+DISTINCT operatorining vazifasi nima?
+====
+#ma'lumotlar orasida bir xil ma'lumot bo'lsa, bu ma'lumotni bitta qilib chiqaradi
+====
+ma'lumotlar orasida bir xil ma'lumot bo'lsa, bu ma'lumotni chiqarmaydi
+====
+ma'lumotlar orasida bir xil ma'lumot bo'lsa, bu ma'lumotni ikkalasini ham chiqaradi
+====
+Bun

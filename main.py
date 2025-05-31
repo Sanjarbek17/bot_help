@@ -9,13 +9,13 @@ import logging
 
 
 # Global variables
-TEXT_FILE_PATH = "kte.txt"
+TEXT_FILE_PATH = "mb.txt"
 popup_window = None
 last_text = ""
 current_index = 0
 root = None
 is_running = True
-MAX_RESULTS = 10  # Limit maximum number of results
+MAX_RESULTS = 4  # Limit maximum number of results
 
 
 # Add exception hook to catch unhandled exceptions
@@ -89,7 +89,7 @@ def check_accessibility_permissions():
         return False
 
 
-def search_in_file(keyword, context_lines=10):  # Reduced context lines tcp
+def search_in_file(keyword, context_lines=4):  # Reduced context lines tcp
     results = []
 
     try:
@@ -156,7 +156,9 @@ def create_popup(text_list):
         def update_display():
             for widget in popup_window.winfo_children():
                 if isinstance(widget, tk.Label):
-                    widget.config(text=text_list[current_index])
+                    widget.config(
+                        text=f"[{current_index+1}/{len(text_list)}]\n{text_list[current_index]}"
+                    )
 
         def on_key(event):
             global current_index
@@ -170,20 +172,10 @@ def create_popup(text_list):
                 popup_window.destroy()
 
         def on_move(x, y):
-            try:
-                if popup_window and popup_window.winfo_exists():
-                    if not hasattr(on_move, "last_position"):
-                        on_move.last_position = (x, y)
-
-                    last_x, last_y = on_move.last_position
-                    if abs(x - last_x) > 5 or abs(y - last_y) > 5:
-                        popup_window.destroy()
-                        setattr(sys.modules[__name__], "popup_window", None)
-
-                    on_move.last_position = (x, y)
-                return True
-            except Exception as e:
-                return False
+            if popup_window and popup_window.winfo_exists():
+                popup_window.destroy()
+                setattr(sys.modules[__name__], "popup_window", None)
+            return True
 
         popup_window.bind("<Key>", on_key)
         popup_window.focus_force()
@@ -192,7 +184,7 @@ def create_popup(text_list):
 
         label = tk.Label(
             popup_window,
-            text=text_list[0],
+            text=f"[{current_index+1}/{len(text_list)}]\n{text_list[0]}",
             font=("Courier", 9),
             bg="white",
             fg="black",
@@ -210,10 +202,10 @@ def create_popup(text_list):
         w = 300
         h = 200
         x = (sw // 2) - (w // 2)
-        y = sh - h - 100
+        y = sh - h  # Position at the very bottom of the screen
         popup_window.geometry(f"{w}x{h}+{x}+{y}")
 
-        mouse_listener = mouse.Listener(on_move=on_move)
+        mouse_listener = mouse.Listener(on_scroll=on_move)
         mouse_listener.daemon = True
         mouse_listener.start()
 
