@@ -95,6 +95,12 @@ def search_in_file(keyword, context_lines=4):  # Reduced context lines tcp
     try:
         if not os.path.exists(TEXT_FILE_PATH):
             logging.error(f"File not found: {TEXT_FILE_PATH}")
+            print(f"Error: File {TEXT_FILE_PATH} not found")
+            global is_running, root
+            is_running = False
+            if root and root.winfo_exists():
+                root.quit()
+                root.destroy()
             return [f"Error: File {TEXT_FILE_PATH} not found"]
 
         with open(TEXT_FILE_PATH, "r", encoding="utf-8") as file:
